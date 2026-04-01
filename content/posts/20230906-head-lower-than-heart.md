@@ -34,7 +34,10 @@ categories:
 * * *
 
 延伸閱讀：
-
-[「現在就是最好的練習時機！」](https://kt-lab.tw/2018/12/go-practice-now/) [練習日記：主題自然浮顯之慢瑜珈](https://kt-lab.tw/2017/01/self-practice-slow-yoga/) [Ardha uttanasana 變奏曲](https://kt-lab.tw/2016/03/ardha-uttanasana/) [怎麼樣才能輕鬆練？怎麼樣才能練輕鬆？](https://kt-lab.tw/2016/06/how-to-easily-practice/) [按部就班，即興演出](https://kt-lab.tw/2016/03/improvisation/)
+[「現在就是最好的練習時機！」](https://kt-lab.tw/2018/12/go-practice-now/)
+[練習日記：主題自然浮顯之慢瑜珈](https://kt-lab.tw/2017/01/self-practice-slow-yoga/)
+[Ardha uttanasana 變奏曲](https://kt-lab.tw/2016/03/ardha-uttanasana/)
+[怎麼樣才能輕鬆練？怎麼樣才能練輕鬆？](https://kt-lab.tw/2016/06/how-to-easily-practice/)
+[按部就班，即興演出](https://kt-lab.tw/2016/03/improvisation/)
 
 [](https://www.google.com/search?q=uttanasana)[](https://www.google.com/search?q=uttanasana)

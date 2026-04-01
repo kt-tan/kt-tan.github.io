@@ -58,4 +58,8 @@ tags:
 
 什麼意思？**「真實樣貌」從來就不是與生俱來、固定不變的內容，「真實樣貌」是一天一天練習所創造出來的結果。**
 
-延伸閱讀： [Taster’s Choice 品味者的選擇](https://kt-lab.tw/tasters-choice/) [框框是用來跳出去的！](https://kt-lab.tw/frames/) [你今天練習了什麼？](https://kt-lab.tw/what-you-practice-today/) [緊繃的相反詞是鬆弛，還是舒服自在？](https://kt-lab.tw/looseness-or-ease/)
+延伸閱讀：
+[Taster’s Choice 品味者的選擇](https://kt-lab.tw/tasters-choice/)
+[框框是用來跳出去的！](https://kt-lab.tw/frames/)
+[你今天練習了什麼？](https://kt-lab.tw/what-you-practice-today/)
+[緊繃的相反詞是鬆弛，還是舒服自在？](https://kt-lab.tw/looseness-or-ease/)

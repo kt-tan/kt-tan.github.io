@@ -55,4 +55,6 @@ tags:
 
 記得，「勿忘，勿肋」。
 
-延伸閱讀： [筆直坐久了覺得累，怎麼辦呢？](https://kt-lab.tw/2018/03/how-to-sit/) [「正確的呼吸」？](https://kt-lab.tw/2015/09/rib-movement/)
+延伸閱讀：
+[筆直坐久了覺得累，怎麼辦呢？](https://kt-lab.tw/2018/03/how-to-sit/)
+[「正確的呼吸」？](https://kt-lab.tw/2015/09/rib-movement/)

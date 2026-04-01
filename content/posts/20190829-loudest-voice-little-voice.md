@@ -45,4 +45,8 @@ tags:
 
 **那些幾乎都快要不太想再出聲的情緒、疼痛、疲倦、厭煩，當然我們真的注意到、意識到，當我們真正花精神、專注去傾聽，說不定這這傾聽本身，就已經是療癒的開始。**
 
-延伸閱讀： [你以為太晚了嗎？](https://kt-lab.tw/2017/03/never-too-late/) [傾聽身體的需求](https://kt-lab.tw/2017/03/listen-to-what-your-body-needs/) [感受身體的細微狀態，有什麼用？](https://kt-lab.tw/2017/06/why-subtlety/) [The World IS Sound 世界就是聲音](https://kt-lab.tw/2014/02/the-world-is-sound/)
+延伸閱讀：
+[你以為太晚了嗎？](https://kt-lab.tw/2017/03/never-too-late/)
+[傾聽身體的需求](https://kt-lab.tw/2017/03/listen-to-what-your-body-needs/)
+[感受身體的細微狀態，有什麼用？](https://kt-lab.tw/2017/06/why-subtlety/)
+[The World IS Sound 世界就是聲音](https://kt-lab.tw/2014/02/the-world-is-sound/)

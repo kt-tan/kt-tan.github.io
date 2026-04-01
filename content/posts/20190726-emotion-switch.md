@@ -46,4 +46,7 @@ tags:
 
 這就是瑜伽的魔法，這就是呼吸的魔法。
 
-延伸閱讀： [「現在就是最好的練習時機！」](https://kt-lab.tw/2018/12/go-practice-now/) [[瑜伽到底在練什麼] 系列：真的有變得比較輕鬆嗎？](https://kt-lab.tw/2018/10/real_principles/) [你能用動作講出多少故事？](https://kt-lab.tw/2018/10/freedom-liberation/)
+延伸閱讀：
+[「現在就是最好的練習時機！」](https://kt-lab.tw/2018/12/go-practice-now/)
+[[瑜伽到底在練什麼] 系列：真的有變得比較輕鬆嗎？](https://kt-lab.tw/2018/10/real_principles/)
+[你能用動作講出多少故事？](https://kt-lab.tw/2018/10/freedom-liberation/)

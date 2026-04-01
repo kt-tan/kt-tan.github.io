@@ -31,4 +31,7 @@ tags:
 
 一星期挑一兩個晚上來上瑜伽課，是給自己最好的禮物。
 
-延伸閱讀： [「現在就是最好的練習時機！」](https://kt-lab.tw/2018/12/go-practice-now/) [人為什麼會（開始）變老？](https://kt-lab.tw/2019/09/getting-aged/) [大叔、大嬸請注意：訓練雙腿的肌力，就是訓練腦力！](https://kt-lab.tw/2015/12/leg-power/)
+延伸閱讀：
+[「現在就是最好的練習時機！」](https://kt-lab.tw/2018/12/go-practice-now/)
+[人為什麼會（開始）變老？](https://kt-lab.tw/2019/09/getting-aged/)
+[大叔、大嬸請注意：訓練雙腿的肌力，就是訓練腦力！](https://kt-lab.tw/2015/12/leg-power/)

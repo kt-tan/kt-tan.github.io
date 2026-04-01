@@ -49,4 +49,9 @@ tags:
 
 地圖也可能會出錯，任何一位製圖者的觀察，都會受到本身的限制；而地貌也一定會隨時間和環境而改變。所以如果我們手邊可以也最好真的準備好幾份地圖，才能隨時拿來比較和修正。要有地圖，要有書，要有外在的知識來源可以參考。但盡信書不如無書，只靠 GPS 不小心還是會跌到山谷裡發生意外的。
 
-延伸閱讀： [牽一髮而動全身](https://kt-lab.tw/2016/04/upper-crossed-syndrome/) [牽一髮真的能動全身嗎？– Part 2](https://kt-lab.tw/2016/04/upper-crossed-syndrome-part-2/) [「答單的答案」](https://kt-lab.tw/2015/06/easy-answers/) [解剖學也教不來的事](https://kt-lab.tw/2016/10/what-anatomy-cant-teach/) [「靜坐沒辦法教，但可以學。」](https://kt-lab.tw/2015/08/be-taught-or-be-learnt/)
+延伸閱讀：
+[牽一髮而動全身](https://kt-lab.tw/2016/04/upper-crossed-syndrome/)
+[牽一髮真的能動全身嗎？– Part 2](https://kt-lab.tw/2016/04/upper-crossed-syndrome-part-2/)
+[「答單的答案」](https://kt-lab.tw/2015/06/easy-answers/)
+[解剖學也教不來的事](https://kt-lab.tw/2016/10/what-anatomy-cant-teach/)
+[「靜坐沒辦法教，但可以學。」](https://kt-lab.tw/2015/08/be-taught-or-be-learnt/)

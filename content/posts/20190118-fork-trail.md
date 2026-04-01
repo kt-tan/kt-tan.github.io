@@ -30,4 +30,8 @@ tags:
 
 看見叉路的出現，看見念頭的生起。平平靜靜，腳步堅定繼續走本來設定好要走的路。不用和叉路說再見。在心裡頭，我們會看見，生起的念頭，自然就會滅去。繼續跟著自己的呼吸，生生滅滅。
 
-延伸閱讀： [實用咒語系列之二：they are there, and you are here](https://kt-lab.tw/2018/10/they-are-there/) [創造出不一樣的「真實樣貌」](https://kt-lab.tw/2018/06/choice-options/) [「那你有看到一整片金黃色的光嗎？」](https://kt-lab.tw/2014/09/golden-light/) [Taster’s Choice 品味者的選擇](https://kt-lab.tw/2014/01/tasters-choice/)
+延伸閱讀：
+[實用咒語系列之二：they are there, and you are here](https://kt-lab.tw/2018/10/they-are-there/)
+[創造出不一樣的「真實樣貌」](https://kt-lab.tw/2018/06/choice-options/)
+[「那你有看到一整片金黃色的光嗎？」](https://kt-lab.tw/2014/09/golden-light/)
+[Taster’s Choice 品味者的選擇](https://kt-lab.tw/2014/01/tasters-choice/)

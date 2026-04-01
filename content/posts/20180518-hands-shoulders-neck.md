@@ -44,4 +44,8 @@ categories:
 
 或許也可以特別針對現代人常見的肩頸痠痛的問題來說：**在日常生活中，光是確實察覺、體驗到手、肩、頸的連動關係，說不定就足以讓我們開始進入肩頸的釋放囉。**
 
-延伸閱讀： [你的手能聽見什麼訊息？](https://kt-lab.tw/what-your-hands-hear/) [什麼是「進階練習」？](https://kt-lab.tw/advanced-practice/) [真正的聆聽](https://kt-lab.tw/true-listening/) [The World IS Sound 世界就是聲音](https://kt-lab.tw/the-world-is-sound-世界就是聲音/)
+延伸閱讀：
+[你的手能聽見什麼訊息？](https://kt-lab.tw/what-your-hands-hear/)
+[什麼是「進階練習」？](https://kt-lab.tw/advanced-practice/)
+[真正的聆聽](https://kt-lab.tw/true-listening/)
+[The World IS Sound 世界就是聲音](https://kt-lab.tw/the-world-is-sound-世界就是聲音/)

@@ -51,4 +51,9 @@ tags:
 
 練習如何接受生命的起承合，姿態優雅，或者，心情泰然地面對該來的變和化。
 
-延伸閱讀： [練習單腳站立，搶救退化的前庭覺！](https://kt-lab.tw/2016/09/stand-on-one-leg/) [大叔、大嬸請注意：你的腦子有沒有在做運動？](https://kt-lab.tw/2016/09/brain-aerobics/) [大叔、大嬸請注意：練習瑜珈，有效增加骨質密度！](https://kt-lab.tw/2015/12/bone-density/) [大叔、大嬸請注意：訓練雙腿的肌力，就是訓練腦力！](https://kt-lab.tw/2015/12/leg-power/) [半年「特別練習」回顧：為什麼要教「平常動作」](https://kt-lab.tw/2019/08/why-practice-fundamental-movement/)
+延伸閱讀：
+[練習單腳站立，搶救退化的前庭覺！](https://kt-lab.tw/2016/09/stand-on-one-leg/)
+[大叔、大嬸請注意：你的腦子有沒有在做運動？](https://kt-lab.tw/2016/09/brain-aerobics/)
+[大叔、大嬸請注意：練習瑜珈，有效增加骨質密度！](https://kt-lab.tw/2015/12/bone-density/)
+[大叔、大嬸請注意：訓練雙腿的肌力，就是訓練腦力！](https://kt-lab.tw/2015/12/leg-power/)
+[半年「特別練習」回顧：為什麼要教「平常動作」](https://kt-lab.tw/2019/08/why-practice-fundamental-movement/)

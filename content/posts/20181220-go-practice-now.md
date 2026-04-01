@@ -50,4 +50,9 @@ tags:
 
 來吧，開始練習吧。來教室一起練，在家裡自己練。
 
-延伸閱讀： [一場爭取休息時間的戰爭！](https://kt-lab.tw/2016/07/fight-for-your-right-to-rest/) [不是要照單全收](https://kt-lab.tw/2016/04/not-a-blanket-accetance/) [你沒有真的想放鬆](https://kt-lab.tw/2016/05/do-you-really-want-to-be-relaxed/) [你小歇睏一下，好無？](https://kt-lab.tw/2016/04/how-about-taking-a-rest/) [賺到的三分鐘](https://kt-lab.tw/2018/06/make-a-real-fortune/)
+延伸閱讀：
+[一場爭取休息時間的戰爭！](https://kt-lab.tw/2016/07/fight-for-your-right-to-rest/)
+[不是要照單全收](https://kt-lab.tw/2016/04/not-a-blanket-accetance/)
+[你沒有真的想放鬆](https://kt-lab.tw/2016/05/do-you-really-want-to-be-relaxed/)
+[你小歇睏一下，好無？](https://kt-lab.tw/2016/04/how-about-taking-a-rest/)
+[賺到的三分鐘](https://kt-lab.tw/2018/06/make-a-real-fortune/)

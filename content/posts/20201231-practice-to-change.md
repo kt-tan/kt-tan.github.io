@@ -36,4 +36,8 @@ categories:
 
 外在世界看起來這麼混亂、這麼辛苦的條件下，我們還能活著，還能吃飯，還能練習、學習，真的是很幸福、很快樂，讓人打心底覺得感謝。我想用自己的練習，尤其是「不用生氣」、「不用急」、「有耐性」這幾點，表達對自己、對朋友、對這個世界的感謝。
 
-延伸閱讀： [種下你的種子](https://kt-lab.tw/2016/01/seeds/) [一個簡單可行的預言](https://kt-lab.tw/2018/01/start-now/) [「不想打坐時，最需要打坐」](https://kt-lab.tw/2019/12/its-time-to-sit/) [新習慣來得有夠快](https://kt-lab.tw/2019/12/new-habit/)
+延伸閱讀：
+[種下你的種子](https://kt-lab.tw/2016/01/seeds/)
+[一個簡單可行的預言](https://kt-lab.tw/2018/01/start-now/)
+[「不想打坐時，最需要打坐」](https://kt-lab.tw/2019/12/its-time-to-sit/)
+[新習慣來得有夠快](https://kt-lab.tw/2019/12/new-habit/)

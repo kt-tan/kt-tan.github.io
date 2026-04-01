@@ -43,4 +43,7 @@ tags:
 
 別以為瑜伽課、動作課只是在伸展或拉筋，練愈來愈深的前彎或後彎，核心肌群要一定要愈來愈強，或者髖關節、肩關節的可動範圍愈大愈好。動作練習的世界寬廣得很！
 
-延伸閱讀： [Nobody-But-Yourself](https://kt-lab.tw/2018/10/nobody-but-yourself/) [「平常動作」之「理想的站姿」](https://kt-lab.tw/2019/01/ideal-standing-posture/) [多劇烈才算劇烈？](https://kt-lab.tw/2017/07/rhabdo/)
+延伸閱讀：
+[Nobody-But-Yourself](https://kt-lab.tw/2018/10/nobody-but-yourself/)
+[「平常動作」之「理想的站姿」](https://kt-lab.tw/2019/01/ideal-standing-posture/)
+[多劇烈才算劇烈？](https://kt-lab.tw/2017/07/rhabdo/)

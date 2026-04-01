@@ -63,4 +63,7 @@ categories:
 
 附註（更新）：6月22日星期六下午兩點「特別練習」課：「呼吸：技術與藝術」已經額滿囉！
 
-延伸閱讀： [你的姿勢阻礙了呼吸嗎？](https://kt-lab.tw/2016/03/posture-and-breathing/) [「正確的呼吸」？](https://kt-lab.tw/2015/09/rib-movement/) [勿忘，勿助](https://kt-lab.tw/2018/12/dont-forget/)
+延伸閱讀：
+[你的姿勢阻礙了呼吸嗎？](https://kt-lab.tw/2016/03/posture-and-breathing/)
+[「正確的呼吸」？](https://kt-lab.tw/2015/09/rib-movement/)
+[勿忘，勿助](https://kt-lab.tw/2018/12/dont-forget/)

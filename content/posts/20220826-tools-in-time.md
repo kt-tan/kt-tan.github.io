@@ -46,4 +46,9 @@ categories:
 
 * * *
 
-延伸閱讀： [玩工具可以，別被工具玩](https://kt-lab.tw/2019/08/dont-be-a-slave-of-your-tools/) [用手指來閱讀肋間](https://kt-lab.tw/2019/09/fingers-as-reading-tool/) [實用咒語系列之二：they are there, and you are here](https://kt-lab.tw/2018/10/they-are-there/) [聽見自己的身體在踅踅唸](https://kt-lab.tw/2017/05/conscious-breathing/) [細節搞定了，尾巴自然就高興得翹起來囉！（誤）XD](https://kt-lab.tw/2016/10/integration/)
+延伸閱讀：
+[玩工具可以，別被工具玩](https://kt-lab.tw/2019/08/dont-be-a-slave-of-your-tools/)
+[用手指來閱讀肋間](https://kt-lab.tw/2019/09/fingers-as-reading-tool/)
+[實用咒語系列之二：they are there, and you are here](https://kt-lab.tw/2018/10/they-are-there/)
+[聽見自己的身體在踅踅唸](https://kt-lab.tw/2017/05/conscious-breathing/)
+[細節搞定了，尾巴自然就高興得翹起來囉！（誤）XD](https://kt-lab.tw/2016/10/integration/)

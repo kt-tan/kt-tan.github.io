@@ -61,4 +61,7 @@ tags:
 
 一起來繼續玩出新的可能吧！
 
-延伸閱讀： [按部就班，即興演出](https://kt-lab.tw/2016/03/improvisation/) [框框是用來跳出去的！](https://kt-lab.tw/2017/02/frames/) [[關鍵字系列] 不要輕易為自己定型：anattā 是一種操作型定義、行動指南](https://kt-lab.tw/2018/04/not-nonself-but-not-self/)
+延伸閱讀：
+[按部就班，即興演出](https://kt-lab.tw/2016/03/improvisation/)
+[框框是用來跳出去的！](https://kt-lab.tw/2017/02/frames/)
+[[關鍵字系列] 不要輕易為自己定型：anattā 是一種操作型定義、行動指南](https://kt-lab.tw/2018/04/not-nonself-but-not-self/)

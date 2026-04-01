@@ -32,7 +32,7 @@ url: /schedule/
 
 * * *
 
-![](/images/iong-su-scaled.jpg)
+![](/images/iong-su.jpg)
 
 sè-kan bī hí koân chûn-chāi<br>
 世間未許權存在<br>

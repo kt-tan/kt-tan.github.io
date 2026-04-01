@@ -56,4 +56,8 @@ categories:
 
 本次課程還有名額，歡迎[來信報名](mailto:kt.bodymind.lab@gmail.com?subject=預約「完全釋放，徹底休息」特別練習)，或上[臉書專頁](https://www.facebook.com/kt.bodymind.lab/)私訊報名。
 
-延伸閱讀： [你小歇睏一下，好無？](https://kt-lab.tw/2016/04/how-about-taking-a-rest/) [千變萬化的](https://kt-lab.tw/2016/10/cm-constructive-rest/)[ Constructive Rest](https://kt-lab.tw/2016/10/cm-constructive-rest/) [緊繃的相反詞是鬆弛，還是舒服自在？](https://kt-lab.tw/2016/12/looseness-or-ease/)
+延伸閱讀：
+[你小歇睏一下，好無？](https://kt-lab.tw/2016/04/how-about-taking-a-rest/)
+[千變萬化的](https://kt-lab.tw/2016/10/cm-constructive-rest/)
+[ Constructive Rest](https://kt-lab.tw/2016/10/cm-constructive-rest/)
+[緊繃的相反詞是鬆弛，還是舒服自在？](https://kt-lab.tw/2016/12/looseness-or-ease/)

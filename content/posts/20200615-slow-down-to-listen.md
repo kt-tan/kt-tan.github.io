@@ -46,4 +46,8 @@ categories:
 
 好吧，我確定肚子真的餓了，要去找晚餐囉。
 
-延伸閱讀： [練習傾聽被掩蓋的聲音](https://kt-lab.tw/2019/08/loudest-voice-little-voice/) [傾聽身體的需求](https://kt-lab.tw/2017/03/listen-to-what-your-body-needs/) [全然專心，聆聽](https://kt-lab.tw/2017/11/bare-listening/) [身體是最誠實的？](https://kt-lab.tw/2016/11/listen-to-your-body/)
+延伸閱讀：
+[練習傾聽被掩蓋的聲音](https://kt-lab.tw/2019/08/loudest-voice-little-voice/)
+[傾聽身體的需求](https://kt-lab.tw/2017/03/listen-to-what-your-body-needs/)
+[全然專心，聆聽](https://kt-lab.tw/2017/11/bare-listening/)
+[身體是最誠實的？](https://kt-lab.tw/2016/11/listen-to-your-body/)

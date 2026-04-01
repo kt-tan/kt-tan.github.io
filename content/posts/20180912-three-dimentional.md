@@ -30,4 +30,6 @@ categories:
 
 **經過一天一天重覆的練習，突然有一天，我們意識到自己胸腔的運動，自己的呼吸動作，連結到自己的一個一個念頭，連結到自己的肩頸脊椎、軀幹四肢，原來這一切竟然都是那麼立體，那麼神奇，那麼令人讚嘆。那一刻，真的會讓人興奮到手腳冒汗，真的會讓人露出無意識的傻笑。**
 
-延伸閱讀： [飄浮的餘韻](https://kt-lab.tw/2017/12/la-camera-insabbiata/) [[瑜伽到底在練什麼] 系列：觀察的科學 Darśana Vijñāna](https://kt-lab.tw/2018/04/darsana-vijnana/)
+延伸閱讀：
+[飄浮的餘韻](https://kt-lab.tw/2017/12/la-camera-insabbiata/)
+[[瑜伽到底在練什麼] 系列：觀察的科學 Darśana Vijñāna](https://kt-lab.tw/2018/04/darsana-vijnana/)

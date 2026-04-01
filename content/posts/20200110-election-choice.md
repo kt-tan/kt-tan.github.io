@@ -55,4 +55,7 @@ tags:
 
 我們現在都還有寶貴的機會，請發揮智慧、摸著良心，及時採取該採取的行動。時時戒慎憂慮，在我們身處的這個地獄也似的世界裡，**尋找並學習辨認哪些人事物不是地獄，然後，讓他們有空間能繼續存活。**
 
-延伸閱讀： [多少才夠？](https://kt-lab.tw/2017/08/how-much-is-enough/) [幻想的，可能就只是幻想的](https://kt-lab.tw/2016/06/vikalpa/) [[瑜伽到底在練什麼] 系列：觀察的科學 Darśana Vijñāna](https://kt-lab.tw/2018/04/darsana-vijnana/)
+延伸閱讀：
+[多少才夠？](https://kt-lab.tw/2017/08/how-much-is-enough/)
+[幻想的，可能就只是幻想的](https://kt-lab.tw/2016/06/vikalpa/)
+[[瑜伽到底在練什麼] 系列：觀察的科學 Darśana Vijñāna](https://kt-lab.tw/2018/04/darsana-vijnana/)

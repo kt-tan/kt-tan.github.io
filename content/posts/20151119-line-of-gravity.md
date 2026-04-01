@@ -57,4 +57,8 @@ tags:
 
 （你一定知道，這個「重心」，不會只有物理上的意義。）
 
-延伸閱讀：[line of gravity](https://www.google.com.tw/search?q=center+of+gravity&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0CAgQ_AUoAWoVChMI1tjAtbqbyQIVy5OUCh3qqANt&biw=1280&bih=689)、[center of mass](https://www.google.com.tw/search?q=center+of+mass&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0CAgQ_AUoAWoVChMI0r-ivbqbyQIVgxuUCh0OtAEF&biw=1280&bih=689)、[line of gravity](https://www.google.com.tw/search?q=line+of+gravity&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0CAgQ_AUoAWoVChMIm5mUrbqbyQIVQxqUCh3UUg_T&biw=1280&bih=689)、[base of support](https://www.google.com.tw/search?client=safari&rls=en&biw=1280&bih=689&tbm=isch&sa=1&q=base+of+support&oq=base+of+support&gs_l=img.3..0l7j0i30l3.3753703.3753703.0.3754547.1.1.0.0.0.0.39.39.1.1.0....0...1c.1.64.img..0.1.39.yACggymmSNA)。
+延伸閱讀：
+[line of gravity](https://www.google.com.tw/search?q=center+of+gravity&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0CAgQ_AUoAWoVChMI1tjAtbqbyQIVy5OUCh3qqANt&biw=1280&bih=689)
+[center of mass](https://www.google.com.tw/search?q=center+of+mass&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0CAgQ_AUoAWoVChMI0r-ivbqbyQIVgxuUCh0OtAEF&biw=1280&bih=689)
+[line of gravity](https://www.google.com.tw/search?q=line+of+gravity&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0CAgQ_AUoAWoVChMIm5mUrbqbyQIVQxqUCh3UUg_T&biw=1280&bih=689)
+[base of support](https://www.google.com.tw/search?client=safari&rls=en&biw=1280&bih=689&tbm=isch&sa=1&q=base+of+support&oq=base+of+support&gs_l=img.3..0l7j0i30l3.3753703.3753703.0.3754547.1.1.0.0.0.0.39.39.1.1.0....0...1c.1.64.img..0.1.39.yACggymmSNA)

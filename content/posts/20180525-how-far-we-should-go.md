@@ -48,5 +48,7 @@ Leslie Kaminoff 有次上課時這麼說，
 那肌肉到底要鍛練到什麼程度才夠？天知道，就繼續練、繼續練啊。**不是一直練動作，而是練習靜下心來觀察身心狀態啦！**
 
 延伸閱讀：
-
-[其實，我家也有很漂亮的吸塵器](https://kt-lab.tw/vacuum-cleaner/) [別被政客騙了](https://kt-lab.tw/dont-be-fooled-by-politicians/) [揉麵糰](https://kt-lab.tw/kneading-dough/) [按部就班，即興演出](https://kt-lab.tw/improvisation/)
+[其實，我家也有很漂亮的吸塵器](https://kt-lab.tw/vacuum-cleaner/)
+[別被政客騙了](https://kt-lab.tw/dont-be-fooled-by-politicians/)
+[揉麵糰](https://kt-lab.tw/kneading-dough/)
+[按部就班，即興演出](https://kt-lab.tw/improvisation/)

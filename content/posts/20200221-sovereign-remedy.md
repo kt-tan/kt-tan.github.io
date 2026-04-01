@@ -56,4 +56,8 @@ categories:
 
 有特效藥當然很好（不會有副作用的特效藥更好）。努力保護好自己，可以不需要吃特效藥最好。
 
-延伸閱讀： [簡單的答案](https://kt-lab.tw/2015/06/easy-answers/) [神奇解藥何處尋？](https://kt-lab.tw/2016/08/easy-solution/) [傾聽身體的需求](https://kt-lab.tw/2017/03/listen-to-what-your-body-needs/) [沒太陽的時候，就自己生一顆出來吧！](https://kt-lab.tw/2016/03/gloomy-days/)
+延伸閱讀：
+[簡單的答案](https://kt-lab.tw/2015/06/easy-answers/)
+[神奇解藥何處尋？](https://kt-lab.tw/2016/08/easy-solution/)
+[傾聽身體的需求](https://kt-lab.tw/2017/03/listen-to-what-your-body-needs/)
+[沒太陽的時候，就自己生一顆出來吧！](https://kt-lab.tw/2016/03/gloomy-days/)

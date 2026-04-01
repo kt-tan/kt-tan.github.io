@@ -42,4 +42,6 @@ categories:
 
 下次碰到有人教我們要「提起正念」或者「發正念」的時候，不妨問一聲，應該要怎麼樣「提起」或者「發」正念呢？
 
-延伸閱讀： [正念到底是要幹嘛用的？](https://kt-lab.tw/what-is-mindfulness-for/) [不是要照單全收](https://kt-lab.tw/not-a-blanket-accetance/)
+延伸閱讀：
+[正念到底是要幹嘛用的？](https://kt-lab.tw/what-is-mindfulness-for/)
+[不是要照單全收](https://kt-lab.tw/not-a-blanket-accetance/)

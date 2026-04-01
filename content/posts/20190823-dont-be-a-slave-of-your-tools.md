@@ -31,4 +31,7 @@ tags:
 
 **不要只是一直和新工具談戀愛，找新鮮感，而且，還不專情！**
 
-延伸閱讀： [[瑜伽到底在練什麼] 系列：觀察的科學 Darśana Vijñāna](https://kt-lab.tw/2018/04/darsana-vijnana/) [想要大整型、微整型、還是局部雕塑？](https://kt-lab.tw/2017/03/shaping-ourselves/) [框框是用來跳出去的！](https://kt-lab.tw/2017/02/frames/)
+延伸閱讀：
+[[瑜伽到底在練什麼] 系列：觀察的科學 Darśana Vijñāna](https://kt-lab.tw/2018/04/darsana-vijnana/)
+[想要大整型、微整型、還是局部雕塑？](https://kt-lab.tw/2017/03/shaping-ourselves/)
+[框框是用來跳出去的！](https://kt-lab.tw/2017/02/frames/)

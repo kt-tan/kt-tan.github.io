@@ -40,4 +40,8 @@ categories:
 
 畢竟，僵硬緊繃的手臂（以及差不多都會跟隨出現的肩頸痠痛）不太可能是我們練習的目的吧？
 
-延伸閱讀： [多劇烈才算劇烈？](https://kt-lab.tw/2017/07/rhabdo/) [線的這邊，和那邊](https://kt-lab.tw/2017/10/once-you-lose-breath/) [緊繃的相反詞是鬆弛，還是舒服自在？](https://kt-lab.tw/2016/12/looseness-or-ease/) [怎麼樣才能輕鬆練？怎麼樣才能練輕鬆？](https://kt-lab.tw/2016/06/how-to-easily-practice/)
+延伸閱讀：
+[多劇烈才算劇烈？](https://kt-lab.tw/2017/07/rhabdo/)
+[線的這邊，和那邊](https://kt-lab.tw/2017/10/once-you-lose-breath/)
+[緊繃的相反詞是鬆弛，還是舒服自在？](https://kt-lab.tw/2016/12/looseness-or-ease/)
+[怎麼樣才能輕鬆練？怎麼樣才能練輕鬆？](https://kt-lab.tw/2016/06/how-to-easily-practice/)

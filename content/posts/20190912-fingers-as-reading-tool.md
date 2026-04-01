@@ -35,4 +35,8 @@ tags:
 
 然後呢？當然就是健康、輕鬆地做自己想做的事囉！
 
-延伸閱讀： [你聽過的呼吸指導原則可能都是錯的！](https://kt-lab.tw/2019/06/wrong-principles-about-breathing/) [老師也不過就是一種輔具](https://kt-lab.tw/2017/03/teacher-as-prop/) [睡覺誠可貴，休息價更高](https://kt-lab.tw/2019/06/have-a-good-rest/) [怎麼樣才能輕鬆練？怎麼樣才能練輕鬆？](https://kt-lab.tw/2016/06/how-to-easily-practice/)
+延伸閱讀：
+[你聽過的呼吸指導原則可能都是錯的！](https://kt-lab.tw/2019/06/wrong-principles-about-breathing/)
+[老師也不過就是一種輔具](https://kt-lab.tw/2017/03/teacher-as-prop/)
+[睡覺誠可貴，休息價更高](https://kt-lab.tw/2019/06/have-a-good-rest/)
+[怎麼樣才能輕鬆練？怎麼樣才能練輕鬆？](https://kt-lab.tw/2016/06/how-to-easily-practice/)

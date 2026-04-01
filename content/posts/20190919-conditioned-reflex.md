@@ -30,4 +30,8 @@ categories:
 
 我們知道原來有這些結還沒打開，給自己一些時間，一步一步慢慢來。**要像小嬰兒學爬行、學站立、學走路那樣，懷抱喜悅、探索樂趣的態度來學、來練。**
 
-延伸閱讀： [[瑜伽到底在練什麼] 系列：肌肉到底要鍛練到什麼程度才夠？](https://kt-lab.tw/2018/05/how-far-we-should-go/) [別人的練習，還是自己的練習？](https://kt-lab.tw/2017/01/whose-practice/) [時間是一種幻覺](https://kt-lab.tw/2018/03/time-illusion/) [親身體驗過，就會一直看得到！](https://kt-lab.tw/2018/09/map-simile-01/)
+延伸閱讀：
+[[瑜伽到底在練什麼] 系列：肌肉到底要鍛練到什麼程度才夠？](https://kt-lab.tw/2018/05/how-far-we-should-go/)
+[別人的練習，還是自己的練習？](https://kt-lab.tw/2017/01/whose-practice/)
+[時間是一種幻覺](https://kt-lab.tw/2018/03/time-illusion/)
+[親身體驗過，就會一直看得到！](https://kt-lab.tw/2018/09/map-simile-01/)

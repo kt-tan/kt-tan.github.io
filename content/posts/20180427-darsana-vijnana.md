@@ -35,4 +35,9 @@ T.K.V. Desikachar 說瑜伽是一種[「觀察的科學」（Darśana Vijñāna,
 
 觀察的訓練也不見得就是目的。**觀察到之後的調整、改變、捨棄、重新建構，才是真正的重頭戲** 。不過別急，先練習看清楚再說吧。**光是「看清楚」這件事本身就非常有趣而且後座力十足呢** 。
 
-延伸閱讀： [煩的時候也一樣靜坐](https://kt-lab.tw/sit-when-you-upset/) [來開天眼吧！](https://kt-lab.tw/dibba-cakkhu/) [感受身體的細微狀態，有什麼用？](https://kt-lab.tw/why-subtlety/) [實用咒語系列之一：「待在身體裡，觀察身體」kāye kāyānupassī viharati](https://kt-lab.tw/kaye-kayanupassi-viharati/) [全然專心，聆聽](https://kt-lab.tw/bare-listening/)
+延伸閱讀：
+[煩的時候也一樣靜坐](https://kt-lab.tw/sit-when-you-upset/)
+[來開天眼吧！](https://kt-lab.tw/dibba-cakkhu/)
+[感受身體的細微狀態，有什麼用？](https://kt-lab.tw/why-subtlety/)
+[實用咒語系列之一：「待在身體裡，觀察身體」kāye kāyānupassī viharati](https://kt-lab.tw/kaye-kayanupassi-viharati/)
+[全然專心，聆聽](https://kt-lab.tw/bare-listening/)
