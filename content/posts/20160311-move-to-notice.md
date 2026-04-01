@@ -1,0 +1,34 @@
+---
+title: "不動不知道"
+date: 2016-03-11
+site: kt-lab
+url: /2016/03/move-to-notice/
+categories:
+  - yoga 瑜伽
+tags:
+  - "#awareness"
+  - "#viveka"
+  - "#what we talk about when we talk about practice"
+---
+
+很多時候，除了病痛時，我們不會意識到自己的身體；除了煩惱時，我們不會意識到自己的心神。
+
+我們不清楚自己呼吸的狀態，我們不清楚自己的腳踝、阿基里斯腱，我們不清楚自己的背肌，我們不清楚自己的脾臟，我們不清楚自己的副交感神經，我們不清楚自己的思考慣習，我們不清楚自己的貪欲、依賴。
+
+站上瑜珈墊，開始簡單的伸展。我們開始感覺到上氣不接下氣；我們開始感覺到力不從心（明明我們想著雙腳雙腿要出力，卻怎麼也使不上力）；我們開始意識到整個身體彷彿只是一團漿糊；我們開始認識到，說不定我們從來還沒真的認識自己的身體。
+
+坐在瑜珈磚或者蒲團上，開始簡單的靜坐。我們終於注意到腦子不是我們控制的，東跑西跑，除了呼吸之外，什麼事情都可以帶著我們遠走高飛；我們終於注意到，腦子不是我，然後我們就卡關在「那我到底是什麼東西」。
+
+![](http://ecx.images-amazon.com/images/I/61uE%2BOFwWLL._SX425_.jpg)
+
+據說這句名言是出自 Rosa Luxembourg。
+
+> Wer sich nicht bewegt, spürt seine Fesseln nicht. Those who do not move do not notice their chains. 不動的人，不會意識到自己身上的枷鎖。
+
+所以我們得動，我們得移動，我們得運動，我們得活動。不動不知道，不動不會知道。所以我們得靜下來，不靜下來，也不會知道。所以我們得想辦法去理清楚，到底什麼是什麼。所以我們練瑜珈。
+
+![](http://www.yogastudies.org/wp-content/uploads/viveka-768x418.jpg)
+
+> 所有瑜珈的技巧都是為了能分辨清楚（viveka），因為分辨清楚，才能達到自由。 TKV Desikachar
+
+要分辨清楚什麼？自己身上的枷鎖，自己，還有一切關於自己的幻覺吧。
