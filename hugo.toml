@@ -12,3 +12,21 @@ canonifyURLs = true
   list = "right"
   single = "right"
   widgets = ["search", "recent", "categories", "taglist"]
+
+[[menus.main]]
+  name = "課程"
+  url = "/schedule/"
+  weight = 1
+
+[[menus.main]]
+  name = "位置"
+  url = "/contact/"
+  weight = 2
+
+[[menus.main]]
+  name = "關於 / about"
+  url = "/about/"
+  weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true
