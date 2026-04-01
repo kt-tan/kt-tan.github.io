@@ -31,7 +31,7 @@ categories:
 
 五六分鐘後出針。這 250 C.C. 的血液順利貢獻出去。
 
-![](/images/blood-dontation-cake-scaled.jpg) （吃到一半的抽血紀念蛋糕）
+![](/images/blood-dontation-cake.jpg) （吃到一半的抽血紀念蛋糕）
 
 我吃了捐血中心送的芝麻蘇打餅乾、配了一瓶蜜香柚茶，拿了一堆紀念品（其中有一塊是元樂蜂蜜蛋糕）。
 

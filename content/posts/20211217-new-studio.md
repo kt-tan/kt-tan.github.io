@@ -9,7 +9,7 @@ categories:
   - yoga 瑜伽
 ---
 
-![](/images/IMG_2099-scaled.jpg)
+![](/images/IMG_2099.jpg)
 
 舊教室的最後一堂課星期天結束了。當天下午就是急忙打包，隔天就搬家到新教室了。
 

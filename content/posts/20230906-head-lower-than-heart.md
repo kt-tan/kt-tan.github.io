@@ -9,7 +9,7 @@ categories:
   - school 教學特色
 ---
 
-![](/images/upside-down-scaled.jpg)
+![](/images/upside-down.jpg)
 
 剛剛正在讀一本很耗腦力的書（超強的人類學家，用考古學的證據，來討論印歐語系的「原鄉」）。我邊讀邊讚嘆不已，但實在很耗腦力。我得休息一下。
 

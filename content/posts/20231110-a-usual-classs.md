@@ -10,7 +10,7 @@ categories:
   - sensibility / observation 感受 / 覺察
 ---
 
-![](/images/doorbell-scaled.jpg)
+![](/images/doorbell.jpg)
 
 一堂尋常的週間基礎課。晚上七點多，三五個同學陸續進來教室，有人騎摩托車來，有人散步，也有人下班後匆匆搭捷運趕來。
 

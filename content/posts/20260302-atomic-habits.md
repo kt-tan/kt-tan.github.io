@@ -13,7 +13,7 @@ categories:
   - yoga 瑜伽
 ---
 
-![](/images/atomic-habits-scaled.jpg)
+![](/images/atomic-habits.jpg)
 
 五十多歲的人也還是可以重新設定自己是什麼樣的人。這是我讀《原子習慣》的感想。
 

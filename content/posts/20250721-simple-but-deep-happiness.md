@@ -12,7 +12,7 @@ categories:
   - yoga 瑜伽
 ---
 
-![](/images/miao-scaled.jpg)
+![](/images/miao.jpg)
 
 以前我吃飯總是得配湯、飲料或是開水。自己一個人在外頭吃，常常還得配手機。現在這習慣慢慢改了。
 

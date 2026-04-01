@@ -11,7 +11,7 @@ categories:
   - yoga 瑜伽
 ---
 
-![](/images/windmill-scaled.jpg)
+![](/images/windmill.jpg)
 
 走在山裡面，自然的土徑最棒了，腳下傳來回饋的觸感，泥土混著花香的氣味，光線從頭上灑下從樹葉縫隙裡流洩，幾乎就是最高的享受。
 
