@@ -6,9 +6,9 @@ url: /2015/10/smell-memory/
 categories:
   - bhavana 靜坐
 tags:
-  - "#what we talk about when we talk about practice"
-  - "#氣味"
-  - "#記憶"
+  - "what we talk about when we talk about practice"
+  - "氣味"
+  - "記憶"
 ---
 
 本來以為要來的颱風，好像已經不成形。早餐後我上樓去整理一堆花草。風一陣一陣的。水龍頭打開，水流劃成一道弧線，落入一盆一盆的金露花。一隻半個巴掌大的彩蝶從我腳步飛過，幾隻蜜蜂不理會我，繼續他們的搜尋探索，還有一隻小壁虎大概躲在盆底下，嚇得衝出來，往女兒牆邊攀爬，越過牆之後，身影消失。

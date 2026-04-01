@@ -6,10 +6,10 @@ url: /2015/10/broken-arms/
 categories:
   - somatics 身心練習>alexander technique 亞歷山大技巧
 tags:
-  - "#what we talk about when we talk about practice"
-  - "#太極拳"
-  - "#貓大爺"
-  - "#鄭曼青"
+  - "what we talk about when we talk about practice"
+  - "太極拳"
+  - "貓大爺"
+  - "鄭曼青"
 ---
 
 很多人練體位法的方式，和一般人做運動沒什麼差別：該用力的肌肉或者用不上力 、或者用了太大的力；不該用的肌肉不聽使喚，察覺不到，一不留神就使盡全力，繃得緊緊的、或者縮得緊緊的。

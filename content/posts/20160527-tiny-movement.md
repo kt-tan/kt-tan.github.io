@@ -6,9 +6,9 @@ url: /2016/05/tiny-movement/
 categories:
   - somatics 身心練習>feldenkrais method 費登奎斯方法
 tags:
-  - "#annamaya kosha"
-  - "#awareness"
-  - "#瑜珈歷史"
+  - "annamaya kosha"
+  - "awareness"
+  - "瑜珈歷史"
 ---
 
 習慣（或者厭倦）了大開大闔的動作方式？

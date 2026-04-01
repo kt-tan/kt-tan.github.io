@@ -11,7 +11,7 @@ categories:
   - what we talk about when we talk about practice 當我們討論練習
   - yoga 瑜伽
 tags:
-  - "#unlearn"
+  - "unlearn"
 ---
 
 身心靈圈子裡很愛說「要聽身體的聲音」這句話，每次聽到，我總是笑笑的說，閱讀、傾聽身體這件事，比一般想像的更複雜、更困難一點，因為我們的腦子一天到晚騙自己，讓自己誤以為「我知道了」、「我就是這樣」、「我只能這樣」。

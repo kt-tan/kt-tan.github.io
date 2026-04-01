@@ -13,7 +13,7 @@ categories:
   - what we talk about when we talk about practice 當我們討論練習
   - yoga 瑜伽
 tags:
-  - "#瑜伽老師讀什麼書"
+  - "瑜伽老師讀什麼書"
 ---
 
 ![](/images/IMG_7844.jpg)

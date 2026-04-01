@@ -6,9 +6,9 @@ url: /2017/03/never-too-late/
 categories:
   - yoga 瑜伽>asana 瑜伽動作練習
 tags:
-  - "#ageing"
-  - "#what we talk about when we talk about practice"
-  - "#熟齡"
+  - "ageing"
+  - "what we talk about when we talk about practice"
+  - "熟齡"
 ---
 
 ![](/images/waiting-1024x683.jpg)

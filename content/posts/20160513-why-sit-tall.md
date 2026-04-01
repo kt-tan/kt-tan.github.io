@@ -6,14 +6,14 @@ url: /2016/05/why-sit-tall/
 categories:
   - somatics 身心練習>alexander technique 亞歷山大技巧
 tags:
-  - "#F. M. Alexander"
-  - "#mahamudra"
-  - "#pranamaya kosha"
-  - "#primary curve"
-  - "#secondary curve"
-  - "#Yoga Anatomy"
-  - "#姿勢"
-  - "#脊椎"
+  - "F. M. Alexander"
+  - "mahamudra"
+  - "pranamaya kosha"
+  - "primary curve"
+  - "secondary curve"
+  - "Yoga Anatomy"
+  - "姿勢"
+  - "脊椎"
 ---
 
 那天有同學問，「為什麼要坐直呢？」

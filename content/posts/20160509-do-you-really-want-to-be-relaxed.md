@@ -6,7 +6,7 @@ url: /2016/05/do-you-really-want-to-be-relaxed/
 categories:
   - somatics 身心練習>alexander technique 亞歷山大技巧
 tags:
-  - "#放鬆"
+  - "放鬆"
 ---
 
 如果問，「想不想要整個人都放鬆？」幾乎很少人會回答不要。就好比問，「想不想要變得好有錢？」也幾乎很少人會回答不要。

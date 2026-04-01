@@ -7,8 +7,8 @@ categories:
   - bhavana 靜坐
   - buddhism 佛教>theravada 上座部佛教
 tags:
-  - "#sati"
-  - "#what we talk about when we talk about practice"
+  - "sati"
+  - "what we talk about when we talk about practice"
 ---
 
 前幾天在臉書上開玩笑地寫了幾句話：

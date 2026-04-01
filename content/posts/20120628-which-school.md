@@ -6,7 +6,7 @@ url: /2012/06/which-school/
 categories:
   - medicine 醫學>traditional chinese medicine 中醫
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 前兩天讀到[「矽谷中醫損友團」](http://tmfriends.com)的一篇妙文[南帖北碑](http://tcmfriends.com/wp/?p=8473)，說是「極短篇小說」，的確簡單、明瞭，有意思。

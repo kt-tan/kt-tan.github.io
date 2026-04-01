@@ -14,10 +14,10 @@ categories:
   - what we talk about when we talk about practice 當我們討論練習
   - yoga 瑜伽
 tags:
-  - "#二二八"
-  - "#林宅血案"
-  - "#白色恐怖"
-  - "#轉型正義"
+  - "二二八"
+  - "林宅血案"
+  - "白色恐怖"
+  - "轉型正義"
 ---
 
 ![](/images/taiwanese-history-books.jpg)

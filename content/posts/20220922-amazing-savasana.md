@@ -12,9 +12,9 @@ categories:
   - somatics 身心練習
   - what we talk about when we talk about practice 當我們討論練習
 tags:
-  - "#savasana"
-  - "#呼吸"
-  - "#大休息"
+  - "savasana"
+  - "呼吸"
+  - "大休息"
 ---
 
 白露秋分之間的一天早上，我的例行晨間練習告一段落。那天上午沒有特別的行程安排，不急著做什麼事。陽台的花已經澆好了，要洗的衣物，洗衣機也正在努力工作。一會兒早餐要吃的水煮蛋已經煮好。

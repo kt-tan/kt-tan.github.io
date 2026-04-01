@@ -6,7 +6,7 @@ url: /2016/02/groundhog-day/
 categories:
   - somatics 身心練習
 tags:
-  - "#samsara"
+  - "samsara"
 ---
 
 立春剛過，又是新正（sin-chhiann）年頭。好像每年過年就是這麼回事。行禮如儀，能過就趕快過去吧。這種時候，就會讓我想起來好多年前看過的一部電影 Groundhog Day（中譯《今天暫時停止》）（男主角是我超愛的演員 Bill Murray！）。

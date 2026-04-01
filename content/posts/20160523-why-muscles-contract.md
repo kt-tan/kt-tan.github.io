@@ -6,10 +6,10 @@ url: /2016/05/why-muscles-contract/
 categories:
   - somatics 身心練習
 tags:
-  - "#annamaya kosha"
-  - "#Moshé Feldenkrais"
-  - "#肌肉"
-  - "#肌肉收縮"
+  - "annamaya kosha"
+  - "Moshé Feldenkrais"
+  - "肌肉"
+  - "肌肉收縮"
 ---
 
 ![](http://www.gadoo.com.br/wp-content/uploads/2016/04/1176.jpg)  

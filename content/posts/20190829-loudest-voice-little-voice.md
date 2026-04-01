@@ -10,9 +10,9 @@ categories:
   - what we talk about when we talk about practice 當我們討論練習
   - yoga 瑜伽
 tags:
-  - "#傾聽"
-  - "#聲音"
-  - "#訊息"
+  - "傾聽"
+  - "聲音"
+  - "訊息"
 ---
 
 在練瑜伽或是在練各種動作時，我們會聽到身體的訊息，或者說，各種聲音。

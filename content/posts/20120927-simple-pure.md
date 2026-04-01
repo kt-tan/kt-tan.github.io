@@ -8,8 +8,8 @@ categories:
   - what we talk about when we talk about practice 當我們討論練習
   - yoga 瑜伽
 tags:
-  - "##yoganidra"
-  - "#站椿"
+  - "yoganidra"
+  - "站椿"
 ---
 
 "This isn't sexy at all!" 他聽到這樣的抱怨。

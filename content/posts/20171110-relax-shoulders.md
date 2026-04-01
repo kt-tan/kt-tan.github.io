@@ -7,9 +7,9 @@ categories:
   - somatics 身心練習>alexander technique 亞歷山大技巧
   - yoga 瑜伽
 tags:
-  - "#Direction"
-  - "#Inhibition"
-  - "#shoulder"
+  - "Direction"
+  - "Inhibition"
+  - "shoulder"
 ---
 
 很多人光是舉起手，像是抓公車吊環，像是拿起手機準備接電話，或者瑜伽課裡任何一個高舉手臂的動作，就會引發肩膀（甚至肩頸）痠痛不舒服。怎麼辦呢？

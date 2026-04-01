@@ -6,7 +6,7 @@ url: /2015/12/christmas-carol/
 categories:
   - somatics 身心練習
 tags:
-  - "#自作自受"
+  - "自作自受"
 ---
 
 又到了十二月，[一個每天都要被迫受到各式耶誕商品廣告轟炸的季節](http://www.mplus.com.tw/article/609)。在這個月裡，家裡有電視或網路的人（差不多就是所有人）大概都會不小心在各種平台上看到不斷重覆播放的耶誕應景影片，其中出現率最高的可能就是原作為英國十九世紀大文豪狄更斯作品《耶誕頌歌》（或《小氣財神》）（[A Christmas Carol](https://en.wikipedia.org/wiki/A_Christmas_Carol)）的歷代改編版電影。

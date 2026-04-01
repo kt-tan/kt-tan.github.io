@@ -7,8 +7,8 @@ categories:
   - yoga 瑜伽>asana 瑜伽動作練習
   - what we talk about when we talk about practice 當我們討論練習
 tags:
-  - "#Virabhadrasana"
-  - "#戰士一"
+  - "Virabhadrasana"
+  - "戰士一"
 ---
 
 難得有連續假期，大吃大喝，到處趴趴走，放假的日期總要結束，要回歸正常的作息囉。

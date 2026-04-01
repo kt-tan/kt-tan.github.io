@@ -6,9 +6,9 @@ url: /2015/07/east-coker/
 categories:
   - bhavana 靜坐
 tags:
-  - "#T. S. Elliot"
-  - "#what we talk about when we talk about practice"
-  - "#阿姜查"
+  - "T. S. Elliot"
+  - "what we talk about when we talk about practice"
+  - "阿姜查"
 ---
 
 天熱，冷開水的用量大，一天要煮個一兩次。煮的時候，光看到火焰在壺底竄，就覺得熱，等著水快點煮開，煮開了等著快點涼下來，入口解渴解煩。通常我們都覺得，等著等著，一定等得到結果，頂多是早晚的問題。

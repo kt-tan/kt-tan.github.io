@@ -11,7 +11,7 @@ categories:
   - somatics 身心練習
   - yoga 瑜伽
 tags:
-  - "#Krishnamurti"
+  - "Krishnamurti"
 ---
 
 ![](/images/cat-on-the-wall.jpg)

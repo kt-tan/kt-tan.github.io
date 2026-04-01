@@ -6,7 +6,7 @@ url: /2014/01/tasters-choice/
 categories:
   - somatics 身心練習
 tags:
-  - "#svadhyaya"
+  - "svadhyaya"
 ---
 
 前幾天在某咖啡店裡，聽見一位太太進來要買豆子，店員問她要什麼口味，這太太回了說曼巴，不巧店裡正好沒貨，店員問她要不要試其他選擇，

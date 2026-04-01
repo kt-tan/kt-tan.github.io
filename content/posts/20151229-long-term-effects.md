@@ -6,8 +6,8 @@ url: /2015/12/long-term-effects/
 categories:
   - somatics 身心練習
 tags:
-  - "#Paul Grilley"
-  - "#舒適圈"
+  - "Paul Grilley"
+  - "舒適圈"
 ---
 
 練習瑜珈（或者其他任何技能）可能會很辛苦。

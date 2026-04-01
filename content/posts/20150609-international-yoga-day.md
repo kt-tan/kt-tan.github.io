@@ -6,9 +6,9 @@ url: /2015/06/international-yoga-day/
 categories:
   - yoga 瑜伽
 tags:
-  - "#what we talk about when we talk about practice"
-  - "#宗教"
-  - "#政治"
+  - "what we talk about when we talk about practice"
+  - "宗教"
+  - "政治"
 ---
 
 近來有些機構開始在推動「國際瑜珈日」，約莫是在某個日子，大家一起出來，到同一個場子，同時拜個一百零八次拜日式。據言這樣就會…？

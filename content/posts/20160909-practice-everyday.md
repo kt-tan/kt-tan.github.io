@@ -6,7 +6,7 @@ url: /2016/09/practice-everyday/
 categories:
   - yoga 瑜伽
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 上次在課堂上，我引導著一位自覺肩頸、背部僵硬的同學，非常緩和、放鬆地慢慢進入前彎。一開始，同學只是坐著，軀幹微微前傾個十五度左右，我鼓勵他繼續保持目前肩頸的放鬆，讓呼吸持續有意識地輕鬆進行。幾次深呼吸之後，我們又慢慢再前進個十五度左右。我仍然是一邊輕聲提示，請他將目標放在保持現有的放鬆、舒服的狀態，不急著再往前邁進。又過了一會兒，我們又再緩緩進展個十五度左右。

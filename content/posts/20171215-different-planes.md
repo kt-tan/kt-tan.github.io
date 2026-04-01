@@ -6,7 +6,7 @@ url: /2017/12/different-planes/
 categories:
   - yoga 瑜伽>asana 瑜伽動作練習
 tags:
-  - "#asana-hack"
+  - "asana-hack"
 ---
 
 你以為躺在地上就一定是輕鬆的動作練習嗎？常來上我課的同學一定都知道，躺下來練（或者膝蓋彎曲腳踩地的半躺姿勢），常常是最方便有效的核心練習位置。

@@ -6,7 +6,7 @@ url: /2015/06/unlike-dance-or-mime/
 categories:
   - yoga 瑜伽
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 > Yoga, unlike dance or mime, is not an expression of form for others to watch.

@@ -6,9 +6,9 @@ url: /2016/04/what-your-hands-hear/
 categories:
   - somatics 身心練習>alexander technique 亞歷山大技巧
 tags:
-  - "#Missy Vineyard"
-  - "#聽力"
-  - "#錯覺"
+  - "Missy Vineyard"
+  - "聽力"
+  - "錯覺"
 ---
 
 看過中醫的朋友，大概都會對「脈診」充滿好奇、懷疑、或者欽佩：光是三根手指搭在患者的手腕附近，就能「讀取」到近乎算命先生卜卦的詳盡訊息。

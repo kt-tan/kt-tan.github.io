@@ -6,8 +6,8 @@ url: /2017/03/teacher-as-prop/
 categories:
   - yoga 瑜伽
 tags:
-  - "#prop"
-  - "#輔具"
+  - "prop"
+  - "輔具"
 ---
 
 ![](/images/rulers-1024x791.jpg)

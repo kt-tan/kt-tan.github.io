@@ -6,12 +6,12 @@ url: /2017/08/part-and-whole/
 categories:
   - yoga 瑜伽>asana 瑜伽動作練習
 tags:
-  - "#rhomboid"
-  - "#serratus anterior"
-  - "#Tom Myers"
-  - "#前鋸肌"
-  - "#菱形肌"
-  - "#解剖列車"
+  - "rhomboid"
+  - "serratus anterior"
+  - "Tom Myers"
+  - "前鋸肌"
+  - "菱形肌"
+  - "解剖列車"
 ---
 
 某同學肩膀拉傷好一陣子。到復健科做復健，到中醫診所推拿，半年左右，已經沒有一開始意外受傷時那麼痛了，但肩膀的可動範圍大幅縮水，自己也覺得相關的軟組織大概也有點輕微沾黏了。

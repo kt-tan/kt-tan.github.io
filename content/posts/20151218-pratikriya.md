@@ -6,10 +6,10 @@ url: /2015/12/pratikriya/
 categories:
   - somatics 身心練習
 tags:
-  - "#bhāvana"
-  - "#Pratikriyā Bhāvana"
-  - "#Virabhadrasana"
-  - "#戰士一"
+  - "bhāvana"
+  - "Pratikriyā Bhāvana"
+  - "Virabhadrasana"
+  - "戰士一"
 ---
 
 世界真複雜。我們得訓練自己，能夠有能耐適應這複雜的世界。有一種可能的方式，是練習發展出讓身體、精神能同時作用在不同方向，甚至是相反的方向。讓這些不同、相反方向的力道彼此之間找到平衡，進而化解掉複雜結構裡的緊張壓力。

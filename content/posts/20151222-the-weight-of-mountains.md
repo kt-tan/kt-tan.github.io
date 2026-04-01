@@ -6,8 +6,8 @@ url: /2015/12/the-weight-of-mountains/
 categories:
   - buddhism 佛教>theravada 上座部佛教
 tags:
-  - "#avidyā"
-  - "#Bhikkhu Thanissaro"
+  - "avidyā"
+  - "Bhikkhu Thanissaro"
 ---
 
 「無常」早就是流行語了。流行到每個人都可以隨時隨地脫口而出。流行到這個字眼似乎也沒什麼特別的力量了。或許這樣也好。

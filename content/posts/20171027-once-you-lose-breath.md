@@ -8,8 +8,8 @@ categories:
   - bhavana 靜坐
   - yoga 瑜伽>pranayama 瑜伽呼吸練習
 tags:
-  - "#breath"
-  - "#呼吸"
+  - "breath"
+  - "呼吸"
 ---
 
 ![](/images/border-zekedrone-1024x553.png)

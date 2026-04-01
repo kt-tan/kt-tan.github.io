@@ -6,12 +6,12 @@ url: /2016/03/improvisation/
 categories:
   - yoga 瑜伽>asana 瑜伽動作練習
 tags:
-  - "#annamaya kosha"
-  - "#pranamaya kosha"
-  - "#tactile sensation"
-  - "#what we talk about when we talk about practice"
-  - "#即興"
-  - "#招式"
+  - "annamaya kosha"
+  - "pranamaya kosha"
+  - "tactile sensation"
+  - "what we talk about when we talk about practice"
+  - "即興"
+  - "招式"
 ---
 
 我們日復一日練著同樣的基本功。一樣的站姿，一樣的拜日式，一樣的前彎後彎或者倒立，甚至是一模一樣的動作順序。

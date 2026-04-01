@@ -6,8 +6,8 @@ url: /2014/02/the-world-is-sound/
 categories:
   - somatics 身心練習
 tags:
-  - "#listen"
-  - "#pratyahara"
+  - "listen"
+  - "pratyahara"
 ---
 
 以前我曾經以為，[pratyahara](http://www.indiatravelogue.com/sacr/refl/pratyahara.html) 感官收攝，就是眼睛閉上，摀住耳朵之類的。

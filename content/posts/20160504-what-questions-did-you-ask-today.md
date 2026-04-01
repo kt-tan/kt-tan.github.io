@@ -6,10 +6,10 @@ url: /2016/05/what-questions-did-you-ask-today/
 categories:
   - somatics 身心練習
 tags:
-  - "#Bhikkhu Thanissaro"
-  - "#Sabbasava Sutta"
-  - "#問問題"
-  - "#善巧"
+  - "Bhikkhu Thanissaro"
+  - "Sabbasava Sutta"
+  - "問問題"
+  - "善巧"
 ---
 
 好久以前看過一則小故事。有位睿智的母親，每天她的小孩放學回來家裡，她不會問小孩，「你今天學到了什麼東西？」，而是問：「你今天問了什麼問題？」

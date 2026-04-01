@@ -7,8 +7,8 @@ categories:
   - yoga 瑜伽>asana 瑜伽動作練習
   - yoga 瑜伽>pranayama 瑜伽呼吸練習
 tags:
-  - "#權威"
-  - "#規格"
+  - "權威"
+  - "規格"
 ---
 
 ![](/images/metronome.jpg)

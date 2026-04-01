@@ -6,12 +6,12 @@ url: /2015/12/inside-outside/
 categories:
   - somatics 身心練習
 tags:
-  - "#annamaya kosha"
-  - "#awareness"
-  - "#pranamaya kosha"
-  - "#Virabhadrasana"
-  - "#戰士二"
-  - "#教學"
+  - "annamaya kosha"
+  - "awareness"
+  - "pranamaya kosha"
+  - "Virabhadrasana"
+  - "戰士二"
+  - "教學"
 ---
 
 有兩種教和學的方式。一種是老師站在外面，看著學生，「嗯，你這樣做錯了哦，你應該這樣做或者那樣做才對。」

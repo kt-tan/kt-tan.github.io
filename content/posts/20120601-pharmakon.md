@@ -7,7 +7,7 @@ categories:
   - yoga 瑜伽>asana 瑜伽動作練習
   - medicine 醫學>traditional chinese medicine 中醫
 tags:
-  - "#injury"
+  - "injury"
 ---
 
 據[報載](http://www.libertytimes.com.tw/2012/new/jun/2/today-life3.htm)，某中醫師因為長期服用龍膽瀉肝湯科學中藥錠，而導致尿毒症，因此具狀控告生產藥品的廠商，「希望將有問題的藥品下架」。

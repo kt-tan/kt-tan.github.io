@@ -8,8 +8,8 @@ categories:
   - yoga 瑜伽>pranayama 瑜伽呼吸練習
   - what we talk about when we talk about practice 當我們討論練習
 tags:
-  - "#emotion"
-  - "#情緒"
+  - "emotion"
+  - "情緒"
 ---
 
 我自己時不時就會回到一個很根本的問題：「情緒，到底是什麼？」或者，「情緒，到底從哪裡生出來的？」

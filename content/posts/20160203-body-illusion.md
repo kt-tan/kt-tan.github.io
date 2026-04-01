@@ -6,10 +6,10 @@ url: /2016/02/body-illusion/
 categories:
   - somatics 身心練習
 tags:
-  - "#annamaya kosha"
-  - "#Yoga Nidra"
-  - "#神經科學"
-  - "#錯覺"
+  - "annamaya kosha"
+  - "Yoga Nidra"
+  - "神經科學"
+  - "錯覺"
 ---
 
 身體是很好騙的。或者精確一點地說，大腦是很好騙的。

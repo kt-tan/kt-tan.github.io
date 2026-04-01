@@ -6,7 +6,7 @@ url: /2016/03/ardha-uttanasana/
 categories:
   - yoga 瑜伽>asana 瑜伽動作練習
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 練瑜珈很容易。練瑜珈很難。看我們是如何看待練習，如何看待瑜珈，如何看待瑜珈的練習。

@@ -6,10 +6,10 @@ url: /2016/01/on-suffering/
 categories:
   - somatics 身心練習
 tags:
-  - "#Bhikkhu Thanissaro"
-  - "#dukkha"
-  - "#四聖諦"
-  - "#苦"
+  - "Bhikkhu Thanissaro"
+  - "dukkha"
+  - "四聖諦"
+  - "苦"
 ---
 
 "Life if suffering"、「一切皆苦」（還有人說「眾生皆苦」），是很多人對於佛陀教法的基本印象，或者認為這就是佛教教義的核心思想。

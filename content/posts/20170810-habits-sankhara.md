@@ -6,11 +6,11 @@ url: /2017/08/habits-sankhara/
 categories:
   - yoga 瑜伽
 tags:
-  - "#habits"
-  - "#samskara"
-  - "#sankhara"
-  - "#習性"
-  - "#習慣"
+  - "habits"
+  - "samskara"
+  - "sankhara"
+  - "習性"
+  - "習慣"
 ---
 
 [![](/images/samskara.jpg)](http://www.yogastudies.org/sanskrit/samskara/)

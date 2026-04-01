@@ -6,8 +6,8 @@ url: /2015/12/silver-spoon/
 categories:
   - yoga 瑜伽
 tags:
-  - "#what we talk about when we talk about practice"
-  - "#柔軟度"
+  - "what we talk about when we talk about practice"
+  - "柔軟度"
 ---
 
 ![](http://bernhardtwealth.com/wp-content/uploads/2015/10/Blog.SilverSpoon_2015.10.26.png) photo credit: [bernhardtwealth.com](http://bernhardtwealth.com)

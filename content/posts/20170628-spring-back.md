@@ -7,7 +7,7 @@ categories:
   - somatics 身心練習
   - yoga 瑜伽
 tags:
-  - "#放鬆"
+  - "放鬆"
 ---
 
 [![](/images/Slinky_rainbow-1024x683.jpg)](https://commons.wikimedia.org/wiki/File%3ASlinky_rainbow.jpg "By No machine-readable author provided. Enochlau assumed \(based on copyright claims\). \[GFDL \(http://www.gnu.org/copyleft/fdl.html\), CC-BY-SA-3.0 \(http://creativecommons.org/licenses/by-sa/3.0/\) or CC BY-SA 2.5-2.0-1.0 \(http://creativecommons.org/licenses/by-sa/2.5-2.0-1.0\)\], via Wikimedia Commons")

@@ -6,7 +6,7 @@ url: /2014/03/not-simple-enough/
 categories:
   - somatics 身心練習
 tags:
-  - "#practice simple"
+  - "practice simple"
 ---
 
 前兩天聽到[某老師轉述他的老師的話](http://www.audiodharma.org/talks/audio_player/4614.html)：「如果不簡單的話，那就不是毗钵舍那。」（"If it is not Simple it is not Vipassana"）。

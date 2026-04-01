@@ -6,7 +6,7 @@ url: /2017/08/how-much-is-enough/
 categories:
   - yoga 瑜伽>asana 瑜伽動作練習
 tags:
-  - "#eng gaining"
+  - "eng gaining"
 ---
 
 急著賺到人生第一桶金？年薪百萬不夠看，目標要上看千萬？三十坪的房子太窄，能住到五六十坪的豪宅才是人生勝利組？

@@ -6,8 +6,8 @@ url: /2015/07/true-listening/
 categories:
   - somatics 身心練習
 tags:
-  - "#what we talk about when we talk about practice"
-  - "#聽力"
+  - "what we talk about when we talk about practice"
+  - "聽力"
 ---
 
 我常常聽演講。不是那種大型活動中心、會議室型態的演講，而是網路上下載來，用手機播放出來聽的，很簡單的談話。有時候是自己靜坐之前聽，聽個十來分鐘半小時，然後就繼續靜靜坐下去。談話的老師講些簡單或者深奧的道理，或者關於靜坐的技巧、法門，或者一些生活上相關的瑣事。

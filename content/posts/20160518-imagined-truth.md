@@ -7,9 +7,9 @@ categories:
   - bhavana 靜坐
   - buddhism 佛教
 tags:
-  - "#Yoga Nidra"
-  - "#想像"
-  - "#法句經"
+  - "Yoga Nidra"
+  - "想像"
+  - "法句經"
 ---
 
 ![](http://www.asanalibraryonline.com/wp-content/uploads/2014/09/SuptaPadangusthasana1.jpg)  

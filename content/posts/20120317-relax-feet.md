@@ -6,7 +6,7 @@ url: /2012/03/relax-feet/
 categories:
   - yoga 瑜伽>asana 瑜伽動作練習
 tags:
-  - "#relaxation"
+  - "relaxation"
 ---
 
 曾經不只一次聽過同學這麼抱怨：「到底要怎麼才能放鬆嘛？」

@@ -13,8 +13,8 @@ categories:
   - what we talk about when we talk about practice 當我們討論練習
   - yoga 瑜伽
 tags:
-  - "#listening"
-  - "#傾聽"
+  - "listening"
+  - "傾聽"
 ---
 
 通常最早叫的是一隻白頭翁。我還躺在床上。我知道那是一隻白頭翁在練習發聲，怯生生的，小小聲的。

@@ -6,8 +6,8 @@ url: /2015/12/advanced-practice/
 categories:
   - somatics 身心練習
 tags:
-  - "#瑜珈經"
-  - "#進階練習"
+  - "瑜珈經"
+  - "進階練習"
 ---
 
 這年頭，最紅的社交媒體是 Instagram，一堆瑜珈老師動輒有個幾十萬甚至上百萬的人 follow，每天都貼出各種帶著優雅自信的微笑、挑戰人體極限的動作。

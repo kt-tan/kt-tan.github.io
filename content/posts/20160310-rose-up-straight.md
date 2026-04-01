@@ -6,8 +6,8 @@ url: /2016/03/rose-up-straight/
 categories:
   - somatics 身心練習
 tags:
-  - "#森林"
-  - "#樹"
+  - "森林"
+  - "樹"
 ---
 
 ![](http://static01.nyt.com/images/2016/01/30/world/30trees-web2/30trees-web2-articleLarge.jpg) [source](http://www.nytimes.com/2016/01/30/world/europe/german-forest-ranger-finds-that-trees-have-social-networks-too.html)

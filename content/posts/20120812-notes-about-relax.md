@@ -6,8 +6,8 @@ url: /2012/08/notes-about-relax/
 categories:
   - yoga 瑜伽>asana 瑜伽動作練習
 tags:
-  - "#what we talk about when we talk about practice"
-  - "#放鬆"
+  - "what we talk about when we talk about practice"
+  - "放鬆"
 ---
 
 一位朋友抱怨說，「你們瑜珈老師最喜歡在課堂上叫大家要放鬆，碰到難得要死的動作，也要我們放鬆，如果你們說放鬆我們就能放鬆了的話，那我幹嘛還繳錢去上課啊？」

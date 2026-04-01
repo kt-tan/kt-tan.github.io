@@ -6,9 +6,9 @@ url: /2016/01/against-your-habits/
 categories:
   - yoga 瑜伽
 tags:
-  - "#Leslie Kaminoff"
-  - "#utthita parsvakonasana"
-  - "#what we talk about when we talk about practice"
+  - "Leslie Kaminoff"
+  - "utthita parsvakonasana"
+  - "what we talk about when we talk about practice"
 ---
 
 很多練瑜珈的人，嘴吧上可能都會說，「我們練瑜珈，不只是在做運動而已哦，我們是在培養自我觀察的能力。」

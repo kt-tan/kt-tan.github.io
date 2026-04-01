@@ -6,10 +6,10 @@ url: /2016/04/how-about-taking-a-rest/
 categories:
   - somatics 身心練習
 tags:
-  - "#Constructive Rest"
-  - "#yin yoga"
-  - "#休息"
-  - "#放鬆"
+  - "Constructive Rest"
+  - "yin yoga"
+  - "休息"
+  - "放鬆"
 ---
 
 工作了一整天，回到家裡，還沒到上床睡覺的時間，但卻又累得要命。這種情況下，你通常會做什麼？怎麼做？

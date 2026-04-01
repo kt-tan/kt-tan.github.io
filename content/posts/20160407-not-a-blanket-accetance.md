@@ -6,9 +6,9 @@ url: /2016/04/not-a-blanket-accetance/
 categories:
   - somatics 身心練習
 tags:
-  - "#kusala"
-  - "#what we talk about when we talk about practice"
-  - "#善巧"
+  - "kusala"
+  - "what we talk about when we talk about practice"
+  - "善巧"
 ---
 
 時下最流行的心靈小語，常常鼓勵大家，「不論發生什麼，都是最好的，都不帶批判地接受吧」。

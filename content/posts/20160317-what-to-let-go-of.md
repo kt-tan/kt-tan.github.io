@@ -6,8 +6,8 @@ url: /2016/03/what-to-let-go-of/
 categories:
   - yoga 瑜伽
 tags:
-  - "#Bhikkhu Thanissaro"
-  - "#what we talk about when we talk about practice"
+  - "Bhikkhu Thanissaro"
+  - "what we talk about when we talk about practice"
 ---
 
 市面上很常見到用 "let go"（放手）來當成鼓勵、安慰人的話術。

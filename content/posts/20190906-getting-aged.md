@@ -10,7 +10,7 @@ categories:
   - what we talk about when we talk about practice 當我們討論練習
   - yoga 瑜伽
 tags:
-  - "#老化"
+  - "老化"
 ---
 
 前兩天晚上的「平常動作」課，我們最後又是在地板上輕鬆翻滾，我看得見有幾個同學臉上開始浮現出笑意，或者直接就笑出聲響來了。

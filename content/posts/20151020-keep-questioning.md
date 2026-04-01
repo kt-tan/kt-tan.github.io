@@ -8,8 +8,8 @@ categories:
   - bhavana 靜坐
   - unlearn 重新學習
 tags:
-  - "#awareness"
-  - "#習慣"
+  - "awareness"
+  - "習慣"
 ---
 
 我們上瑜珈課，我們看養生的書籍、資訊，我們覺得我們吸收了好多好多「正確的知識」，套用到自己的身上。一段時間過後，說不定有些小小的、正面的改變、收穫，說不定根本沒什麼差別。接下來，我們心裡可能就產生了一些小小的懷疑：這些「正確的知識」，是不是沒什麼用處？ 資深的 Alexander Technique 老師（同時也是游泳教練） Ian Cross [這麼說](http://www.swimmingwithoutstress.co.uk/swimming-blog/knowing-your-s-t-or-knowing-youre-s-t)：

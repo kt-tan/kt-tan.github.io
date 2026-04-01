@@ -6,10 +6,10 @@ url: /2015/08/whose-responsibilities/
 categories:
   - somatics 身心練習
 tags:
-  - "#Bhikkhu Thanissaro"
-  - "#姿勢"
-  - "#技巧"
-  - "#選擇"
+  - "Bhikkhu Thanissaro"
+  - "姿勢"
+  - "技巧"
+  - "選擇"
 ---
 
 前幾天寫了[「站在你的坐骨上」](http://anapanasatiyoga.net/post/125808006543/sit-bones-and-navasana)，有些話還沒講完，例如說，該坐在什麼樣的椅子上這個問題。

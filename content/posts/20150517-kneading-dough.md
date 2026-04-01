@@ -6,9 +6,9 @@ url: /2015/05/kneading-dough/
 categories:
   - somatics 身心練習
 tags:
-  - "#tactile sensation"
-  - "#what we talk about when we talk about practice"
-  - "#墊子外的瑜珈練習"
+  - "tactile sensation"
+  - "what we talk about when we talk about practice"
+  - "墊子外的瑜珈練習"
 ---
 
 又是做饅頭的日子。

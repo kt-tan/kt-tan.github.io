@@ -6,9 +6,9 @@ url: /2016/01/put-something-in/
 categories:
   - somatics 身心練習
 tags:
-  - "#Leslie Kaminoff"
-  - "#T. K. V. Desikachar"
-  - "#瑜珈經"
+  - "Leslie Kaminoff"
+  - "T. K. V. Desikachar"
+  - "瑜珈經"
 ---
 
 《瑜珈經》第二章，第一條的內容是這樣子的

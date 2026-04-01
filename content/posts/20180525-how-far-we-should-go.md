@@ -7,8 +7,8 @@ categories:
   - yoga 瑜伽>asana 瑜伽動作練習
   - what we talk about when we talk about practice 當我們討論練習
 tags:
-  - "#injury"
-  - "#受傷"
+  - "injury"
+  - "受傷"
 ---
 
 TKV Desikachar 曾經感嘆地說過，「我不知道肌肉到底要鍛練到什麼程度才夠」。

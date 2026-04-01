@@ -15,4 +15,4 @@ url: /contact/
 **怎麼聯絡：**
 
 * [Facebook](https://www.facebook.com/kt.bodymind.lab)
-  * [Email](mailto:kt.bodymind.lab@gmail.com)
+* [Email](mailto:kt.bodymind.lab@gmail.com)

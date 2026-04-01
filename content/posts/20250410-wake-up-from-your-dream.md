@@ -11,9 +11,9 @@ categories:
   - what we talk about when we talk about practice 當我們討論練習
   - yoga 瑜伽
 tags:
-  - "#戰爭"
-  - "#罷免"
-  - "#連署"
+  - "戰爭"
+  - "罷免"
+  - "連署"
 ---
 
 ![](/images/連署避戰.jpg)

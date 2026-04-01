@@ -6,7 +6,7 @@ url: /2016/02/not-to-see-heaven/
 categories:
   - somatics 身心練習
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 靜坐會讓身心舒暢，靜坐會讓情緒緩和，靜坐甚至會讓人看到黃色的光、金色的光，看見滿天神佛，看見天堂。

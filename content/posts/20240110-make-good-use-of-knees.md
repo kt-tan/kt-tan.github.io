@@ -9,8 +9,8 @@ categories:
   - unlearn 重新學習
   - yoga 瑜伽
 tags:
-  - "#姿勢"
-  - "#覺察"
+  - "姿勢"
+  - "覺察"
 ---
 
 ![](/images/dogs-and-sign.jpg)

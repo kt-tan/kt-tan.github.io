@@ -8,9 +8,9 @@ categories:
   - buddhism 佛教
   - somatics 身心練習
 tags:
-  - "#Bhikkhu Thanissaro"
-  - "#what we talk about when we talk about practice"
-  - "#潛意識"
+  - "Bhikkhu Thanissaro"
+  - "what we talk about when we talk about practice"
+  - "潛意識"
 ---
 
 這一陣子感冒真的很盛行，身邊不少朋友都不小心中了，我自己也中了，也是拖了好久。

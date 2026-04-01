@@ -4,14 +4,19 @@ title = "KT Lab 身心實驗室"
 theme = "mainroad"
 canonifyURLs = true
 
-[Params]
-  description = "瑜伽 靜坐 覺知 身心諮詢 一對一私人課"
+[pagination]
+  pagerSize = 5
 
+[Params]
+  subtitle = "瑜伽 靜坐 覺知 身心諮詢 一對一私人課"
+  post_meta = ["date", "categories"]
+  pager = true
+  
 [Params.sidebar]
   home = "right"
   list = "right"
   single = "right"
-  widgets = ["search", "recent", "categories", "taglist"]
+  widgets = ["search", "categories"]
 
 [[menus.main]]
   name = "課程"

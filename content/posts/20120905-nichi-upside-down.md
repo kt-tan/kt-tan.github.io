@@ -6,8 +6,8 @@ url: /2012/09/nichi-upside-down/
 categories:
   - yoga 瑜伽>asana 瑜伽動作練習
 tags:
-  - "#sirsasana"
-  - "#頭倒立"
+  - "sirsasana"
+  - "頭倒立"
 ---
 
 人身難得，這個物種不知道花了多少歲月，兩腳直立，抬頭挺胸，邁步向前。演化，還真辛苦。

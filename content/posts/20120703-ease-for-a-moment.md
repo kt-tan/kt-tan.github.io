@@ -6,10 +6,10 @@ url: /2012/07/ease-for-a-moment/
 categories:
   - yoga 瑜伽>asana 瑜伽動作練習
 tags:
-  - "#ease"
-  - "#sirsasana"
-  - "#what we talk about when we talk about practice"
-  - "#頭倒立"
+  - "ease"
+  - "sirsasana"
+  - "what we talk about when we talk about practice"
+  - "頭倒立"
 ---
 
 以前天天練頭倒立的時候，某一次，在那種 upside-down 的時空裡，突然感覺到了。感覺到了什麼？有點說不太清楚。在當時，我對自己的身體有清楚的感知，知道手在哪，腳在哪，知道哪邊該收，哪裡該放。在這些之外，還有一點點不一樣的，很輕鬆，有些輕飄飄的，呼吸很平順，很舒緩，腦裡暫時沒有雜念，乾乾淨淨的。說乾乾淨淨也不盡然，但就是舒坦，舒坦的盡頭，身體和意識的界限有點 fade out。

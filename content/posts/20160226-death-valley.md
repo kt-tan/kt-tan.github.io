@@ -6,7 +6,7 @@ url: /2016/02/death-valley/
 categories:
   - somatics 身心練習
 tags:
-  - "#種子"
+  - "種子"
 ---
 
 北美洲最低、最乾旱、最炎熱的地區，死亡谷（Death Valley），幾乎可以說鳥不生蛋的地方。其中最低的地方，惡水盆地 Badwater Basin 位在海平面下 86 公尺，夏天攝氏四十幾度是常見的事，在 1913 年時死亡谷的 Furnace Creek 曾高達 56.7 °C，據說是地球表面目前為止的最高溫紀錄。

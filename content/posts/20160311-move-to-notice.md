@@ -6,9 +6,9 @@ url: /2016/03/move-to-notice/
 categories:
   - yoga 瑜伽
 tags:
-  - "#awareness"
-  - "#viveka"
-  - "#what we talk about when we talk about practice"
+  - "awareness"
+  - "viveka"
+  - "what we talk about when we talk about practice"
 ---
 
 很多時候，除了病痛時，我們不會意識到自己的身體；除了煩惱時，我們不會意識到自己的心神。

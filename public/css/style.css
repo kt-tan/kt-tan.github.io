@@ -1,4 +1,4 @@
-*,
+flex-wrap: wrap;*,
 *::before,
 *::after {
 	box-sizing: border-box;
@@ -88,7 +88,7 @@ body {
 	-webkit-order: 2;
 	order: 2;
 	min-width: 0;
-	margin: 0 0 0 2.5%;
+	margin: 0 0 0 5%;
 }
 
 .sidebar--left {
@@ -126,15 +126,16 @@ textarea {
 /* Button */
 .btn {
 	padding: 5px 10px;
-	font-weight: 700;
-	color: #fff;
+	font-weight: 400;
+	color: #333;
 	white-space: pre-line;
-	background: #2a2a2a;
+	background: #fff;
+	border: 1px solid #ddd;
 }
 
 .btn:hover {
-	color: #fff;
-	background: #e22d30;
+	color: #007acc;
+	background: #f5f5f5;
 }
 
 /* Animation */
@@ -188,12 +189,12 @@ h6 {
 }
 
 a {
-	color: #000;
+	color: #007acc;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #e22d30;
+	color: #555;
 }
 
 hr {
@@ -399,7 +400,7 @@ select {
 }
 
 .logo__text {
-	text-transform: uppercase;
+	text-transform: none;
 }
 
 .logo--mixed .logo__item {
@@ -431,8 +432,8 @@ select {
 	font-size: .875rem;
 	font-weight: 700;
 	line-height: 1;
-	color: #e22d30;
-	border-top: 1px solid #ebebeb;
+	color: #000;
+	border-top: none;
 }
 
 .divider {
@@ -493,11 +494,11 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .menu__list {
 	list-style: none;
-	background: #2a2a2a;
+	background: #fff;
 }
 
 .menu__item:hover {
-	background: #e22d30;
+	background: transparent;
 }
 
 .menu__item:first-child {
@@ -505,7 +506,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .menu__item--active {
-	background: #e22d30;
+	background: transparent;
 }
 
 .menu__link {
@@ -513,12 +514,12 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	padding: 10px 15px;
 	padding: .625rem .9375rem;
 	font-weight: 700;
-	color: #fff;
+	color: #000;
 	text-transform: uppercase;
 }
 
 .menu__link:hover {
-	color: #fff;
+	color: #007acc;
 }
 
 .js .menu__list {
@@ -546,7 +547,8 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 @media screen and (min-width: 767px) {
 	.menu {
-		border-bottom: 5px solid #e22d30;
+		border-bottom: 1px solid #ddd;
+		text-align: right;
 	}
 
 	.menu__btn {
@@ -560,6 +562,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 		display: flex;
 		-webkit-flex-wrap: wrap;
 		flex-wrap: wrap;
+		justify-content: flex-end;
 		visibility: visible;
 		border: 0;
 		-webkit-transform: none;
@@ -600,7 +603,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .meta a:hover {
-	color: #e22d30;
+	color: #007acc;
 }
 
 .meta__item {
@@ -624,6 +627,14 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .post__title {
 	margin: 0;
+}
+
+.post__title a {
+	color: #000;
+}
+
+.post__title a:hover {
+	color: #555;
 }
 
 .post__meta {
@@ -656,14 +667,14 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .content a,
 .warning a,
 .authorbox__description a {
-	font-weight: 700;
-	color: #e22d30;
+	font-weight: 400;
+	color: #007acc;
 }
 
 .content a:hover,
 .warning a:hover,
 .authorbox__description a:hover {
-	color: #e22d30;
+	color: #555;
 	text-decoration: underline;
 }
 
@@ -755,13 +766,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .tags__badge {
-	float: left;
-	width: 32px;
-	height: 32px;
-	padding: 8px;
-	margin-right: 6px;
-	background: #e22d30;
-	fill: #fff;
+	display: none;
 }
 
 /* Table of Contents */
@@ -903,14 +908,14 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	display: inline-block;
 	padding: 10px 15px;
 	font-weight: 700;
-	color: #000;
+	color: #007acc;
 	background: #f5f5f5;
 }
 
 .pagination__item:hover,
 .pagination__item--current {
-	color: #fff;
-	background: #e22d30;
+	color: #007acc;
+	background: #f5f5f5;
 }
 
 /* Pager (prev/next links) navigation */
@@ -1061,7 +1066,7 @@ textarea {
 	font-size: 16px;
 	font-size: 1rem;
 	text-transform: uppercase;
-	border-bottom: 3px solid #e22d30;
+	border-bottom: 1px solid #ddd;
 }
 
 .widget__item {

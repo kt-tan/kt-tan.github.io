@@ -6,7 +6,7 @@ url: /2016/01/for-the-sake-of-practicing/
 categories:
   - yoga 瑜伽
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 有些時候我們會覺得無聊。

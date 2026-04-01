@@ -7,8 +7,8 @@ categories:
   - yoga 瑜伽>asana 瑜伽動作練習
   - what we talk about when we talk about practice 當我們討論練習
 tags:
-  - "#mula-bandha"
-  - "#開髖"
+  - "mula-bandha"
+  - "開髖"
 ---
 
 一次又一次，我反覆練習著那些動作，那些看起來，再練個一年兩年十年二十年一輩子也未必能練成的體位法。

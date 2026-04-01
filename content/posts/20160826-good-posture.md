@@ -6,7 +6,7 @@ url: /2016/08/good-posture/
 categories:
   - somatics 身心練習
 tags:
-  - "#姿勢"
+  - "姿勢"
 ---
 
 什麼樣的姿勢才算是好姿勢？

@@ -6,7 +6,7 @@ url: /2011/08/healing-or-hurting/
 categories:
   - what we talk about when we talk about practice 當我們討論練習
 tags:
-  - "#injury"
+  - "injury"
 ---
 
 「五行之氣調陰陽，損心傷肺摧肝腸，藏離精失意恍惚，三焦齊逆兮魂魄飛揚！」

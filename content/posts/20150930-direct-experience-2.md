@@ -7,11 +7,11 @@ categories:
   - somatics 身心練習
   - what we talk about when we talk about practice 當我們討論練習
 tags:
-  - "#awareness"
-  - "#Jean François Billeter"
-  - "#Wittgenstein"
-  - "#技巧"
-  - "#莊子"
+  - "awareness"
+  - "Jean François Billeter"
+  - "Wittgenstein"
+  - "技巧"
+  - "莊子"
 ---
 
 瑞士學者畢來德（Jean François Billeter）在[《莊子四講》](https://www.linkingbooks.com.tw/lnb/book/Book.aspx?ID=163049)裡展示一種閱讀方法（或者技巧）：「從自己的經驗來讀」，這話是什麼意思？

@@ -6,7 +6,7 @@ url: /2015/12/whats-next/
 categories:
   - somatics 身心練習
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 [![whats-next](/images/whats-next.png)](/images/whats-next.png)

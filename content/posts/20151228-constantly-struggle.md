@@ -6,8 +6,8 @@ url: /2015/12/constantly-struggle/
 categories:
   - yoga 瑜伽
 tags:
-  - "#Leslie Kaminoff"
-  - "#what we talk about when we talk about practice"
+  - "Leslie Kaminoff"
+  - "what we talk about when we talk about practice"
 ---
 
 我們都在不斷地掙扎。

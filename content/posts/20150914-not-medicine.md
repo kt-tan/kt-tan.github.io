@@ -6,7 +6,7 @@ url: /2015/09/not-medicine/
 categories:
   - somatics 身心練習
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 「很抱歉，瑜珈不會治癒你的氣喘，不會治癒你的精神分裂症，或者你的……」這是一篇 [Slate 的報導](http://www.slate.com/articles/health_and_science/medical_examiner/2014/03/does_therapeutic_yoga_work_the_best_studies_say_no_but_they_don_t_get_much.html)，檢討了這一二十年，美國對於「祈禱」（prayer）「療效」的神奇崇拜現象。很值得練瑜珈、教瑜珈的朋友們看看。

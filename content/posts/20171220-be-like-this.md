@@ -6,8 +6,8 @@ url: /2017/12/be-like-this/
 categories:
   - yoga 瑜伽>asana 瑜伽動作練習
 tags:
-  - "#asana-hack"
-  - "#virasana"
+  - "asana-hack"
+  - "virasana"
 ---
 
 前兩天讀到一篇[文章](https://yogainternational.com/article/view/w-sitting)，裡頭的附圖人像畫法有點眼熟，哦，原來是 Bernie Clark 去年（2016）的大作 [Your Body, Your Yoga ](https://www.amazon.com/Your-Body-Yoga-Alignment-Skillful/dp/0968766536) 的一段書摘。

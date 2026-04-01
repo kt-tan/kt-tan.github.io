@@ -6,9 +6,9 @@ url: /2015/12/destiny-character/
 categories:
   - somatics 身心練習
 tags:
-  - "#Anaïs Nin"
-  - "#命運"
-  - "#性格"
+  - "Anaïs Nin"
+  - "命運"
+  - "性格"
 ---
 
 [![Nin](/images/Nin.png)](/images/Nin.png)

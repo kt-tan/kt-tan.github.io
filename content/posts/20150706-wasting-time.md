@@ -6,10 +6,10 @@ url: /2015/07/wasting-time/
 categories:
   - bhavana 靜坐
 tags:
-  - "#Chögyam Trungpa"
-  - "#what we talk about when we talk about practice"
-  - "#存在主義"
-  - "#心理治療"
+  - "Chögyam Trungpa"
+  - "what we talk about when we talk about practice"
+  - "存在主義"
+  - "心理治療"
 ---
 
 我們很努力，我們很努力珍惜一分一秒，我們很努力珍惜一分一秒都不浪費，都在練習這個練習那個。因為我們很努力，因此我們覺得，這一分一秒都應該有[對價](https://en.wikipedia.org/wiki/Consideration)的收獲與報償。

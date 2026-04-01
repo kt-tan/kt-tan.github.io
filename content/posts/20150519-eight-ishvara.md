@@ -6,7 +6,7 @@ url: /2015/05/eight-ishvara/
 categories:
   - yoga 瑜伽
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 ![](/images/ancient-yogis.jpg)

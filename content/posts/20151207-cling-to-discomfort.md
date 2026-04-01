@@ -6,10 +6,10 @@ url: /2015/12/cling-to-discomfort/
 categories:
   - buddhism 佛教
 tags:
-  - "#dukkha"
-  - "#what we talk about when we talk about practice"
-  - "#痛苦"
-  - "#習慣"
+  - "dukkha"
+  - "what we talk about when we talk about practice"
+  - "痛苦"
+  - "習慣"
 ---
 
 [![](http://www.popspotsnyc.com/The_Scream/the_scream_400.JPG)](http://www.popspotsnyc.com/The_Scream/)

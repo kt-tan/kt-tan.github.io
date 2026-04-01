@@ -6,11 +6,11 @@ url: /2016/03/posture-and-breathing/
 categories:
   - somatics 身心練習
 tags:
-  - "#annamaya kosha"
-  - "#awareness"
-  - "#pranamaya kosha"
-  - "#呼吸"
-  - "#姿勢"
+  - "annamaya kosha"
+  - "awareness"
+  - "pranamaya kosha"
+  - "呼吸"
+  - "姿勢"
 ---
 
 沒有人不希望能夠好好呼吸，輕鬆呼吸。可是有不少朋友都有呼吸的障礙，其中之一，很可能是姿勢。

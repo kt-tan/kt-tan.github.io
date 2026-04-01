@@ -7,8 +7,8 @@ categories:
   - somatics 身心練習
   - yoga 瑜伽
 tags:
-  - "#listen"
-  - "#傾聽"
+  - "listen"
+  - "傾聽"
 ---
 
 ![](/images/ear-sculpture-1024x768.jpg) photo by [Colin Mutchler](https://www.flickr.com/photos/activefree/2896235298/in/photolist-5pVXRm-4C8Bbi-6XDLbw-r9iZuC-ePX6eD-e1UAuV-7yRf8T-7HAVmc-ocf3K5-bBifKD-2vK35A-cYkPzj-yuHG8-dvYGj-5751a3-c6aZ1-4fzpDD-7rraTh-FSSup-ngpR6-ngpMV-7FDWQK-5UMjMe-nXY71w-j5AiiB-9e5KZk-ngpWP-51MHtH-bNpJEx-3jRDDQ-6wcHW-672tit-5AYuFv-9VZ2GS-7RMHBj-5J8VSX-9hXLvg-9AP6VX-5W7NRF-rB4LX-9BcdGn-7HAVPM-7ww2UH-6pwbFD-dJ6Wjp-7fRHBp-8xjJk6-sdAshk-6s6tWs-4oJnXe)

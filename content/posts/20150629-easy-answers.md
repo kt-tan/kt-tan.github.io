@@ -6,11 +6,11 @@ url: /2015/06/easy-answers/
 categories:
   - yoga 瑜伽
 tags:
-  - "#42"
-  - "#Chögyam Trungpa"
-  - "#what we talk about when we talk about practice"
-  - "#張三丰"
-  - "#技巧"
+  - "42"
+  - "Chögyam Trungpa"
+  - "what we talk about when we talk about practice"
+  - "張三丰"
+  - "技巧"
 ---
 
 人都喜歡找簡單的答案。練瑜珈、練靜坐的、練亞歷山大技巧、練佛法、練中醫、練什麼有的沒的的，都是人，自然也都喜歡找簡單的答案。

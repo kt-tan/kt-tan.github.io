@@ -6,7 +6,7 @@ url: /2012/09/idol-loving/
 categories:
   - yoga 瑜伽
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 吃清淡一點的食物，是不是就對身體比較好，說真的，我也不知道。但是，選擇不是那麼重鹹口味的烹調方式，我相信，比較有機會嚐到我希望入口的食材本身的滋味，少一些天知道是如何製造的人工調味劑，阻隔在食材和我的身體之間。

@@ -6,9 +6,9 @@ url: /2016/06/kukabburras/
 categories:
   - somatics 身心練習
 tags:
-  - "#Alagaddupama Sutta"
-  - "#Maha-hatthipadopama Sutta"
-  - "#upādāna"
+  - "Alagaddupama Sutta"
+  - "Maha-hatthipadopama Sutta"
+  - "upādāna"
 ---
 
 「兩隻笑翠鳥。一條肉。只有一隻能夠取得勝利。」這是我看到的[網路文章](http://www.lostateminor.com/2016/05/31/these-two-kookaburras-fighting-over-food-is-the-most-adorable-battle-of-our-generation/)的開頭。

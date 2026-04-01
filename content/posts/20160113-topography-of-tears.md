@@ -6,7 +6,7 @@ url: /2016/01/topography-of-tears/
 categories:
   - somatics 身心練習
 tags:
-  - "#情緒"
+  - "情緒"
 ---
 
 每個人都會流淚。為了讓眼睛濕潤而自然分泌的淚水（basal tears），像是吃辣等刺激而生出的淚水（reflex tears），還有就是情緒（大腦）反應而來的心理性的淚水（psychic tears）。

@@ -6,7 +6,7 @@ url: /2012/05/practice-alone/
 categories:
   - somatics 身心練習
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 一直相信，瑜珈教室、瑜珈老師存在的目的，是要讓練習者能夠離開教室、離開老師，獨自練習。

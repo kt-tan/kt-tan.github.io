@@ -8,8 +8,8 @@ categories:
   - practice notes 練習日記
   - what we talk about when we talk about practice 當我們討論練習
 tags:
-  - "#rest"
-  - "#休息"
+  - "rest"
+  - "休息"
 ---
 
 對我來說，每次聽到類似「當下就是最美好的」、「接受並且臣服在目前的一切」的話術，總是會讓我心裡不自主地翻白眼。

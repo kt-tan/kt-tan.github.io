@@ -6,13 +6,13 @@ url: /2016/04/try-differently/
 categories:
   - bhavana 靜坐
 tags:
-  - "#annamaya kosha"
-  - "#expert performance"
-  - "#pranamaya kosha"
-  - "#呼吸"
-  - "#後彎"
-  - "#習慣"
-  - "#舒適圈"
+  - "annamaya kosha"
+  - "expert performance"
+  - "pranamaya kosha"
+  - "呼吸"
+  - "後彎"
+  - "習慣"
+  - "舒適圈"
 ---
 
 在蔡璧名老師的《穴道導引》裡讀到一個有趣的例子。她的父親蔡肇祺，身為太極拳資深老師，竟然曾有三年沒練拳，原來是轉去練瑜珈（Kriya Yoga）。結果三年之後，重新再打太極拳，「功夫反而大進」。

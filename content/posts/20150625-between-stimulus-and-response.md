@@ -6,9 +6,9 @@ url: /2015/06/between-stimulus-and-response/
 categories:
   - somatics 身心練習
 tags:
-  - "#Viktor E. Frankl"
-  - "#刺激"
-  - "#選擇"
+  - "Viktor E. Frankl"
+  - "刺激"
+  - "選擇"
 ---
 
 [某老師被學生問](http://excellencereporter.com/2015/06/09/leslie-kaminoff-the-meaning-of-human-life/)，「生命的意義是什麼？」老師回得非常漂亮，「只有人，才會思考生命的意義是什麼，因此，你的問題比較好的呈現方式，應該是問，『什麼是**人** 生命的意義？』」

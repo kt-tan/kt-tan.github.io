@@ -7,9 +7,9 @@ categories:
   - bhavana 靜坐
   - yoga 瑜伽
 tags:
-  - "#retreat"
-  - "#what we talk about when we talk about practice"
-  - "#道場"
+  - "retreat"
+  - "what we talk about when we talk about practice"
+  - "道場"
 ---
 
 英文的 retreat 這個字很有意思。一方面是撤退、放棄的意思，一方面又是隱居或者避難（或者避難所）。

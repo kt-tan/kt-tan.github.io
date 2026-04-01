@@ -6,8 +6,8 @@ url: /2016/03/yoga-therapy/
 categories:
   - yoga 瑜伽
 tags:
-  - "#what we talk about when we talk about practice"
-  - "#療癒"
+  - "what we talk about when we talk about practice"
+  - "療癒"
 ---
 
 我們總是多少有些什麼毛病、症狀，在身體這個那個部位，在這種那種情緒裡，在這般那般的思考模式中。

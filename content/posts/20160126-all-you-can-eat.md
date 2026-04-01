@@ -6,7 +6,7 @@ url: /2016/01/all-you-can-eat/
 categories:
   - yoga 瑜伽
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 接到廣告信。

@@ -6,7 +6,7 @@ url: /2016/01/first-lessons/
 categories:
   - yoga 瑜伽
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 你上過多少課？多少次特別的進階課？多少次工作坊？多少次上課前興沖沖、上課時喜孜孜勤奮筆記錄音錄影、下課後沒幾天就全忘光光？

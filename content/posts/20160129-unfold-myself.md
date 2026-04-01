@@ -6,8 +6,8 @@ url: /2016/01/unfold-myself/
 categories:
   - somatics 身心練習
 tags:
-  - "#ātman"
-  - "#atta"
+  - "ātman"
+  - "atta"
 ---
 
 巴西作家 [Clarice Lispector](https://en.wikipedia.org/wiki/Clarice_Lispector) 這麼說：

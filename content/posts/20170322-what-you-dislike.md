@@ -7,8 +7,8 @@ categories:
   - somatics 身心練習
   - yoga 瑜伽
 tags:
-  - "#awareness"
-  - "#覺知"
+  - "awareness"
+  - "覺知"
 ---
 
 ![](/images/cleaning-1024x683.jpg)

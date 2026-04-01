@@ -14,8 +14,8 @@ categories:
   - somatics 身心練習
   - what we talk about when we talk about practice 當我們討論練習
 tags:
-  - "#plesaure"
-  - "#愉悅"
+  - "plesaure"
+  - "愉悅"
 ---
 
 你有多久沒有在練動作的過程感覺到身體的愉悅了呢？

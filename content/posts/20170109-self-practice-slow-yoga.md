@@ -7,7 +7,7 @@ categories:
   - bhavana 靜坐
   - yoga 瑜伽
 tags:
-  - "#慢瑜珈"
+  - "慢瑜珈"
 ---
 
 ![](/images/turning-road-1024x683.jpg)

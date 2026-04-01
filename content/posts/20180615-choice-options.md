@@ -9,7 +9,7 @@ categories:
   - somatics 身心練習>feldenkrais method 費登奎斯方法
   - what we talk about when we talk about practice 當我們討論練習
 tags:
-  - "#選擇"
+  - "選擇"
 ---
 
 在《哈利波特─消失的密室》裡，鄧不利多（Albus Dumbledore）有句話是這麼說的：

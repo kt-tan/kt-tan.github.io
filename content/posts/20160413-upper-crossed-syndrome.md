@@ -7,8 +7,8 @@ categories:
   - somatics 身心練習
   - yoga 瑜伽
 tags:
-  - "#annamaya kosha"
-  - "#上交叉症候群"
+  - "annamaya kosha"
+  - "上交叉症候群"
 ---
 
 暫停一秒鐘。先別動，閉上眼睛想一想，你的頭在什麼地方？在肩膀、軀幹的上方？還是跑到肩膀、軀幹的前方？

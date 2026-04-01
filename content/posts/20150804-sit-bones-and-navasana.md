@@ -6,9 +6,9 @@ url: /2015/08/sit-bones-and-navasana/
 categories:
   - somatics 身心練習
 tags:
-  - "#navasana"
-  - "#vajrasana"
-  - "#坐骨"
+  - "navasana"
+  - "vajrasana"
+  - "坐骨"
 ---
 
 現代人非常多時間，都是坐著的。現代人享有各式各樣的坐具，但在還沒有舒適的坐具之前，人們很可能是或者席地而坐，或者跪坐，就像是瑜珈裡的金剛坐（vajrasana）一樣。

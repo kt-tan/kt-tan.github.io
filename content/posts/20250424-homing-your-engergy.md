@@ -10,8 +10,8 @@ categories:
   - somatics 身心練習
   - yoga 瑜伽
 tags:
-  - "#站椿"
-  - "#養生"
+  - "站椿"
+  - "養生"
 ---
 
 ![](/images/summer.jpg)

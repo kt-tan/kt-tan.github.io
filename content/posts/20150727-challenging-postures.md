@@ -6,12 +6,12 @@ url: /2015/07/challenging-postures/
 categories:
   - yoga 瑜伽>asana 瑜伽動作練習
 tags:
-  - "#clinging"
-  - "#craving"
-  - "#taṇhā"
-  - "#upādāna"
-  - "#what we talk about when we talk about practice"
-  - "#進階練習"
+  - "clinging"
+  - "craving"
+  - "taṇhā"
+  - "upādāna"
+  - "what we talk about when we talk about practice"
+  - "進階練習"
 ---
 
 練體位法的過程，我們總是想著「進步」，從一個一個「簡單」的動作練習，我們以為，一直練下去，總有一天，我們就可以「完成」某些「高難度」的動作，像是，不靠牆的手倒立（能加個雙盤蓮花就更棒了）。

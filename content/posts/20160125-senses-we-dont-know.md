@@ -6,8 +6,8 @@ url: /2016/01/senses-we-dont-know/
 categories:
   - somatics 身心練習
 tags:
-  - "#awareness"
-  - "#locomotion system"
+  - "awareness"
+  - "locomotion system"
 ---
 
 天氣爆冷。我換上比較暖的刷毛長褲出門，還是冷。雙手自然躲到褲子口袋裡暖著。走著走著，好像注意到有什麼不一樣的事。

@@ -6,7 +6,7 @@ url: /2015/06/if-the-word-yoga-means-many-things/
 categories:
   - somatics 身心練習
 tags:
-  - "#Mircea Eliade"
+  - "Mircea Eliade"
 ---
 
 > If the word ‘Yoga’ means many things that is because Yoga is many things.

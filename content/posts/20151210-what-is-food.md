@@ -6,11 +6,11 @@ url: /2015/12/what-is-food/
 categories:
   - yoga 瑜伽
 tags:
-  - "#anna"
-  - "#annamaya kosha"
-  - "#kosha"
-  - "#T. K. V. Desikachar"
-  - "#食物"
+  - "anna"
+  - "annamaya kosha"
+  - "kosha"
+  - "T. K. V. Desikachar"
+  - "食物"
 ---
 
 照字典講，意思很清楚，「一切可供飲食的東西」都是「食物」。

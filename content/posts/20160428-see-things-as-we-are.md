@@ -6,7 +6,7 @@ url: /2016/04/see-things-as-we-are/
 categories:
   - somatics 身心練習>alexander technique 亞歷山大技巧
 tags:
-  - "#what we talk about when we talk about practice"
+  - "what we talk about when we talk about practice"
 ---
 
 [![reflections](/images/reflections.jpg)](/images/reflections.jpg)  
