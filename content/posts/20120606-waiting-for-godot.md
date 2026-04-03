@@ -4,8 +4,8 @@ date: 2012-06-06
 site: kt-lab
 url: /2012/06/waiting-for-godot/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 tags:
   - "mula-bandha"
   - "開髖"

@@ -4,9 +4,9 @@ date: 2019-12-06
 site: kt-lab
 url: /2019/12/its-time-to-sit/
 categories:
-  - bhavana 靜坐
-  - sensibility / observation 感受 / 覺察
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Sensibility / Observation 感受 / 覺察
+  - Yoga 瑜伽
 ---
 
 上次有個同學說，「有一兩次上靜坐課的時候，周遭的環境、整個人都狀況很好，坐著坐著，彷彿很快就進入很專心的狀態，好像真正享受到安靜下來滋味，才能徹底釋放平常放不開的緊繃。可是，今天坐下來，好像外面也很吵雜，腦子裡面也亂糟糟的，怎麼靜坐啊？」

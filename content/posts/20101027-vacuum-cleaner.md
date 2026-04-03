@@ -4,7 +4,7 @@ date: 2010-10-27
 site: kt-lab
 url: /2010/10/vacuum-cleaner/
 categories:
-  - what we talk about when we talk about practice 當我們討論練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 「有些人可能誤會了。」老師這樣說，「就好像，如果你要邀請朋友到家裡來，你會先整理乾淨，然後讓朋友欣賞到舒適的環境，共度一段美好的時光。你應該不會在朋友來的時候，展現給他們看，你用了哪些工具，清掃了多少灰塵、垃圾。」說著說著，老師隨手擺了個 Parsvakonasana，「『你看，我的這個瑜珈動作多漂亮啊。』這大概是誤會了。這些 asana，或者 pranayama，種種練習，也不過就是清理自己的工具罷了。」

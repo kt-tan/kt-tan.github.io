@@ -4,8 +4,8 @@ date: 2017-10-20
 site: kt-lab
 url: /2017/10/best-exercise/
 categories:
-  - bhavana 靜坐
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Yoga 瑜伽
 ---
 
 最好的光線就是自然光，最好的相機就是手邊拿得到的那台相機（通常也就是手機）。想到要拍照的時候，隨時可以拿出來拍就是了。

@@ -4,7 +4,7 @@ date: 2016-05-09
 site: kt-lab
 url: /2016/05/do-you-really-want-to-be-relaxed/
 categories:
-  - somatics 身心練習>alexander technique 亞歷山大技巧
+  - Somatics 身心練習>Alexander Technique 亞歷山大技巧
 tags:
   - "放鬆"
 ---

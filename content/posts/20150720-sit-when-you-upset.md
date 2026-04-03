@@ -4,7 +4,7 @@ date: 2015-07-20
 site: kt-lab
 url: /2015/07/sit-when-you-upset/
 categories:
-  - bhavana 靜坐
+  - Bhavana 靜坐
 tags:
   - "what we talk about when we talk about practice"
 ---

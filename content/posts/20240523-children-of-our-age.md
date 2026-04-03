@@ -4,12 +4,12 @@ date: 2024-05-23
 site: kt-lab
 url: /2024/05/children-of-our-age/
 categories:
-  - bhavana 靜坐
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - unlearn 重新學習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 ![](/images/children-of-our-age.jpg)

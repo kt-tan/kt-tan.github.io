@@ -4,8 +4,8 @@ date: 2011-07-11
 site: kt-lab
 url: /2011/07/how-to-choose-a-teacher/
 categories:
-  - school 教學特色
-  - what we talk about when we talk about practice 當我們討論練習
+  - School 教學特色
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 朋友問，有沒有推薦的瑜珈教室或者老師？

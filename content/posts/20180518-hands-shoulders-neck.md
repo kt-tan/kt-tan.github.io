@@ -4,12 +4,12 @@ date: 2018-05-18
 site: kt-lab
 url: /2018/05/hands-shoulders-neck/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - bhavana 靜坐
-  - movement 動作
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Bhavana 靜坐
+  - Movement 動作
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 手掌、手指能傳回多少精緻、細微的訊息給我們？我們能從自己的手，理解、認識到觸摸的對象嗎？甚至說，我們能不能藉由手的觸感，反過頭來，體認到作為觸摸者的自己，自己的手和肩頸的連動關係，自己整個人處在什麼樣的身心狀態嗎？

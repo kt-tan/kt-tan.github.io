@@ -4,7 +4,7 @@ date: 2017-02-20
 site: kt-lab
 url: /2017/02/what-you-practice-today/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "what we talk about when we talk about practice"
 ---

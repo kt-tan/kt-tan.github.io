@@ -4,7 +4,7 @@ date: 2016-03-11
 site: kt-lab
 url: /2016/03/move-to-notice/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "awareness"
   - "viveka"

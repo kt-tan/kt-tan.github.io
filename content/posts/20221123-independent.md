@@ -4,12 +4,12 @@ date: 2022-11-23
 site: kt-lab
 url: /2022/11/independent/
 categories:
-  - bhavana 靜坐
-  - movement 動作
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Movement 動作
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 tags:
   - "unlearn"
 ---

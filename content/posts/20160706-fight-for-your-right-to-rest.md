@@ -4,7 +4,7 @@ date: 2016-07-06
 site: kt-lab
 url: /2016/07/fight-for-your-right-to-rest/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 ![](/images/struggled-into-existence.jpg)

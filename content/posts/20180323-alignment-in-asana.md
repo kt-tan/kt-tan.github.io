@@ -4,8 +4,8 @@ date: 2018-03-23
 site: kt-lab
 url: /2018/03/alignment-in-asana/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - unlearn 重新學習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Unlearn 重新學習
 tags:
   - "alignment"
   - "正位"

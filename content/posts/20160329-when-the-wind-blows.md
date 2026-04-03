@@ -4,7 +4,7 @@ date: 2016-03-29
 site: kt-lab
 url: /2016/03/when-the-wind-blows/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "情緒"
   - "深呼吸"

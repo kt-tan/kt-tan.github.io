@@ -4,7 +4,7 @@ date: 2015-08-24
 site: kt-lab
 url: /2015/08/the-miracles/
 categories:
-  - buddhism 佛教
+  - Buddhism 佛教
 tags:
   - "what we talk about when we talk about practice"
 ---

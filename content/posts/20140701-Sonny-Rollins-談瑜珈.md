@@ -4,7 +4,7 @@ date: 2014-07-01
 site: kt-lab
 url: /2014/07/sonny-rollins-%e8%ab%87%e7%91%9c%e7%8f%88/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 「每次演奏應該都會呈現出不同的樣貌，這就是即興，爵士樂本來就是這樣子的。」

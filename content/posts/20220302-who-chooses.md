@@ -4,11 +4,11 @@ date: 2022-03-02
 site: kt-lab
 url: /2022/03/who-chooses/
 categories:
-  - bhavana 靜坐
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - unlearn 重新學習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Unlearn 重新學習
+  - Yoga 瑜伽
 ---
 
 ![](/images/DSC05590.jpg)

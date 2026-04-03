@@ -4,7 +4,7 @@ date: 2016-01-25
 site: kt-lab
 url: /2016/01/senses-we-dont-know/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "awareness"
   - "locomotion system"

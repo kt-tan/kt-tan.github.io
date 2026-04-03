@@ -4,12 +4,12 @@ date: 2024-01-25
 site: kt-lab
 url: /2024/01/nothing-but-sound/
 categories:
-  - bhavana 靜坐
-  - practice notes 練習日記
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Practice Notes 練習日記
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - Yoga 瑜伽
 tags:
   - "Krishnamurti"
 ---

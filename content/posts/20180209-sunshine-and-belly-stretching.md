@@ -4,8 +4,8 @@ date: 2018-02-09
 site: kt-lab
 url: /2018/02/sunshine-and-belly-stretching/
 categories:
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 剛剛在孔雀羽毛式（肘倒立）停留的片刻，似乎從落地窗外看到一絲陽光。久違的日頭啊。

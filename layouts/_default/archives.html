@@ -1,0 +1,30 @@
+{{ define "main" }}
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">文章列表</h1>
+		</header>
+		<div class="content post__content clearfix">
+		<p class="archives-toc">
+		{{- range .Site.RegularPages.GroupByDate "2006" }}
+			{{- if ne .Key "0001" }}<a href="#{{ .Key }}">{{ .Key }}年</a>{{ end }}
+		{{- end }}
+		</p>
+		{{- range .Site.RegularPages.GroupByDate "2006" }}
+		{{- if eq .Key "0001" }}{{- continue }}{{- end }}
+			<h2 id="{{ .Key }}">{{ .Key }}年</h2>
+			{{- range .Pages.GroupByDate "2006-01" }}
+			{{- $monthID := (index .Pages 0).Date.Format "2006-01" }}
+			{{- $monthLabel := (index .Pages 0).Date.Format "1月" }}
+			<h3 id="{{ $monthID }}">{{ $monthLabel }}</h3>
+			<ul>
+				{{- range .Pages }}
+				<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+				{{- end }}
+			</ul>
+			{{- end }}
+		{{- end }}
+		</div>
+	</article>
+</main>
+{{ end }}

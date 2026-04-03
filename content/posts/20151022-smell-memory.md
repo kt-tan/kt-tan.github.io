@@ -4,7 +4,7 @@ date: 2015-10-22
 site: kt-lab
 url: /2015/10/smell-memory/
 categories:
-  - bhavana 靜坐
+  - Bhavana 靜坐
 tags:
   - "what we talk about when we talk about practice"
   - "氣味"

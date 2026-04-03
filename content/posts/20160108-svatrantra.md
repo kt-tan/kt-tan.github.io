@@ -4,7 +4,7 @@ date: 2016-01-08
 site: kt-lab
 url: /2016/01/svatrantra/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "svatantra"
   - "T. K. V. Desikachar"

@@ -4,8 +4,8 @@ date: 2018-04-20
 site: kt-lab
 url: /2018/04/not-nonself-but-not-self/
 categories:
-  - terminology 說文解字
-  - buddhism 佛教>theravada 上座部佛教
+  - Terminology 說文解字
+  - Buddhism 佛教>Theravada 上座部佛教
 ---
 
 關於「定型」，之前讀到一段[有趣的故事](https://www.thenewslens.com/article/90176)，作家史蒂芬．金這樣說：

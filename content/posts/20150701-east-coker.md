@@ -4,7 +4,7 @@ date: 2015-07-01
 site: kt-lab
 url: /2015/07/east-coker/
 categories:
-  - bhavana 靜坐
+  - Bhavana 靜坐
 tags:
   - "T. S. Elliot"
   - "what we talk about when we talk about practice"

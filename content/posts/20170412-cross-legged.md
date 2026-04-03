@@ -4,7 +4,7 @@ date: 2017-04-12
 site: kt-lab
 url: /2017/04/cross-legged/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "坐姿"
   - "脈絡"

@@ -4,7 +4,7 @@ date: 2015-09-07
 site: kt-lab
 url: /2015/09/there-is-no-time/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "what we talk about when we talk about practice"
 ---

@@ -4,9 +4,9 @@ date: 2019-05-24
 site: kt-lab
 url: /2019/05/today-is-the-day/
 categories:
-  - bhavana 靜坐
-  - unlearn 重新學習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Unlearn 重新學習
+  - Yoga 瑜伽
 ---
 
 我們總是以為還有明天。

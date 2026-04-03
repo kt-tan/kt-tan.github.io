@@ -4,10 +4,10 @@ date: 2019-08-15
 site: kt-lab
 url: /2019/08/trx-or-rhabdomyolysis/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - movement 動作
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Movement 動作
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
 ---
 
 ![](/images/cagnaccio-di-san-pietro-lalzana-1926.jpg) L’Alzana, 1926 by Cagnaccio di San Pietro (1897 – 1946)

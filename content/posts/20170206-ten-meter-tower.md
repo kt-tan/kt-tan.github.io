@@ -4,7 +4,7 @@ date: 2017-02-06
 site: kt-lab
 url: /2017/02/ten-meter-tower/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "emotion"
   - "fear"

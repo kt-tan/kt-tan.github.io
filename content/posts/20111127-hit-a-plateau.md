@@ -4,7 +4,7 @@ date: 2011-11-27
 site: kt-lab
 url: /2011/11/hit-a-plateau/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 練習是辛苦的。練習是無聊的。如果你已經開始進入撞牆期的話。

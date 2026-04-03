@@ -4,7 +4,7 @@ date: 2015-12-07
 site: kt-lab
 url: /2015/12/cling-to-discomfort/
 categories:
-  - buddhism 佛教
+  - Buddhism 佛教
 tags:
   - "dukkha"
   - "what we talk about when we talk about practice"

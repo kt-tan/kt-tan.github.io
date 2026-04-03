@@ -4,12 +4,12 @@ date: 2023-06-19
 site: kt-lab
 url: /2023/06/general-solution/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - medicine 醫學
-  - movement 動作
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Medicine 醫學
+  - Movement 動作
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 某個朋友抱怨說自己下背痛，要我幫忙建議一兩組動作，以便解決疼痛，順便用來復健、日常保養，以防再復發。我說我沒有辦法在沒看到人的情況之下，給一組通用的答案。

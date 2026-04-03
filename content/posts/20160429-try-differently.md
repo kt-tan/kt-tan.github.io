@@ -4,7 +4,7 @@ date: 2016-04-29
 site: kt-lab
 url: /2016/04/try-differently/
 categories:
-  - bhavana 靜坐
+  - Bhavana 靜坐
 tags:
   - "annamaya kosha"
   - "expert performance"

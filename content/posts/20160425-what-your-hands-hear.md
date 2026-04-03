@@ -4,7 +4,7 @@ date: 2016-04-25
 site: kt-lab
 url: /2016/04/what-your-hands-hear/
 categories:
-  - somatics 身心練習>alexander technique 亞歷山大技巧
+  - Somatics 身心練習>Alexander Technique 亞歷山大技巧
 tags:
   - "Missy Vineyard"
   - "聽力"

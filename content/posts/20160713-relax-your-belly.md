@@ -4,7 +4,7 @@ date: 2016-07-13
 site: kt-lab
 url: /2016/07/relax-your-belly/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 最近很常和同學玩一種遊戲：躺下來，彎曲膝蓋，兩腳踩地（semi-supine）或者腳掌踩著腳掌（supta baddhakonasana），手掌心輕輕放在肚臍上，輕鬆呼吸。接著慢慢讓兩腳離開地面，但有一項規則，如果手掌心偵測到肚子往上（天花板的方向）鼓起，就讓腳回到地板。

@@ -4,9 +4,9 @@ date: 2023-09-06
 site: kt-lab
 url: /2023/09/head-lower-than-heart/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - practice notes 練習日記
-  - school 教學特色
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Practice Notes 練習日記
+  - School 教學特色
 ---
 
 ![](/images/upside-down.jpg)

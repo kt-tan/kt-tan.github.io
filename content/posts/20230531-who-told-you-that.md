@@ -4,12 +4,12 @@ date: 2023-05-31
 site: kt-lab
 url: /2023/05/who-told-you-that/
 categories:
-  - bhavana 靜坐
-  - buddhism 佛教
-  - school 教學特色
-  - unlearn 重新學習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Buddhism 佛教
+  - School 教學特色
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 「印度有四句極具靈性的話」、「釋迦牟尼最經典的四句話」：

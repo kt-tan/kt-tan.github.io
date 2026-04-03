@@ -4,8 +4,8 @@ date: 2017-06-28
 site: kt-lab
 url: /2017/06/spring-back/
 categories:
-  - somatics 身心練習
-  - yoga 瑜伽
+  - Somatics 身心練習
+  - Yoga 瑜伽
 tags:
   - "放鬆"
 ---

@@ -4,8 +4,8 @@ date: 2015-09-30
 site: kt-lab
 url: /2015/10/direct-experience-2/
 categories:
-  - somatics 身心練習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Somatics 身心練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 tags:
   - "awareness"
   - "Jean François Billeter"

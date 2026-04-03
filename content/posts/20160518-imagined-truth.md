@@ -4,8 +4,8 @@ date: 2016-05-18
 site: kt-lab
 url: /2016/05/imagined-truth/
 categories:
-  - bhavana 靜坐
-  - buddhism 佛教
+  - Bhavana 靜坐
+  - Buddhism 佛教
 tags:
   - "Yoga Nidra"
   - "想像"

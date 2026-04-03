@@ -4,11 +4,11 @@ date: 2019-08-29
 site: kt-lab
 url: /2019/08/loudest-voice-little-voice/
 categories:
-  - bhavana 靜坐
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 tags:
   - "傾聽"
   - "聲音"

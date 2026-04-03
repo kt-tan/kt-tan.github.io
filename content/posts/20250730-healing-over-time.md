@@ -4,12 +4,12 @@ date: 2025-07-30
 site: kt-lab
 url: /2025/07/healing-over-time/
 categories:
-  - bhavana 靜坐
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 ![](/images/heroes.jpg)

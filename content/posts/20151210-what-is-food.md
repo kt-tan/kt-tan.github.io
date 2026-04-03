@@ -4,7 +4,7 @@ date: 2015-12-10
 site: kt-lab
 url: /2015/12/what-is-food/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "anna"
   - "annamaya kosha"

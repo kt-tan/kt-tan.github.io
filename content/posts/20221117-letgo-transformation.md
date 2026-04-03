@@ -4,9 +4,9 @@ date: 2022-11-17
 site: kt-lab
 url: /2022/11/letgo-transformation/
 categories:
-  - bhavana 靜坐
-  - practice notes 練習日記
-  - unlearn 重新學習
+  - Bhavana 靜坐
+  - Practice Notes 練習日記
+  - Unlearn 重新學習
 ---
 
 這兩年自己面臨一些比較嚴峻且艱難的生命課題，常常有種被壓到快喘不過氣來的心情。

@@ -4,9 +4,9 @@ date: 2025-09-26
 site: kt-lab
 url: /2025/09/new-friend-old-friend/
 categories:
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - unlearn 重新學習
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - Unlearn 重新學習
 ---
 
 ![](/images/ai-friend.jpg)

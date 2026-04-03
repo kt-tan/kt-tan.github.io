@@ -4,8 +4,8 @@ date: 2017-03-27
 site: kt-lab
 url: /2017/03/listen-to-what-your-body-needs/
 categories:
-  - somatics 身心練習
-  - yoga 瑜伽
+  - Somatics 身心練習
+  - Yoga 瑜伽
 tags:
   - "listen"
   - "傾聽"

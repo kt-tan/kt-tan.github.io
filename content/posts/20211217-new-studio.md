@@ -4,9 +4,9 @@ date: 2021-12-17
 site: kt-lab
 url: /2021/12/new-studio/
 categories:
-  - classroom 教室
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Classroom 教室
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 ![](/images/IMG_2099.jpg)

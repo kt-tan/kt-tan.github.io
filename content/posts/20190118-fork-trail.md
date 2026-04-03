@@ -4,8 +4,8 @@ date: 2019-01-18
 site: kt-lab
 url: /2019/01/fork-trail/
 categories:
-  - bhavana 靜坐
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Yoga 瑜伽
 tags:
   - "呼吸"
   - "指南針"

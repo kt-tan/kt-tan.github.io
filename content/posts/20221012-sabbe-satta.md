@@ -4,12 +4,12 @@ date: 2022-10-12
 site: kt-lab
 url: /2022/10/sabbe-satta/
 categories:
-  - bhavana 靜坐
-  - sensibility / observation 感受 / 覺察
-  - buddhism 佛教>theravada 上座部佛教
-  - unlearn 重新學習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Sensibility / Observation 感受 / 覺察
+  - Buddhism 佛教>Theravada 上座部佛教
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 從小到老，烤肉的次數屈指可數。印象最深刻的，就是前一次（也就是目前為止的最後一次）。

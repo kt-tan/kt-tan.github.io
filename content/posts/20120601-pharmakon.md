@@ -4,8 +4,8 @@ date: 2012-06-01
 site: kt-lab
 url: /2012/06/pharmakon/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - medicine 醫學>traditional chinese medicine 中醫
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Medicine 醫學>Traditional Chinese Medicine 中醫
 tags:
   - "injury"
 ---

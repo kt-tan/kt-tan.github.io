@@ -4,7 +4,7 @@ date: 2016-08-19
 site: kt-lab
 url: /2016/08/do-you-know/
 categories:
-  - somatics 身心練習>feldenkrais method 費登奎斯方法
+  - Somatics 身心練習>Feldenkrais Method 費登奎斯方法
 tags:
   - "Moshé Feldenkrais"
 ---

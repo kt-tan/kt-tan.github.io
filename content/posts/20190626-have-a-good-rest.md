@@ -4,10 +4,10 @@ date: 2019-06-26
 site: kt-lab
 url: /2019/06/have-a-good-rest/
 categories:
-  - bhavana 靜坐
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
+  - Bhavana 靜坐
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
 ---
 
 我一直還記得那一幕：下課後，一位同學幾乎是眼眶裡含著淚水過來，向我道謝。她有點像是喜極而泣地說，「終於能夠閉上眼睛，享受整個人放鬆、休息的滋味了」，她說她甚至睡著了一小段時間，那一小段時間，在精神上、在生理上，彷彿暫時緩解了她過去兩三個星期因為躁鬱症發作而無法入眠的疲累，也讓她感到從身體深處的釋放。

@@ -4,7 +4,7 @@ date: 2016-09-21
 site: kt-lab
 url: /2016/09/who-decides/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "what we talk about when we talk about practice"
 ---

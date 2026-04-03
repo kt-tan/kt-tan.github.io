@@ -4,10 +4,10 @@ date: 2024-01-10
 site: kt-lab
 url: /2024/01/make-good-use-of-knees/
 categories:
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - unlearn 重新學習
-  - yoga 瑜伽
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Unlearn 重新學習
+  - Yoga 瑜伽
 tags:
   - "姿勢"
   - "覺察"

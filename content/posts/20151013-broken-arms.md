@@ -4,7 +4,7 @@ date: 2015-10-13
 site: kt-lab
 url: /2015/10/broken-arms/
 categories:
-  - somatics 身心練習>alexander technique 亞歷山大技巧
+  - Somatics 身心練習>Alexander Technique 亞歷山大技巧
 tags:
   - "what we talk about when we talk about practice"
   - "太極拳"

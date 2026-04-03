@@ -4,7 +4,7 @@ date: 2017-12-25
 site: kt-lab
 url: /2017/12/solstice-historja/
 categories:
-  - classroom 教室
+  - Classroom 教室
 ---
 
 前兩年我在臉書上寫著，「前幾天冬至剛過，今天是耶誕節。冬至很重要。耶誕節很重要。每天都很重要。」

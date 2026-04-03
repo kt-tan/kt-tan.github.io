@@ -4,7 +4,7 @@ date: 2015-12-04
 site: kt-lab
 url: /2015/12/whats-next/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "what we talk about when we talk about practice"
 ---

@@ -4,7 +4,7 @@ date: 2012-01-09
 site: kt-lab
 url: /2012/01/stockholm-syndrome/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 離開「那家學校」好一段時間了。很久沒機會再近距離觀察，如果沒細想的話，真的會以為，很多事情都消失不見了。其實沒有，自己看不到的世界，仍然穩穩持續運轉中。

@@ -4,7 +4,7 @@ date: 2021-06-05
 site: kt-lab
 url: /2021/06/online-class/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 全世界練習一整年不同科目、不同類型的網路直播教學，如今，終於也輪到我們台灣上場了。

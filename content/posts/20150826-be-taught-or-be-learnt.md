@@ -4,8 +4,8 @@ date: 2015-08-26
 site: kt-lab
 url: /2015/08/be-taught-or-be-learnt/
 categories:
-  - bhavana 靜坐
-  - somatics 身心練習
+  - Bhavana 靜坐
+  - Somatics 身心練習
 tags:
   - "T. K. V. Desikachar"
   - "teaching"

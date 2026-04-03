@@ -4,8 +4,8 @@ date: 2017-05-03
 site: kt-lab
 url: /2017/05/conscious-breathing/
 categories:
-  - somatics 身心練習>alexander technique 亞歷山大技巧
-  - bhavana 靜坐
+  - Somatics 身心練習>Alexander Technique 亞歷山大技巧
+  - Bhavana 靜坐
 ---
 
 一覺起來，脖子左邊繃得緊緊的，右大腿大轉子附近也是，仔細繼續觀察，右小腿也緊，右下背也緊，左肩也緊。

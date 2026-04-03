@@ -4,7 +4,7 @@ date: 2016-10-05
 site: kt-lab
 url: /2016/10/integration/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 ![](https://www.danesculptor.com/gallery/danes/downward/a_downward1.jpg) 青銅打造的下犬式。圖片[出處](https://www.danesculptor.com/gallery/danes/downward/)。

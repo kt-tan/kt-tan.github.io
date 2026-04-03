@@ -4,12 +4,12 @@ date: 2020-12-31
 site: kt-lab
 url: /2020/12/practice-to-change/
 categories:
-  - bhavana 靜坐
-  - movement 動作
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Movement 動作
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 ![](/images/russian-winter.jpg) Photo by [Ottabatta](https://pixabay.com/zh/users/ottabatta-4928479/)

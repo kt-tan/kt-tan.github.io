@@ -4,7 +4,7 @@ date: 2015-12-29
 site: kt-lab
 url: /2015/12/long-term-effects/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "Paul Grilley"
   - "舒適圈"

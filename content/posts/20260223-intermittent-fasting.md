@@ -4,13 +4,13 @@ date: 2026-02-23
 site: kt-lab
 url: /2026/02/intermittent-fasting/
 categories:
-  - bhavana 靜坐
-  - practice notes 練習日記
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - unlearn 重新學習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Practice Notes 練習日記
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 ![](/images/IMG_7975.jpg)

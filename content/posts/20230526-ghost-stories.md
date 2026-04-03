@@ -4,11 +4,11 @@ date: 2023-05-26
 site: kt-lab
 url: /2023/05/ghost-stories/
 categories:
-  - bhavana 靜坐
-  - buddhism 佛教
-  - school 教學特色
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Buddhism 佛教
+  - School 教學特色
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 記不得是聽朋友講的、還是網路上看來的：某君動了眼科手術之後，在某些特殊角度、光線的組合下，眼角竟然浮現出一組羅馬字母與數字，也不知多久之後才確認，那是他的人工角膜的商品型號。乍聽之下，彷彿有點像是要模仿 Ted Chiang 科幻小說的一段開場白呢。

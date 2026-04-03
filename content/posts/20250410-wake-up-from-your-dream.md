@@ -4,12 +4,12 @@ date: 2025-04-10
 site: kt-lab
 url: /2025/04/wake-up-from-your-dream/
 categories:
-  - bhavana 靜坐
-  - buddhism 佛教
-  - sensibility / observation 感受 / 覺察
-  - unlearn 重新學習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Buddhism 佛教
+  - Sensibility / Observation 感受 / 覺察
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 tags:
   - "戰爭"
   - "罷免"

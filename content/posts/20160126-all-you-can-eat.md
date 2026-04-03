@@ -4,7 +4,7 @@ date: 2016-01-26
 site: kt-lab
 url: /2016/01/all-you-can-eat/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "what we talk about when we talk about practice"
 ---

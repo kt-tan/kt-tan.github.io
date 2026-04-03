@@ -4,8 +4,8 @@ date: 2016-09-30
 site: kt-lab
 url: /2016/09/alternative-solution/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - bhavana 靜坐
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Bhavana 靜坐
 ---
 
 通常在靜坐一開始，我都會鼓勵同學，想辦法讓自己坐得舒服一點。屁股下面放個瑜珈磚或者蒲團，讓髖關節略高於膝蓋。不勉強自己非得雙盤不可；散盤，或者小腿交叉坐，或者跪坐都好。

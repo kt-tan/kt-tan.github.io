@@ -4,8 +4,8 @@ date: 2016-02-12
 site: kt-lab
 url: /2016/02/joy-of-movement/
 categories:
-  - movement 動作
-  - unlearn 重新學習
+  - Movement 動作
+  - Unlearn 重新學習
 tags:
   - "帕金森氏症"
 ---

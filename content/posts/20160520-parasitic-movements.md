@@ -4,8 +4,8 @@ date: 2016-05-20
 site: kt-lab
 url: /2016/05/parasitic-movements/
 categories:
-  - bhavana 靜坐
-  - somatics 身心練習>feldenkrais method 費登奎斯方法
+  - Bhavana 靜坐
+  - Somatics 身心練習>Feldenkrais Method 費登奎斯方法
 tags:
   - "awareness"
   - "呼吸"

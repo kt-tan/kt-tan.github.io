@@ -4,7 +4,7 @@ date: 2016-05-04
 site: kt-lab
 url: /2016/05/what-questions-did-you-ask-today/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "Bhikkhu Thanissaro"
   - "Sabbasava Sutta"

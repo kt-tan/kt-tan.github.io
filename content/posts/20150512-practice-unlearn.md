@@ -4,8 +4,8 @@ date: 2015-05-12
 site: kt-lab
 url: /2015/05/practice-unlearn/
 categories:
-  - somatics 身心練習
-  - unlearn 重新學習
+  - Somatics 身心練習
+  - Unlearn 重新學習
 ---
 
 每天拼命操累身體練肌耐力、練柔軟度？ 吞解剖學知識、吞梵文術語、吞老師和老師的老師和老師的老師的老師給的指令？ 學習體位法（asana）、學習正位（alignment）、學習這個派別那個系統？ 一週上一次瑜珈課、一天上兩堂三堂瑜珈課、參加工作坊、參加貴參參（kuì-som-som）的密集培訓課程？

@@ -4,7 +4,7 @@ date: 2015-12-15
 site: kt-lab
 url: /2015/12/workshop-breathing/
 categories:
-  - yoga 瑜伽>pranayama 瑜伽呼吸練習
+  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
 tags:
   - "prana"
   - "pranamaya kosha"

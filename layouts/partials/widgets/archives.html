@@ -1,0 +1,20 @@
+{{- $pages := .Site.RegularPages }}
+{{- if gt (len $pages) 0 }}
+<div class="widget-archives widget">
+	<h4 class="widget__title">文章列表</h4>
+	<div class="widget__content">
+		<select class="widget-archives__select" onchange="if(this.value) window.location=this.value">
+			<option value="">選擇年月</option>
+			{{- range $pages.GroupByDate "2006" }}
+			{{- if eq .Key "0001" }}{{- continue }}{{- end }}
+			{{- $year := .Key }}
+			{{- range .Pages.GroupByDate "2006-01" }}
+			{{- $monthID := (index .Pages 0).Date.Format "2006-01" }}
+			{{- $monthLabel := (index .Pages 0).Date.Format "1月" }}
+			<option value="{{ "/archives/" | absURL }}#{{ $monthID }}">&emsp;{{ $year }} 年 {{ $monthLabel }}（{{ len .Pages }} 篇文章）</option>
+			{{- end }}
+			{{- end }}
+		</select>
+	</div>
+</div>
+{{- end }}

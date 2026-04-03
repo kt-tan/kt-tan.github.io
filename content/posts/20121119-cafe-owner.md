@@ -4,7 +4,7 @@ date: 2012-11-19
 site: kt-lab
 url: /2012/11/cafe-owner/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 「所有值得做的事，都值得慢慢做。」

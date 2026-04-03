@@ -4,7 +4,7 @@ date: 2016-08-26
 site: kt-lab
 url: /2016/08/good-posture/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "姿勢"
 ---

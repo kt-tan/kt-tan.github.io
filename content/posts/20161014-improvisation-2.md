@@ -4,7 +4,7 @@ date: 2016-10-14
 site: kt-lab
 url: /2016/10/improvisation-2/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 推廣爵士樂教育的「啟彬與凱雅」在[解釋「即興」](http://www.chipinkaiyajazz.com/2014/01/solo.html)的時候曾經這麼說：

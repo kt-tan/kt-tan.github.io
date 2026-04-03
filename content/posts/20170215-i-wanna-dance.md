@@ -4,8 +4,8 @@ date: 2017-02-15
 site: kt-lab
 url: /2017/02/i-wanna-dance/
 categories:
-  - movement 動作
-  - somatics 身心練習
+  - Movement 動作
+  - Somatics 身心練習
 ---
 
 ![](/images/Matisse-Dance-1024x674.jpg)[Matisse - Dance, Gandalf's Gallery](https://www.flickr.com/photos/gandalfsgallery/4817249627)

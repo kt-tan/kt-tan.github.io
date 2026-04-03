@@ -4,7 +4,7 @@ date: 2018-12-24
 site: kt-lab
 url: /2018/12/piano-for-blind-elephant/
 categories:
-  - sensibility / observation 感受 / 覺察
+  - Sensibility / Observation 感受 / 覺察
 tags:
   - "healing"
   - "listen"

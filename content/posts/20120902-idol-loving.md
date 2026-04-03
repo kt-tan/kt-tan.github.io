@@ -4,7 +4,7 @@ date: 2012-09-02
 site: kt-lab
 url: /2012/09/idol-loving/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "what we talk about when we talk about practice"
 ---

@@ -4,8 +4,8 @@ date: 2016-04-18
 site: kt-lab
 url: /2016/04/kusalassa-upasampada/
 categories:
-  - somatics 身心練習>alexander technique 亞歷山大技巧
-  - buddhism 佛教
+  - Somatics 身心練習>Alexander Technique 亞歷山大技巧
+  - Buddhism 佛教
 tags:
   - "Direction"
   - "F. M. Alexander"

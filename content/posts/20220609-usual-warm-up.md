@@ -4,11 +4,11 @@ date: 2022-06-09
 site: kt-lab
 url: /2022/06/usual-warm-up/
 categories:
-  - classroom 教室
-  - movement 動作
-  - school 教學特色
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Classroom 教室
+  - Movement 動作
+  - School 教學特色
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 和平常差不多，在一堂課剛開始的時候，我會帶幾組基本的暖身動作。有腳踝的、髖關節的、下背的、肩頸的。

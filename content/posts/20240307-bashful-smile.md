@@ -4,9 +4,9 @@ date: 2024-03-07
 site: kt-lab
 url: /2024/03/bashful-smile/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - practice notes 練習日記
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Practice Notes 練習日記
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 二月底三月初，雨水已過，驚蟄將臨。早上第一段練習告一段落，我出門去購物、去圖書館領預約書，當成兩段練習中間的休息。昨天天氣又變冷，雨勢不大。馬路邊的茄苳花一地，風雨吹掃到紅磚縫隙、水溝蓋旁。

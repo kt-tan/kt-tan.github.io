@@ -4,9 +4,9 @@ date: 2017-09-08
 site: kt-lab
 url: /2017/09/stuckness/
 categories:
-  - bhavana 靜坐
-  - somatics 身心練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Somatics 身心練習
+  - Yoga 瑜伽
 ---
 
 生活很辛苦，不管是朝九晚五的上班族，自由接案的獨立工作者，或者專職照顧小孩照顧家庭的媽媽爸爸，大家都勞累，時不時總是會覺得自己又「卡關」了。

@@ -4,7 +4,7 @@ date: 2015-07-06
 site: kt-lab
 url: /2015/07/wasting-time/
 categories:
-  - bhavana 靜坐
+  - Bhavana 靜坐
 tags:
   - "Chögyam Trungpa"
   - "what we talk about when we talk about practice"

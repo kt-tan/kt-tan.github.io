@@ -4,8 +4,8 @@ date: 2017-01-09
 site: kt-lab
 url: /2017/01/self-practice-slow-yoga/
 categories:
-  - bhavana 靜坐
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Yoga 瑜伽
 tags:
   - "慢瑜珈"
 ---

@@ -4,9 +4,9 @@ date: 2017-09-29
 site: kt-lab
 url: /2017/09/not-the-symptom/
 categories:
-  - somatics 身心練習>alexander technique 亞歷山大技巧
-  - somatics 身心練習>feldenkrais method 費登奎斯方法
-  - yoga 瑜伽
+  - Somatics 身心練習>Alexander Technique 亞歷山大技巧
+  - Somatics 身心練習>Feldenkrais Method 費登奎斯方法
+  - Yoga 瑜伽
 ---
 
 前兩天下課又有同學問，「老師，你為什麼不把這些動作錄影下來貼上網，那我們在家裡就可以邊看邊練了啊？」

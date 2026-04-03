@@ -4,7 +4,7 @@ date: 2016-03-17
 site: kt-lab
 url: /2016/03/what-to-let-go-of/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "Bhikkhu Thanissaro"
   - "what we talk about when we talk about practice"

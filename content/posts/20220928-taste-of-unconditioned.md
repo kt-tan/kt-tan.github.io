@@ -4,12 +4,12 @@ date: 2022-09-28
 site: kt-lab
 url: /2022/09/taste-of-unconditioned/
 categories:
-  - bhavana 靜坐
-  - movement 動作
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Bhavana 靜坐
+  - Movement 動作
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 「說實在的，你不覺得跑步的時候，手上還握著手機，很累贅，夯枷（giâ-kê）嗎？」

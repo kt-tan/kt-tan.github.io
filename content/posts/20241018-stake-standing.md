@@ -4,12 +4,12 @@ date: 2024-10-18
 site: kt-lab
 url: /2024/10/stake-standing/
 categories:
-  - bhavana 靜坐
-  - movement 動作
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Movement 動作
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - Yoga 瑜伽
 ---
 
 ![](/images/tree-shadow.jpg)

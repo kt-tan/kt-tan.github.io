@@ -4,15 +4,15 @@ date: 2026-02-12
 site: kt-lab
 url: /2026/02/make-up-lessons/
 categories:
-  - bhavana 靜坐
-  - classroom 教室
-  - practice notes 練習日記
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - unlearn 重新學習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Classroom 教室
+  - Practice Notes 練習日記
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 tags:
   - "二二八"
   - "林宅血案"

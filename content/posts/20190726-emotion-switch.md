@@ -4,9 +4,9 @@ date: 2019-07-26
 site: kt-lab
 url: /2019/07/emotion-switch/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - yoga 瑜伽>pranayama 瑜伽呼吸練習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 tags:
   - "emotion"
   - "情緒"

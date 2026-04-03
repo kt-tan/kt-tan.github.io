@@ -4,7 +4,7 @@ date: 2015-06-09
 site: kt-lab
 url: /2015/06/international-yoga-day/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "what we talk about when we talk about practice"
   - "宗教"

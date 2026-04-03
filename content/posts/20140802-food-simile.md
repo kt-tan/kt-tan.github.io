@@ -4,7 +4,7 @@ date: 2014-08-02
 site: kt-lab
 url: /2014/08/food-simile/
 categories:
-  - what we talk about when we talk about practice 當我們討論練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 tags:
   - "食物"
   - "飲食"

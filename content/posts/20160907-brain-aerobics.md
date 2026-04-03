@@ -4,7 +4,7 @@ date: 2016-09-07
 site: kt-lab
 url: /2016/09/brain-aerobics/
 categories:
-  - unlearn 重新學習
+  - Unlearn 重新學習
 ---
 
 通常我們都以為，年紀愈來愈大，記憶力「自然」就慢慢衰退。這所謂的「自然」，其實不見得是很「自然」的。

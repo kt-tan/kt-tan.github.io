@@ -4,7 +4,7 @@ date: 2017-08-17
 site: kt-lab
 url: /2017/08/part-and-whole/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
   - "rhomboid"
   - "serratus anterior"

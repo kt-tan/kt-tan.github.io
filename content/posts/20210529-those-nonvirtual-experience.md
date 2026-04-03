@@ -4,9 +4,9 @@ date: 2021-05-29
 site: kt-lab
 url: /2021/05/those-nonvirtual-experience/
 categories:
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - what we talk about when we talk about practice 當我們討論練習
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 雖然我馬上就要推出收費的線上課程（今晚 5/29 會公告在[網站](https://kt-lab.tw/schedule/)、[臉書](https://www.facebook.com/kt.bodymind.lab)、以及Line（Line ID: kt-lab），但是我心裡有些看似矛盾的話，實在很想簡單說說，尤其是在疫情看起來還相當嚴峻的這段時間。

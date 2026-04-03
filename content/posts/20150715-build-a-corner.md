@@ -4,9 +4,9 @@ date: 2015-07-15
 site: kt-lab
 url: /2015/07/build-a-corner/
 categories:
-  - bhavana 靜坐
-  - somatics 身心練習
-  - buddhism 佛教>theravada 上座部佛教
+  - Bhavana 靜坐
+  - Somatics 身心練習
+  - Buddhism 佛教>Theravada 上座部佛教
 tags:
   - "Bhikkhu Thanissaro"
 ---

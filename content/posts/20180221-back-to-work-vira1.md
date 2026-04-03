@@ -4,8 +4,8 @@ date: 2018-02-21
 site: kt-lab
 url: /2018/02/back-to-work-vira1/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 tags:
   - "Virabhadrasana"
   - "戰士一"

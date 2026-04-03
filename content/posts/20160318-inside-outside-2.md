@@ -4,7 +4,7 @@ date: 2016-03-18
 site: kt-lab
 url: /2016/03/inside-outside-2/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "panchkosha"
 ---

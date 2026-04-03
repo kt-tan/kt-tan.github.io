@@ -4,9 +4,9 @@ date: 2018-03-16
 site: kt-lab
 url: /2018/03/kaye-kayanupassi-viharati/
 categories:
-  - bhavana 靜坐
-  - terminology 說文解字
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Terminology 說文解字
+  - Yoga 瑜伽
 ---
 
 在站椿或者靜坐時，說是在觀察呼吸，觀察身體或者精神狀態，事實上多半一兩鐘之後就開始神遊太虛去了。為了讓自己能夠把注意力帶回來，不同系統有各種不同的法門，在眾多技巧中，持咒一直是非常受歡迎、也很有效的方式。

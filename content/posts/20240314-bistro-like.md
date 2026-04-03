@@ -4,11 +4,11 @@ date: 2024-03-14
 site: kt-lab
 url: /2024/03/bistro-like/
 categories:
-  - classroom 教室
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Classroom 教室
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 ![](/images/malabar-chestnut.jpg)

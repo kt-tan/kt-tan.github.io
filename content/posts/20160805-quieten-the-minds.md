@@ -4,7 +4,7 @@ date: 2016-08-05
 site: kt-lab
 url: /2016/08/quieten-the-minds/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 有時候想安靜下來，不管是不是形式上的靜坐，或者就是單純的安靜，獨處。但總是很難辦到。

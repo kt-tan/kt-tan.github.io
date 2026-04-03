@@ -4,7 +4,7 @@ date: 2015-05-22
 site: kt-lab
 url: /2015/05/evolved-feet/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 ![](/images/tadasana.jpg) pix source: Yoga Anatomy (2nd Edition) by by Leslie Kaminoff, Amy Matthews

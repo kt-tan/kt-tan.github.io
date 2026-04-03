@@ -4,7 +4,7 @@ date: 2016-03-10
 site: kt-lab
 url: /2016/03/rose-up-straight/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "森林"
   - "樹"

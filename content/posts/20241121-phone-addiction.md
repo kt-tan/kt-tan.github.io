@@ -4,13 +4,13 @@ date: 2024-11-21
 site: kt-lab
 url: /2024/11/phone-addiction/
 categories:
-  - bhavana 靜坐
-  - practice notes 練習日記
-  - yoga 瑜伽>pranayama 瑜伽呼吸練習
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - unlearn 重新學習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Bhavana 靜坐
+  - Practice Notes 練習日記
+  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 ![](/images/phone-addiction.jpg)

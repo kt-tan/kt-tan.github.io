@@ -4,7 +4,7 @@ date: 2012-07-03
 site: kt-lab
 url: /2012/07/ease-for-a-moment/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
   - "ease"
   - "sirsasana"

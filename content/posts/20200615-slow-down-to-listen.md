@@ -4,10 +4,10 @@ date: 2020-06-15
 site: kt-lab
 url: /2020/06/slow-down-to-listen/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - bhavana 靜坐
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Bhavana 靜坐
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
 ---
 
 前些日子和同學討論練習的心得，同學說，「反正就是聽自己身體的聲音就對了」。我說這樣講沒錯，只是，要聽自己身體的聲音，真是談何容易。

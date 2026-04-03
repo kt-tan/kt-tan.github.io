@@ -4,7 +4,7 @@ date: 2016-03-31
 site: kt-lab
 url: /2016/03/ardha-uttanasana/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
   - "what we talk about when we talk about practice"
 ---

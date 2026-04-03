@@ -4,10 +4,10 @@ date: 2023-05-19
 site: kt-lab
 url: /2023/05/beyond-trig-points/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - movement 動作
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Movement 動作
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
 ---
 
 右髖、右側的薦骼關節的傷沒完全好，這事我一直清楚意識得到，每天的日常練習、跑步，或者散步健行距離長一點，這傷就像是熟悉的老朋友，總是會不時出來話家常。

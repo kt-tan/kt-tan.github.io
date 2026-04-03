@@ -4,9 +4,9 @@ date: 2025-05-08
 site: kt-lab
 url: /2025/05/lo-chui-khe/
 categories:
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 ![](/images/受天宮.jpg)

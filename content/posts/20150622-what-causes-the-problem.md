@@ -4,8 +4,8 @@ date: 2015-06-22
 site: kt-lab
 url: /2015/06/what-causes-the-problem/
 categories:
-  - somatics 身心練習>alexander technique 亞歷山大技巧
-  - buddhism 佛教
+  - Somatics 身心練習>Alexander Technique 亞歷山大技巧
+  - Buddhism 佛教
 tags:
   - "dukkha"
   - "問問題"

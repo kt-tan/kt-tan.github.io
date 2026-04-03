@@ -4,10 +4,10 @@ date: 2022-01-07
 site: kt-lab
 url: /2022/01/body-resilience/
 categories:
-  - classroom 教室
-  - practice notes 練習日記
-  - school 教學特色
-  - yoga 瑜伽
+  - Classroom 教室
+  - Practice Notes 練習日記
+  - School 教學特色
+  - Yoga 瑜伽
 ---
 
 我在新教室拿著熟悉的紙拖把拖地，拿著不熟悉的好神拖拖地。地板比舊教室窄、比舊教室長，面積大一些，拖起地來時間比較久，一不小心就要花更大的力氣。我提醒自己注意脊椎、特別是腰椎，要感覺得到核心的陪伴，要順順地輕鬆呼吸。

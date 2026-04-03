@@ -4,13 +4,13 @@ date: 2024-04-25
 site: kt-lab
 url: /2024/04/pied-piper-in-your-brain/
 categories:
-  - bhavana 靜坐
-  - buddhism 佛教
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - unlearn 重新學習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Buddhism 佛教
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 ![](/images/dont-believe-your-brain.jpg)

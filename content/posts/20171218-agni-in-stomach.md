@@ -4,7 +4,7 @@ date: 2017-12-18
 site: kt-lab
 url: /2017/12/agni-in-stomach/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 ![](/images/五禽戲.jpg)

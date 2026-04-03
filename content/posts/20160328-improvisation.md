@@ -4,7 +4,7 @@ date: 2016-03-28
 site: kt-lab
 url: /2016/03/improvisation/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
   - "annamaya kosha"
   - "pranamaya kosha"

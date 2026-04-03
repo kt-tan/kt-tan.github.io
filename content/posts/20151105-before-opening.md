@@ -4,7 +4,7 @@ date: 2015-11-05
 site: kt-lab
 url: /2015/11/before-opening/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "Bhikkhu Bodhi"
   - "揉麵糰"

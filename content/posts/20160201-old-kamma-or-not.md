@@ -4,7 +4,7 @@ date: 2016-02-01
 site: kt-lab
 url: /2016/02/old-kamma-or-not/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "Bhikkhu Bodhi"
   - "kamma"

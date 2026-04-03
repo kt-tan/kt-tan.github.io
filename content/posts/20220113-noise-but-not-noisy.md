@@ -4,12 +4,12 @@ date: 2022-01-13
 site: kt-lab
 url: /2022/01/noise-but-not-noisy/
 categories:
-  - bhavana 靜坐
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 不知道為什麼，教室突然出現一股奇怪的低頻噪音。我向來對這類聲音很敏感，自己待在教室裡也覺得不太舒服。而且有幾次就在上課的時間出現，我一想到這對同學們的干擾，真的有兩三天都睡不好。

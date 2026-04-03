@@ -4,11 +4,11 @@ date: 2024-03-21
 site: kt-lab
 url: /2024/03/silvery-sound/
 categories:
-  - bhavana 靜坐
-  - buddhism 佛教
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Buddhism 佛教
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - Yoga 瑜伽
 ---
 
 ![](/images/windmill.jpg)

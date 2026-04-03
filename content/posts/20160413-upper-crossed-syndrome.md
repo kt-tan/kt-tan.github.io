@@ -4,8 +4,8 @@ date: 2016-04-13
 site: kt-lab
 url: /2016/04/upper-crossed-syndrome/
 categories:
-  - somatics 身心練習
-  - yoga 瑜伽
+  - Somatics 身心練習
+  - Yoga 瑜伽
 tags:
   - "annamaya kosha"
   - "上交叉症候群"

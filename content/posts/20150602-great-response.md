@@ -4,7 +4,7 @@ date: 2015-06-02
 site: kt-lab
 url: /2015/06/great-response/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 前幾天下課後，有位同學留下來問了個問題。他因為身體的特殊狀態，不容易站得非常穩定，整個身體總是會往前傾。他問我有什麼方法能夠幫助他改善這個情況。

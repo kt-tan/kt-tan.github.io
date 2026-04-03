@@ -4,7 +4,7 @@ date: 2015-05-17
 site: kt-lab
 url: /2015/05/kneading-dough/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "tactile sensation"
   - "what we talk about when we talk about practice"

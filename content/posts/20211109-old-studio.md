@@ -4,7 +4,7 @@ date: 2021-11-09
 site: kt-lab
 url: /2021/11/old-studio/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 在新生南路小巷子舊公寓二樓的舊教室，很快，就要滿六年了。

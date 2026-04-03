@@ -4,8 +4,8 @@ date: 2016-01-22
 site: kt-lab
 url: /2016/01/your-work-is-your-retreat/
 categories:
-  - bhavana 靜坐
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Yoga 瑜伽
 tags:
   - "retreat"
   - "what we talk about when we talk about practice"

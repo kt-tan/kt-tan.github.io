@@ -51,8 +51,8 @@ html {
 body {
 	margin: 0;
 	font-family: {{ $fontFamilyPrimary }};
-	font-size: 14px;
-	font-size: .875rem;
+	font-size: 16px;
+	font-size: 1rem;
 	line-height: 1.6;
 	word-wrap: break-word;
 	background: #f7f7f7;
@@ -96,6 +96,7 @@ body {
 	order: 2;
 	min-width: 0;
 	margin: 0 0 0 5%;
+	padding-top: 20px;
 }
 
 .sidebar--left {
@@ -390,7 +391,7 @@ select {
 }
 
 .logo {
-	padding: 25px;
+	padding: 25px 25px 0;
 }
 
 .logo__link {
@@ -1122,6 +1123,91 @@ textarea {
 .widget-search__field:focus {
 	cursor: text;
 	outline: 2px solid #005fcc;
+}
+
+/* Mailchimp widget */
+.widget-mailchimp__form {
+	padding: 16px 24px;
+	background: #f5f5f5;
+}
+
+/* Categories widget sub-items */
+.widget__item--sub {
+	padding-left: 12px;
+	font-size: 0.9em;
+}
+
+.widget__item--sub::before {
+	content: "↳ ";
+	color: #aaa;
+}
+
+/* Archives page */
+.archives-toc {
+	margin-bottom: 30px;
+	line-height: 2;
+}
+
+.archives-toc a {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+/* Archives widget */
+.widget-archives__select {
+	width: 100%;
+	padding: 5px;
+	font-size: 13px;
+	cursor: pointer;
+	outline: none;
+}
+
+/* Shared bar style (search + mailchimp) */
+.widget-bar {
+	display: flex;
+	background: #fff;
+	border: 1px solid #ebebeb;
+}
+
+.widget-bar__field {
+	flex: 1;
+	min-width: 0;
+	padding: 6px 8px;
+	font-size: 13px;
+	background: transparent;
+	border: none;
+	outline: none;
+	-webkit-appearance: none;
+}
+
+.widget-bar__field:focus {
+	outline: none;
+}
+
+.widget-bar input[type=submit],
+.widget-bar button[type=submit] {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-width: 0;
+	width: 36px;
+	padding: 4px 0;
+	font-size: 11px;
+	font-weight: 700;
+	color: #fff;
+	text-transform: uppercase;
+	background: #2a2a2a;
+	border: none;
+	cursor: pointer;
+	-webkit-appearance: none;
+	transition: background-color .25s ease-out;
+	align-self: center;
+	margin: 3px;
+}
+
+.widget-bar input[type=submit]:hover,
+.widget-bar button[type=submit]:hover {
+	background: #007acc;
 }
 
 /* Social widget */

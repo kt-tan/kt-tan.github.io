@@ -4,7 +4,7 @@ date: 2012-01-05
 site: kt-lab
 url: /2012/01/lower-your-tone/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 經過這幾年的練習，終於慢慢開始，心裡、身體，慢慢學習到，不需要這麼用力。或者說，不需要這麼用這些個，一眼就看得到的氣力。

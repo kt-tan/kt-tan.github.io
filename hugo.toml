@@ -7,6 +7,13 @@ canonifyURLs = true
 [pagination]
   pagerSize = 5
 
+[outputs]
+  home = ["HTML", "RSS"]
+
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+  baseName = "rss"
+
 [Params]
   subtitle = "瑜伽 靜坐 覺知 身心諮詢 一對一私人課"
   post_meta = ["date", "categories"]
@@ -16,7 +23,7 @@ canonifyURLs = true
   home = "right"
   list = "right"
   single = "right"
-  widgets = ["search", "categories"]
+  widgets = ["search", "mailchimp", "categories", "archives"]
 
 [[menus.main]]
   name = "課程"
@@ -35,3 +42,4 @@ canonifyURLs = true
 
 [markup.goldmark.renderer]
   unsafe = true
+  hardWraps = true

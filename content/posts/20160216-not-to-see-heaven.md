@@ -4,7 +4,7 @@ date: 2016-02-16
 site: kt-lab
 url: /2016/02/not-to-see-heaven/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "what we talk about when we talk about practice"
 ---

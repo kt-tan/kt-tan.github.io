@@ -4,7 +4,7 @@ date: 2016-11-04
 site: kt-lab
 url: /2016/11/listen-to-your-body-part-2/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 ![maru-in-a-box](/images/maru-in-a-box.jpg)

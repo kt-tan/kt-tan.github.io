@@ -4,9 +4,9 @@ date: 2018-06-01
 site: kt-lab
 url: /2018/06/make-a-real-fortune/
 categories:
-  - bhavana 靜坐
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 每次大休息完，真正下課之前，我會帶同學意思意思靜坐個一兩分鐘，重新沉澱一下，感受自己整體的身心狀態，然後就下課囉。有的人或許趕時間，匆匆就準備收拾離開。但也有的同學會在一兩分鐘短短的靜坐之後，繼續坐著。我可以理解那種感受、狀態。看著同學們安安靜靜自發地靜坐，真棒。**那真是一段「自己的練習」。**

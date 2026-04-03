@@ -4,7 +4,7 @@ date: 2016-07-25
 site: kt-lab
 url: /2016/07/tired_or_not_tired/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 常常會有同學問，「怎麼今天的基礎課好像比平常的課還累好多哦？」但往往同時旁邊就有其他的同學回說，「會嗎？怎麼我覺得今天一點都不累？」

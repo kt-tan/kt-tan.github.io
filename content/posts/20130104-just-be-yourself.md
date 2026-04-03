@@ -4,7 +4,7 @@ date: 2013-01-04
 site: kt-lab
 url: /2013/01/just-be-yourself/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 廣告詞說，「做自己，好自在」。實情並不總是如此簡單。

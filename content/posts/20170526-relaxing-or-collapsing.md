@@ -4,7 +4,7 @@ date: 2017-05-26
 site: kt-lab
 url: /2017/05/relaxing-or-collapsing/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "坐姿"
   - "覺察"

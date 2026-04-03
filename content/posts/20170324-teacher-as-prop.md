@@ -4,7 +4,7 @@ date: 2017-03-24
 site: kt-lab
 url: /2017/03/teacher-as-prop/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "prop"
   - "輔具"

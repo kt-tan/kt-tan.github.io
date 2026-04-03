@@ -4,7 +4,7 @@ date: 2015-12-28
 site: kt-lab
 url: /2015/12/constantly-struggle/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "Leslie Kaminoff"
   - "what we talk about when we talk about practice"

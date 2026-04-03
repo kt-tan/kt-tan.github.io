@@ -4,11 +4,11 @@ date: 2023-12-15
 site: kt-lab
 url: /2023/12/current-thru-whole-body/
 categories:
-  - somatics 身心練習>alexander technique 亞歷山大技巧
-  - movement 動作
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - what we talk about when we talk about practice 當我們討論練習
+  - Somatics 身心練習>Alexander Technique 亞歷山大技巧
+  - Movement 動作
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 ![](/images/dog-on-beach-1.jpg)

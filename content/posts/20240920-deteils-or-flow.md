@@ -4,11 +4,11 @@ date: 2024-09-20
 site: kt-lab
 url: /2024/09/deteils-or-flow/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - movement 動作
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Movement 動作
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 ![](/images/540-jump.jpg) 唐嘉鴻 - 貓跳 540（圖／中央社）

@@ -4,7 +4,7 @@ date: 2015-05-01
 site: kt-lab
 url: /2015/05/%e5%88%86%e6%b8%85%e6%a5%9a%e4%bd%a0%e7%9a%84-features-%e5%92%8c-bugs/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 分清楚什麼是 features（特色），什麼是 bugs（毛病），是非常重要的能力。

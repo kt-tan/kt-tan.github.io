@@ -4,7 +4,7 @@ date: 2015-06-18
 site: kt-lab
 url: /2015/06/if-the-word-yoga-means-many-things/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "Mircea Eliade"
 ---

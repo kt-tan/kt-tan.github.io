@@ -4,7 +4,7 @@ date: 2015-12-18
 site: kt-lab
 url: /2015/12/pratikriya/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "bhāvana"
   - "Pratikriyā Bhāvana"

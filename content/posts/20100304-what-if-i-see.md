@@ -4,8 +4,8 @@ date: 2010-03-04
 site: kt-lab
 url: /2010/03/what-if-i-see/
 categories:
-  - school 教學特色
-  - what we talk about when we talk about practice 當我們討論練習
+  - School 教學特色
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 瑜珈老師總是不斷破壞著練習同學的專注狀態。我們在同學們全心投入時，要嘛去按他們的背（例如 Paschimottanasana， _大誤_ ），要嘛去捉人家的手（例如，Marichyasana，也是 _誤_ ），直接入侵練習者的神聖空間。沒有這麼等而下之的老師，動口不動手的，也是一而再再而三地，說這個道那個，干擾一個又一個在動作中找尋平靜的心靈。

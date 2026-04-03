@@ -4,12 +4,12 @@ date: 2025-09-08
 site: kt-lab
 url: /2025/09/jelly-morass/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - classroom 教室
-  - movement 動作
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Classroom 教室
+  - Movement 動作
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 ![](/images/ku-the-fat-cat.jpg)

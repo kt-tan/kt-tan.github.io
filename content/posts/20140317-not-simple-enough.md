@@ -4,7 +4,7 @@ date: 2014-03-17
 site: kt-lab
 url: /2014/03/not-simple-enough/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "practice simple"
 ---

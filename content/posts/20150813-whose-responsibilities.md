@@ -4,7 +4,7 @@ date: 2015-08-13
 site: kt-lab
 url: /2015/08/whose-responsibilities/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "Bhikkhu Thanissaro"
   - "姿勢"

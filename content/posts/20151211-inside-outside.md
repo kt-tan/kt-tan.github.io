@@ -4,7 +4,7 @@ date: 2015-12-11
 site: kt-lab
 url: /2015/12/inside-outside/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "annamaya kosha"
   - "awareness"

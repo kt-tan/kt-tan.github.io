@@ -4,7 +4,7 @@ date: 2012-06-28
 site: kt-lab
 url: /2012/06/which-school/
 categories:
-  - medicine 醫學>traditional chinese medicine 中醫
+  - Medicine 醫學>Traditional Chinese Medicine 中醫
 tags:
   - "what we talk about when we talk about practice"
 ---

@@ -4,10 +4,10 @@ date: 2018-09-12
 site: kt-lab
 url: /2018/09/three-dimentional/
 categories:
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 一步一步爬著，終於走上海拔將近一千公尺的面天山。無敵開闊的視野讓人自然眼睛睜得大大的拼命看，嘴吧也不時會露出無意識的傻笑，或者不由自主的讚嘆。

@@ -4,7 +4,7 @@ date: 2015-05-04
 site: kt-lab
 url: /2015/05/not-connected/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 你有過飄浮在水面上的經驗嗎？完全不費力氣，不掙扎。是水的浮力來支撐著你。你能做的，就是不對抗，專心享受。

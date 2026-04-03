@@ -4,12 +4,12 @@ date: 2020-02-21
 site: kt-lab
 url: /2020/02/sovereign-remedy/
 categories:
-  - bhavana 靜坐
-  - medicine 醫學
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - unlearn 重新學習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Medicine 醫學
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - Unlearn 重新學習
+  - Yoga 瑜伽
 ---
 
 中國武漢肺炎的疫情看起來不會很快就過去。

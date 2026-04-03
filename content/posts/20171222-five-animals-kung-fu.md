@@ -4,7 +4,7 @@ date: 2017-12-22
 site: kt-lab
 url: /2017/12/five-animals-kung-fu/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 ![](/images/五禽戲-01.jpg)

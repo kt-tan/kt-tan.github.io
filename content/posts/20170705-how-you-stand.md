@@ -4,7 +4,7 @@ date: 2017-07-05
 site: kt-lab
 url: /2017/07/how-you-stand/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "覺察"
 ---

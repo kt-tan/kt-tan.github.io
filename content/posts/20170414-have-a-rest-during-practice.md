@@ -4,7 +4,7 @@ date: 2017-04-14
 site: kt-lab
 url: /2017/04/have-a-rest-during-practice/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 ![](/images/string-1024x683.jpg)

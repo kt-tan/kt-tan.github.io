@@ -4,7 +4,7 @@ date: 2016-01-18
 site: kt-lab
 url: /2016/01/pranayama/
 categories:
-  - yoga 瑜伽>pranayama 瑜伽呼吸練習
+  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
 tags:
   - "pranamaya kosha"
   - "Sri Tirumalai Krishnamacharya"

@@ -4,7 +4,7 @@ date: 2016-10-27
 site: kt-lab
 url: /2016/10/what-anatomy-cant-teach/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 要怎麼解決自己長期的肩頸或者下背酸痛？

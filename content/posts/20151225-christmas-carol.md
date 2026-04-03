@@ -4,7 +4,7 @@ date: 2015-12-25
 site: kt-lab
 url: /2015/12/christmas-carol/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "自作自受"
 ---

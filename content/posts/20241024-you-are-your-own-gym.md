@@ -4,12 +4,12 @@ date: 2024-10-24
 site: kt-lab
 url: /2024/10/you-are-your-own-gym/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - movement 動作
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - unlearn 重新學習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Movement 動作
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 ![](/images/Hercules.jpg)

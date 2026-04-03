@@ -4,7 +4,7 @@ date: 2015-07-29
 site: kt-lab
 url: /2015/07/true-listening/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "what we talk about when we talk about practice"
   - "聽力"

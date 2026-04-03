@@ -4,7 +4,7 @@ date: 2014-02-06
 site: kt-lab
 url: /2014/02/the-world-is-sound/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "listen"
   - "pratyahara"

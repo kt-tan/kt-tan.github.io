@@ -4,7 +4,7 @@ date: 2015-08-04
 site: kt-lab
 url: /2015/08/sit-bones-and-navasana/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "navasana"
   - "vajrasana"

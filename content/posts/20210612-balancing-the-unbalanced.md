@@ -4,11 +4,11 @@ date: 2021-06-12
 site: kt-lab
 url: /2021/06/balancing-the-unbalanced/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - movement 動作
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - unlearn 重新學習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Movement 動作
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Unlearn 重新學習
 ---
 
 我很喜歡練「樹式」，也很喜歡帶大家練「樹式」，通常我會邊帶動作邊解釋，「平衡動作就是那些會讓我們一直發現不平衡的練習」。

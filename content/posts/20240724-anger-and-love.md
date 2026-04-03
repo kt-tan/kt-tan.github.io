@@ -4,7 +4,7 @@ date: 2024-07-24
 site: kt-lab
 url: /2024/07/anger-and-love/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 《薄伽梵歌》裡毗濕奴（Vishnu）化身的黑天（Krishna）對失去勇氣、不想再戰鬥下去的 Arjuna 開示：

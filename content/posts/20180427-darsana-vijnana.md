@@ -4,11 +4,11 @@ date: 2018-04-27
 site: kt-lab
 url: /2018/04/darsana-vijnana/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - bhavana 靜坐
-  - movement 動作
-  - yoga 瑜伽>pranayama 瑜伽呼吸練習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Bhavana 靜坐
+  - Movement 動作
+  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 T.K.V. Desikachar 說瑜伽是一種[「觀察的科學」（Darśana Vijñāna, the science of observation）](https://yogastudies.org/2018/03/yoga-is-a-mirror-of-ourselves/)。練瑜伽，也就是在練習觀察自己的身心狀態。但具體來說，到底是怎麼樣的觀察呢？

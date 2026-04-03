@@ -4,7 +4,7 @@ date: 2015-11-06
 site: kt-lab
 url: /2015/11/opening-party/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "nāda yoga"
 ---

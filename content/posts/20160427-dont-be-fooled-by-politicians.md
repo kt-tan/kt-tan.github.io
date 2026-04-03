@@ -4,7 +4,7 @@ date: 2016-04-27
 site: kt-lab
 url: /2016/04/dont-be-fooled-by-politicians/
 categories:
-  - bhavana 靜坐
+  - Bhavana 靜坐
 tags:
   - "avidyā"
   - "what we talk about when we talk about practice"

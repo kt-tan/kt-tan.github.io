@@ -4,8 +4,8 @@ date: 2017-09-21
 site: kt-lab
 url: /2017/09/dibba-cakkhu/
 categories:
-  - somatics 身心練習
-  - yoga 瑜伽
+  - Somatics 身心練習
+  - Yoga 瑜伽
 ---
 
 有個新同學來上課，照例我會先「問診」一番，主訴是膝蓋會痛。下課後我再多問候兩句，同學回我說，「可是膝蓋還是痛啊」。

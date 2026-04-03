@@ -4,7 +4,7 @@ date: 2016-01-28
 site: kt-lab
 url: /2016/01/against-your-habits/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "Leslie Kaminoff"
   - "utthita parsvakonasana"

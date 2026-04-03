@@ -4,7 +4,7 @@ date: 2015-06-05
 site: kt-lab
 url: /2015/06/unlike-dance-or-mime/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "what we talk about when we talk about practice"
 ---

@@ -4,11 +4,11 @@ date: 2025-09-15
 site: kt-lab
 url: /2025/09/tokyo-hirgoro/
 categories:
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - unlearn 重新學習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 去年十一月下旬，世界12強棒球錦標賽，全台灣看得又哭又笑、如痴如醉。那段時間，我讀了松本大洋的《東京日日》中譯版的第一第二集（第三集今年七月剛出版）。拖了一段時間，可能在今年年初「連寫一百天」的過程中，寫了這一篇〈我也想和自己這樣說〉。那時候好像大罷免的呼聲剛剛起來，各地開始在拚一階連署。我自己覺得這篇文章的內容有點「歹吉兆」（pháinn-kiat-tiāu，華語「壞預兆」的意思），也就壓著不想發，就這麼放在某個不太再去翻看的檔案夾裡。最近重新整理一些舊文，慢慢理解到，許多當下以為不理想的結果，其實早點利空出盡，也不見得就一定是什麼壞事，「焉知非福」。

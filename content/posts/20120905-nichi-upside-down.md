@@ -4,7 +4,7 @@ date: 2012-09-05
 site: kt-lab
 url: /2012/09/nichi-upside-down/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
   - "sirsasana"
   - "頭倒立"

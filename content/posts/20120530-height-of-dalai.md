@@ -4,7 +4,7 @@ date: 2012-05-30
 site: kt-lab
 url: /2012/05/height-of-dalai/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 達賴喇嘛五月到倫敦領取 [Templeton Prize](http://en.wikipedia.org/wiki/Templeton_Prize)，動身到歐洲之前，有記者先到 [Dharamsala](http://en.wikipedia.org/wiki/Dharamshala,_Himachal_Pradesh) 去採訪他，某篇[報導](http://www.telegraph.co.uk/news/worldnews/asia/tibet/9261750/Dalai-Lama-What-do-I-really-fear-Being-eaten-by-sharks.html)裡頭有段小插曲，讓我讀著讀著，停了下來，想了好久。

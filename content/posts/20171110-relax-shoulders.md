@@ -4,8 +4,8 @@ date: 2017-11-10
 site: kt-lab
 url: /2017/11/relax-shoulders/
 categories:
-  - somatics 身心練習>alexander technique 亞歷山大技巧
-  - yoga 瑜伽
+  - Somatics 身心練習>Alexander Technique 亞歷山大技巧
+  - Yoga 瑜伽
 tags:
   - "Direction"
   - "Inhibition"

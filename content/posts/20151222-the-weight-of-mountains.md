@@ -4,7 +4,7 @@ date: 2015-12-22
 site: kt-lab
 url: /2015/12/the-weight-of-mountains/
 categories:
-  - buddhism 佛教>theravada 上座部佛教
+  - Buddhism 佛教>Theravada 上座部佛教
 tags:
   - "avidyā"
   - "Bhikkhu Thanissaro"

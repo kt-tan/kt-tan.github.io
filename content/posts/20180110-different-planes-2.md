@@ -4,8 +4,8 @@ date: 2018-01-10
 site: kt-lab
 url: /2018/01/different-planes-2/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - somatics 身心練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Somatics 身心練習
 tags:
   - "asana-hack"
 ---

@@ -4,7 +4,7 @@ date: 2011-08-19
 site: kt-lab
 url: /2011/08/healing-or-hurting/
 categories:
-  - what we talk about when we talk about practice 當我們討論練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 tags:
   - "injury"
 ---

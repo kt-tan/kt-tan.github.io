@@ -4,7 +4,7 @@ date: 2016-03-24
 site: kt-lab
 url: /2016/03/gloomy-days/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "what we talk about when we talk about practice"
 ---

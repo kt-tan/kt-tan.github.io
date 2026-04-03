@@ -4,7 +4,7 @@ date: 2016-04-15
 site: kt-lab
 url: /2016/04/upper-crossed-syndrome-part-2/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "annamaya kosha"
   - "awareness"

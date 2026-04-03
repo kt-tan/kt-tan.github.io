@@ -4,15 +4,15 @@ date: 2025-01-04
 site: kt-lab
 url: /2025/01/writing-100days-018/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - bhavana 靜坐
-  - classroom 教室
-  - practice notes 練習日記
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - unlearn 重新學習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Bhavana 靜坐
+  - Classroom 教室
+  - Practice Notes 練習日記
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 十多年前我常穿一種泰國長褲，黃色的、橘色的，寬鬆透氣，即使上課時得示範小腿大腿的動作，也只要輕輕一拉褲管，沒任何阻礙。除了非常冷的日子，幾乎就是天天穿。

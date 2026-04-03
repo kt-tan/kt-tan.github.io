@@ -4,7 +4,7 @@ date: 2014-01-23
 site: kt-lab
 url: /2014/01/tasters-choice/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "svadhyaya"
 ---

@@ -4,10 +4,10 @@ date: 2018-05-02
 site: kt-lab
 url: /2018/05/remember-to-do/
 categories:
-  - bhavana 靜坐
-  - terminology 說文解字
-  - buddhism 佛教>theravada 上座部佛教
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Terminology 說文解字
+  - Buddhism 佛教>Theravada 上座部佛教
+  - Yoga 瑜伽
 ---
 
 「正念」，或者英譯的 Mindfulness，這個字在一二十年愈來愈常見。不論明不明白這個字是什麼意思，每個人也都可以朗朗上口這個「流行用語」。

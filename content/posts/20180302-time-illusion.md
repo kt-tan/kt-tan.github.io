@@ -4,9 +4,9 @@ date: 2018-03-02
 site: kt-lab
 url: /2018/03/time-illusion/
 categories:
-  - bhavana 靜坐
-  - unlearn 重新學習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Unlearn 重新學習
+  - Yoga 瑜伽
 ---
 
 ![](/images/La-persistencia-de-la-memoria-1024x733.jpg)

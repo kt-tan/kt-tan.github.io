@@ -4,7 +4,7 @@ date: 2016-02-11
 site: kt-lab
 url: /2016/02/nobody-can-control-the-prana/
 categories:
-  - yoga 瑜伽>pranayama 瑜伽呼吸練習
+  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
 tags:
   - "prana"
   - "pranamaya kosha"

@@ -4,7 +4,7 @@ date: 2016-01-07
 site: kt-lab
 url: /2016/01/first-lessons/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "what we talk about when we talk about practice"
 ---

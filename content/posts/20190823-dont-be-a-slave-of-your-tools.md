@@ -4,11 +4,11 @@ date: 2019-08-23
 site: kt-lab
 url: /2019/08/dont-be-a-slave-of-your-tools/
 categories:
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - unlearn 重新學習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 tags:
   - "工具"
 ---

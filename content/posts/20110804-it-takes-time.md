@@ -4,7 +4,7 @@ date: 2011-08-04
 site: kt-lab
 url: /2011/08/it-takes-time/
 categories:
-  - what we talk about when we talk about practice 當我們討論練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 常常有同學會問這種問題：「老師，我還要再練多久，才能做到這個動作？」

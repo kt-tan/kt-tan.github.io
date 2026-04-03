@@ -4,7 +4,7 @@ date: 2016-06-22
 site: kt-lab
 url: /2016/06/how-to-easily-practice/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 [![zenbound](/images/zenbound.jpg)](/images/zenbound.jpg)

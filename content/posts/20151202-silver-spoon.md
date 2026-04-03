@@ -4,7 +4,7 @@ date: 2015-12-02
 site: kt-lab
 url: /2015/12/silver-spoon/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "what we talk about when we talk about practice"
   - "柔軟度"

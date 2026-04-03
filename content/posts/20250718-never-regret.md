@@ -4,12 +4,12 @@ date: 2025-07-18
 site: kt-lab
 url: /2025/07/never-regret/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - movement 動作
-  - practice notes 練習日記
-  - yoga 瑜伽>pranayama 瑜伽呼吸練習
-  - sensibility / observation 感受 / 覺察
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Movement 動作
+  - Practice Notes 練習日記
+  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
+  - Sensibility / Observation 感受 / 覺察
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 ![](/images/reflection.jpg)

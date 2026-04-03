@@ -4,10 +4,10 @@ date: 2023-11-10
 site: kt-lab
 url: /2023/11/a-usual-classs/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - classroom 教室
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Classroom 教室
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
 ---
 
 ![](/images/doorbell.jpg)

@@ -4,7 +4,7 @@ date: 2017-08-10
 site: kt-lab
 url: /2017/08/habits-sankhara/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "habits"
   - "samskara"

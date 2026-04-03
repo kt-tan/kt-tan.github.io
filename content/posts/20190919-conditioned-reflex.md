@@ -4,12 +4,12 @@ date: 2019-09-19
 site: kt-lab
 url: /2019/09/conditioned-reflex/
 categories:
-  - bhavana 靜坐
-  - movement 動作
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - unlearn 重新學習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Movement 動作
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - Unlearn 重新學習
+  - Yoga 瑜伽
 ---
 
 每個人身上都帶著各種反射動作。輕輕敲擊膝蓋下方的臏韌帶就會引發小腿往前踢的膝反射，是天生的非條件反射，還有經由後天學習而來的條件反射，像是[巴夫洛夫的狗](https://kt-lab.tw/2012/07/reflex/)，經過一段時間訓練之後，即使沒看見食物，只是聽到和食物有「關聯」的聲響，同樣會引發唾液分泌的反射動作。

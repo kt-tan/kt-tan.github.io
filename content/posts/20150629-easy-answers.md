@@ -4,7 +4,7 @@ date: 2015-06-29
 site: kt-lab
 url: /2015/06/easy-answers/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "42"
   - "Chögyam Trungpa"

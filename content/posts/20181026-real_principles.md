@@ -4,9 +4,9 @@ date: 2018-10-26
 site: kt-lab
 url: /2018/10/real_principles/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - sensibility / observation 感受 / 覺察
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Sensibility / Observation 感受 / 覺察
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 ![](/images/real_principles-1024x683.jpg)

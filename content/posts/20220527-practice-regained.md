@@ -4,12 +4,12 @@ date: 2022-05-27
 site: kt-lab
 url: /2022/05/practice-regained/
 categories:
-  - movement 動作
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Movement 動作
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 半年多前，因為一次小意外，我的右腳、右髖可能受了點傷，本來不以為意，後來還是不時痠痛，就去找了熟識的師傅校調一下，也確認看看到底有沒有大礙。

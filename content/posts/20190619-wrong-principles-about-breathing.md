@@ -4,11 +4,11 @@ date: 2019-06-19
 site: kt-lab
 url: /2019/06/wrong-principles-about-breathing/
 categories:
-  - bhavana 靜坐
-  - movement 動作
-  - yoga 瑜伽>pranayama 瑜伽呼吸練習
-  - somatics 身心練習
-  - unlearn 重新學習
+  - Bhavana 靜坐
+  - Movement 動作
+  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
+  - Somatics 身心練習
+  - Unlearn 重新學習
 ---
 
 我曾經看過有執照的西醫這樣教導患者如何「好好呼吸」：「把空氣吸到肚子裡。發揮一下想像力，想像你把空氣吸到肚子裡。這時侯，請務必鬆開你的橫膈膜，別讓它卡住呼吸。」

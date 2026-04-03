@@ -4,7 +4,7 @@ date: 2016-06-01
 site: kt-lab
 url: /2016/06/kukabburras/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "Alagaddupama Sutta"
   - "Maha-hatthipadopama Sutta"

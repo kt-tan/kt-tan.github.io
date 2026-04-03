@@ -4,7 +4,7 @@ date: 2015-06-02
 site: kt-lab
 url: /2015/06/ride-a-bicycle/
 categories:
-  - unlearn 重新學習
+  - Unlearn 重新學習
 tags:
   - "sanskara"
   - "unlearn"

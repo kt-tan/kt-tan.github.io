@@ -4,7 +4,7 @@ date: 2015-08-06
 site: kt-lab
 url: /2015/08/before-union/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "Leslie Kaminoff"
   - "urdhva hastasana"

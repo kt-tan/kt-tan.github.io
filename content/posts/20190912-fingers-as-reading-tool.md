@@ -4,9 +4,9 @@ date: 2019-09-12
 site: kt-lab
 url: /2019/09/fingers-as-reading-tool/
 categories:
-  - bhavana 靜坐
-  - yoga 瑜伽>pranayama 瑜伽呼吸練習
-  - sensibility / observation 感受 / 覺察
+  - Bhavana 靜坐
+  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
+  - Sensibility / Observation 感受 / 覺察
 tags:
   - "輔具"
 ---

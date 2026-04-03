@@ -4,7 +4,7 @@ date: 2015-05-14
 site: kt-lab
 url: /2015/05/aligned-with-intentions/
 categories:
-  - buddhism 佛教
+  - Buddhism 佛教
 tags:
   - "alignment"
   - "awareness"

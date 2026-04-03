@@ -4,7 +4,7 @@ date: 2017-11-22
 site: kt-lab
 url: /2017/11/bare-listening/
 categories:
-  - bhavana 靜坐
+  - Bhavana 靜坐
 tags:
   - "noise"
   - "噪音"

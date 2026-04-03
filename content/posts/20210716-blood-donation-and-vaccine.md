@@ -4,9 +4,9 @@ date: 2021-07-16
 site: kt-lab
 url: /2021/07/blood-donation-and-vaccine/
 categories:
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - yoga 瑜伽
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - Yoga 瑜伽
 ---
 
 去年過農曆春節時，我去了東部健行，一回到台北，才發現武漢肺炎可能已經傳入台灣了，大家瘋狂搶購口罩、酒精等防疫物資。我等於晚了幾天，暫時買不到口罩。

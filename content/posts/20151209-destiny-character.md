@@ -4,7 +4,7 @@ date: 2015-12-09
 site: kt-lab
 url: /2015/12/destiny-character/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "Anaïs Nin"
   - "命運"

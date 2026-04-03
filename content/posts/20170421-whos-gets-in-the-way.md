@@ -4,7 +4,7 @@ date: 2017-04-21
 site: kt-lab
 url: /2017/04/whos-gets-in-the-way/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
 ---
 
 ![](/images/car-trap-1024x638.jpg)

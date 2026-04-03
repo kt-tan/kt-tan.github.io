@@ -4,9 +4,9 @@ date: 2018-01-03
 site: kt-lab
 url: /2018/01/it-takes-time-3/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - bhavana 靜坐
-  - somatics 身心練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Bhavana 靜坐
+  - Somatics 身心練習
 ---
 
 接連幾天在臉書上貼站椿的事，有朋友在問，「你在教室還是家裡架了多少木椿啊？」原來朋友誤會了，把我講的簡單站椿，想成古裝武俠片裡常見到「梅花椿」的功夫。

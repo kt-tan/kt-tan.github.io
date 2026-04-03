@@ -4,10 +4,10 @@ date: 2018-01-24
 site: kt-lab
 url: /2018/01/imagination/
 categories:
-  - bhavana 靜坐
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - Yoga 瑜伽
 ---
 
 這一陣子天天站椿，常常有同學問到底站椿該怎麼站，我常常取巧回覆：就好好站著吧。問題是，怎樣才算是「好好站著」？我怎麼才會知道自己到底有沒有「好好站著」？

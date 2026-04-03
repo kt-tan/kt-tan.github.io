@@ -4,7 +4,7 @@ date: 2012-02-18
 site: kt-lab
 url: /2012/02/protect-yourself/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 瑜珈老師有百百種，這一次想聊聊其中的兩種典型。

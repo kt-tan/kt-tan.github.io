@@ -4,10 +4,10 @@ date: 2018-12-12
 site: kt-lab
 url: /2018/12/dont-forget/
 categories:
-  - bhavana 靜坐
-  - practice notes 練習日記
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Practice Notes 練習日記
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 tags:
   - "心法"
   - "站椿"

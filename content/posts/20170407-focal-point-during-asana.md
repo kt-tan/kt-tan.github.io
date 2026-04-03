@@ -4,8 +4,8 @@ date: 2017-04-07
 site: kt-lab
 url: /2017/04/focal-point-during-asana/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - yoga 瑜伽>pranayama 瑜伽呼吸練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
 ---
 
 據說 [TKV Desikachar](http://www.yogastudies.org/cys-journal/tkv-desikachar/) 是[這樣教的](http://www.yogastudies.org/category/cys-journal/series/desikachar-seminars/desikachar-1992-dorset/)：

@@ -4,7 +4,7 @@ date: 2015-12-21
 site: kt-lab
 url: /2015/12/advanced-practice/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "瑜珈經"
   - "進階練習"

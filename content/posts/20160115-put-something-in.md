@@ -4,7 +4,7 @@ date: 2016-01-15
 site: kt-lab
 url: /2016/01/put-something-in/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "Leslie Kaminoff"
   - "T. K. V. Desikachar"

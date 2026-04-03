@@ -4,11 +4,11 @@ date: 2019-08-09
 site: kt-lab
 url: /2019/08/why-practice-fundamental-movement/
 categories:
-  - movement 動作
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - yoga 瑜伽
+  - Movement 動作
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - Yoga 瑜伽
 ---
 
 今年（2019）上半年，我們分別玩了好幾次「怎麼坐、怎麼站、怎麼走」、「完全釋放，徹底休息」、「呼吸：技術與藝術」的特別練習。

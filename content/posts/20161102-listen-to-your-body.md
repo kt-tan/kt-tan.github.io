@@ -4,7 +4,7 @@ date: 2016-11-02
 site: kt-lab
 url: /2016/11/listen-to-your-body/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 ---
 
 大家都愛說身體是最誠實的。

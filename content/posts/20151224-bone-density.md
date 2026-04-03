@@ -4,7 +4,7 @@ date: 2015-12-24
 site: kt-lab
 url: /2015/12/bone-density/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "姿勢"
   - "老化"

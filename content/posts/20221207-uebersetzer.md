@@ -4,13 +4,13 @@ date: 2022-12-07
 site: kt-lab
 url: /2022/12/uebersetzer/
 categories:
-  - bhavana 靜坐
-  - classroom 教室
-  - movement 動作
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - what we talk about when we talk about practice 當我們討論練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Classroom 教室
+  - Movement 動作
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 ---
 
 除了大學時的家教工作、當自己老師的研究助理之外，我人生第一份正式在「機構」裡領薪水的工作，就是報社新聞編譯。那時候還在念碩士班，英文菜得很，每次工作時，就是一本老字典翻過來翻過去，想趕快湊出個看起來合理、通順的句子可以交差了事。

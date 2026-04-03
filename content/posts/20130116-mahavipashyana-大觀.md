@@ -4,7 +4,7 @@ date: 2013-01-16
 site: kt-lab
 url: /2013/01/mahavipashyana-%e5%a4%a7%e8%a7%80/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 > We must become aware not only of the precise details of an activity, but also of the situation as a whole. Vipashyana involves awareness of space, the atmosphere in which precision occurs. If we see the precise details of our activity, this awareness also creates a certain space. Be aware of a situation on a small scale also brings awareness on a large scale. Out of this develops panoramic awareness, mahavipashyana medetation: that is, awareness of the overall pattern rather than the focusing of attention upon details. We begin to see the pattern of our fantasies rather than being immersed in them. We discover that we need not struggle with our projections, that the wall separates us from them is our own creation. The insight into the insubstantial nature of ego is prajna, transcendental knowledge. As we glimpse prajna we relax, realizing that we no longer have to maintain the existence of ego. We can afford to be open and generous. Seeing another way of dealing with our projections brings intense joy. This is the first spiritual level of attainment of the bodhisattva, the first bhumi. We enter the Bodhisattva Path, the Mahayana Path, the open way, the path of warmth and openness. 

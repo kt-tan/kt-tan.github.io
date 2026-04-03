@@ -4,7 +4,7 @@ date: 2016-06-30
 site: kt-lab
 url: /2016/06/skill-coordination/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 ![](/images/白色巨塔.png)

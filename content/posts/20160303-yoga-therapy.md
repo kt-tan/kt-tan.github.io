@@ -4,7 +4,7 @@ date: 2016-03-03
 site: kt-lab
 url: /2016/03/yoga-therapy/
 categories:
-  - yoga 瑜伽
+  - Yoga 瑜伽
 tags:
   - "what we talk about when we talk about practice"
   - "療癒"

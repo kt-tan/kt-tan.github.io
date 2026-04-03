@@ -4,7 +4,7 @@ date: 2015-09-09
 site: kt-lab
 url: /2015/09/rib-movement/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "what we talk about when we talk about practice"
 ---

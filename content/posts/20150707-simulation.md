@@ -4,7 +4,7 @@ date: 2015-07-07
 site: kt-lab
 url: /2015/07/simulation/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
 ---
 
 ![](/images/simulation.jpg)

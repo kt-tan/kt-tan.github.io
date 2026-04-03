@@ -4,10 +4,10 @@ date: 2022-10-20
 site: kt-lab
 url: /2022/10/simple-practice/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - movement 動作
-  - sensibility / observation 感受 / 覺察
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Movement 動作
+  - Sensibility / Observation 感受 / 覺察
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 小時候很瞧不起買「精選輯」這種事，總覺得當然是一張專輯一張專輯聽，才夠水準，才能完整品味、享受。大概也是因為年輕時別的沒有，時間最多，聽一張專輯覺得入味，就想盡辦法，把同一位樂手、樂團的所有專輯都蒐集到位，以為只有這樣聽，這樣欣賞，才得以一窺全豹。

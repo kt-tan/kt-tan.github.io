@@ -4,12 +4,12 @@ date: 2025-07-21
 site: kt-lab
 url: /2025/07/simple-but-deep-happiness/
 categories:
-  - bhavana 靜坐
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - buddhism 佛教>theravada 上座部佛教
-  - unlearn 重新學習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - Buddhism 佛教>Theravada 上座部佛教
+  - Unlearn 重新學習
+  - Yoga 瑜伽
 ---
 
 ![](/images/miao.jpg)

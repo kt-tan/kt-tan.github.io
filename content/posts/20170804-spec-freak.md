@@ -4,8 +4,8 @@ date: 2017-08-04
 site: kt-lab
 url: /2017/08/spec-freak/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - yoga 瑜伽>pranayama 瑜伽呼吸練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
 tags:
   - "權威"
   - "規格"

@@ -4,9 +4,9 @@ date: 2017-03-31
 site: kt-lab
 url: /2017/03/shaping-ourselves/
 categories:
-  - bhavana 靜坐
-  - somatics 身心練習
-  - yoga 瑜伽
+  - Bhavana 靜坐
+  - Somatics 身心練習
+  - Yoga 瑜伽
 ---
 
 ![](/images/pottery-1024x683.jpg)

@@ -4,7 +4,7 @@ date: 2013-08-21
 site: kt-lab
 url: /2013/08/boredom-matters/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 某老師的課，要說無聊，也真是無聊。每次課程的內容，總是簡單的暖身，弓箭步什麼的，戰士二接回到三角式，回頭再來兩三次拜日式。

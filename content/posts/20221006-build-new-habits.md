@@ -4,11 +4,11 @@ date: 2022-10-06
 site: kt-lab
 url: /2022/10/build-new-habits/
 categories:
-  - bhavana 靜坐
-  - practice notes 練習日記
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Bhavana 靜坐
+  - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 [上次文章](https://kt-lab.tw/2022/08/tools-in-time/)說我自己開始在練跑，到現在也兩個多月了。剛好可以來說說「習慣怎麼養成？」或者說，「如何主動的培養新的習慣？」

@@ -1,0 +1,14 @@
+{{- $actionURL := .Site.Params.widgets.search.url | default "https://google.com/search" -}}
+{{- $inputName := .Site.Params.widgets.search.input.name | default "sitesearch" -}}
+{{- $inputPre := .Site.Params.widgets.search.input.pre -}}
+
+<div class="widget-search widget">
+	<h4 class="widget__title">全站搜尋</h4>
+	<form class="widget-search__form" role="search" method="get" action="{{ $actionURL }}">
+		<div class="widget-bar">
+			<input class="widget-bar__field" type="search" placeholder="{{ T "search_placeholder" }}" value="" name="q" aria-label="{{ T "search_placeholder" }}">
+			<button class="widget-bar__submit" type="submit" aria-label="搜尋"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></button>
+		</div>
+		{{ if $inputName -}}<input type="hidden" name="{{ $inputName }}" value="{{ $inputPre }}{{ .Site.BaseURL }}">{{- end }}
+	</form>
+</div>

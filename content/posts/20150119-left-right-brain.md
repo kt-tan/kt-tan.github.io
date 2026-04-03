@@ -4,7 +4,7 @@ date: 2015-01-19
 site: kt-lab
 url: /2015/01/left-right-brain/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 ---
 
 ![](/images/optical_illusion_dog.jpg)

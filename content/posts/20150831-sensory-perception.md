@@ -4,7 +4,7 @@ date: 2015-08-31
 site: kt-lab
 url: /2015/09/sensory-perception/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "awareness"
   - "what we talk about when we talk about practice"

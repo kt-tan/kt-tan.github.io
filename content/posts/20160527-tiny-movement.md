@@ -4,7 +4,7 @@ date: 2016-05-27
 site: kt-lab
 url: /2016/05/tiny-movement/
 categories:
-  - somatics 身心練習>feldenkrais method 費登奎斯方法
+  - Somatics 身心練習>Feldenkrais Method 費登奎斯方法
 tags:
   - "annamaya kosha"
   - "awareness"

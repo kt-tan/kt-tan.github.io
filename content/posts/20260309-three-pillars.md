@@ -4,15 +4,15 @@ date: 2026-03-09
 site: kt-lab
 url: /2026/03/three-pillars/
 categories:
-  - yoga 瑜伽>asana 瑜伽動作練習
-  - bhavana 靜坐
-  - classroom 教室
-  - movement 動作
-  - yoga 瑜伽>pranayama 瑜伽呼吸練習
-  - school 教學特色
-  - sensibility / observation 感受 / 覺察
-  - somatics 身心練習
-  - what we talk about when we talk about practice 當我們討論練習
+  - Yoga 瑜伽>Asana 瑜伽動作練習
+  - Bhavana 靜坐
+  - Classroom 教室
+  - Movement 動作
+  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
 ![](/images/three-pillars.jpg)

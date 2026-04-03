@@ -4,7 +4,7 @@ date: 2015-06-25
 site: kt-lab
 url: /2015/06/between-stimulus-and-response/
 categories:
-  - somatics 身心練習
+  - Somatics 身心練習
 tags:
   - "Viktor E. Frankl"
   - "刺激"
