@@ -2542,5 +2542,8 @@
   </url><url>
     <loc>https://kt-tan.github.io/2010/03/what-if-i-see/</loc>
     <lastmod>2010-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-tan.github.io/archives/</loc>
+    <priority>0.5</priority>
   </url>
 </urlset>
