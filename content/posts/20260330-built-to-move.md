@@ -3,9 +3,11 @@ title: 不夠
 date: 2026-03-30
 url: /2026/03/built-to-move/
 categories:
-  - 動作
-  - 學習
-  - 教室
+  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
+  - Unlearn 重新學習
+  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 tags:
   - 瑜伽老師讀什麼書
 ---
