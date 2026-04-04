@@ -6,7 +6,6 @@ url: /2012/09/why-practice-asana/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 我的一位老師曾這麼說：「我一點也不在乎你彎下腰能不能摸到你的腳趾頭，你的腳能不能掛到脖子上，你能不能從輪式站起身來，我在乎的是，你能不能感受到你自己的呼吸，你能不能讓你的眉心、額頭的皮膚放鬆不緊繃，你能不能在體位法的練習過程中，更清楚更深刻地認識你自己？」

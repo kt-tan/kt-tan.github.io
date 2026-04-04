@@ -8,7 +8,6 @@ categories:
 tags:
   - "Leslie Kaminoff"
   - "urdhva hastasana"
-  - "what we talk about when we talk about practice"
 ---
 
 「除非能分辨出不同的事物，否則就沒辦法讓他們融合為一體。這對很多人來說可都不容易。很多人根本連自己的肩胛骨和上背的體感都分不清。」– Leslie Kaminoff

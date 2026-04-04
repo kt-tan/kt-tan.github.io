@@ -7,7 +7,6 @@ categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
   - Medicine 醫學>Traditional Chinese Medicine 中醫
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 網路上一篇「中醫師」警告大家遠離四物、八珍、十全大補湯的文章很紅。

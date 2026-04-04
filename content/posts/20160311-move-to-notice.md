@@ -8,7 +8,6 @@ categories:
 tags:
   - "awareness"
   - "viveka"
-  - "what we talk about when we talk about practice"
 ---
 
 很多時候，除了病痛時，我們不會意識到自己的身體；除了煩惱時，我們不會意識到自己的心神。

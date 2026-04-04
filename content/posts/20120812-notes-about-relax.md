@@ -6,7 +6,6 @@ url: /2012/08/notes-about-relax/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
-  - "what we talk about when we talk about practice"
   - "放鬆"
 ---
 

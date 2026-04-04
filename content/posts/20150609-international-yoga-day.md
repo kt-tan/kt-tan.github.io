@@ -6,7 +6,6 @@ url: /2015/06/international-yoga-day/
 categories:
   - Yoga 瑜伽
 tags:
-  - "what we talk about when we talk about practice"
   - "宗教"
   - "政治"
 ---

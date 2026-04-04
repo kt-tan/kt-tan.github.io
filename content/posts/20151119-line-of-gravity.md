@@ -6,7 +6,6 @@ url: /2015/11/line-of-gravity/
 categories:
   - Somatics 身心練習
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 先看圖吧，這張圖雖然很簡約，但是非常重要。

@@ -8,7 +8,6 @@ categories:
   - Yoga 瑜伽
 tags:
   - "retreat"
-  - "what we talk about when we talk about practice"
   - "道場"
 ---
 

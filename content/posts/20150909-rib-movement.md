@@ -6,7 +6,6 @@ url: /2015/09/rib-movement/
 categories:
   - Somatics 身心練習
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 聽到「正確的呼吸」，你會想到什麼？「腹式呼吸」、「橫膈膜呼吸」還是其他更「專業」（其實也搞不太懂）的名詞？

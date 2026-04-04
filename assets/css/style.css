@@ -1431,3 +1431,19 @@ textarea {
 	color: #999;
 	font-size: .85rem;
 }
+
+.tag-cloud {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px 14px;
+	padding: 10px 0;
+	line-height: 2;
+}
+
+.tag-cloud__item {
+	text-decoration: none;
+}
+
+.tag-cloud__item:hover {
+	color: #000 !important;
+}

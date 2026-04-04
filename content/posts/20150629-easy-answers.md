@@ -8,7 +8,6 @@ categories:
 tags:
   - "42"
   - "Chögyam Trungpa"
-  - "what we talk about when we talk about practice"
   - "張三丰"
   - "技巧"
 ---

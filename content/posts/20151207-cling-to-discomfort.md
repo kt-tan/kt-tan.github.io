@@ -7,7 +7,6 @@ categories:
   - Buddhism 佛教
 tags:
   - "dukkha"
-  - "what we talk about when we talk about practice"
   - "痛苦"
   - "習慣"
 ---

@@ -10,7 +10,6 @@ tags:
   - "craving"
   - "taṇhā"
   - "upādāna"
-  - "what we talk about when we talk about practice"
   - "進階練習"
 ---
 

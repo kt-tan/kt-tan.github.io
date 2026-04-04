@@ -6,7 +6,6 @@ url: /2017/02/what-you-practice-today/
 categories:
   - Yoga 瑜伽
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 ![](/images/typewriter-watch-1024x683.jpg)

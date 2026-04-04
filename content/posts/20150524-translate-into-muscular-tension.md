@@ -6,7 +6,6 @@ url: /2015/05/translate-into-muscular-tension/
 categories:
   - Somatics 身心練習
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 > 我們把身體、情緒、精神等各方面的事物，都轉譯成為肌肉的緊繃壓力。

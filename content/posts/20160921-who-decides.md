@@ -6,7 +6,6 @@ url: /2016/09/who-decides/
 categories:
   - Yoga 瑜伽
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 ![%e8%98%87%e4%b9%9e%e5%85%92](/images/蘇乞兒-300x169.jpg)

@@ -6,7 +6,6 @@ url: /2016/02/the-joy-in-playing/
 categories:
   - Somatics 身心練習
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 [![the joy in playing](/images/the-joy-in-playing.jpg)](/images/the-joy-in-playing.jpg)

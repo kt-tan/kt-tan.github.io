@@ -7,7 +7,6 @@ categories:
   - Bhavana 靜坐
 tags:
   - "T. S. Elliot"
-  - "what we talk about when we talk about practice"
   - "阿姜查"
 ---
 

@@ -6,7 +6,6 @@ url: /2015/10/smell-memory/
 categories:
   - Bhavana 靜坐
 tags:
-  - "what we talk about when we talk about practice"
   - "氣味"
   - "記憶"
 ---

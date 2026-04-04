@@ -8,7 +8,6 @@ categories:
 tags:
   - "alignment"
   - "awareness"
-  - "what we talk about when we talk about practice"
 ---
 
 昨天課堂上，在 Utthan Pristhasana (lizard pose) 停留時，我幫兩三位同學很輕微地順了一下膝蓋和腳掌的方向。調整後，我問他們，「覺得比較舒服一點嗎？」他們回了我輕鬆的微笑。

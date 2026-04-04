@@ -6,7 +6,6 @@ url: /2015/07/true-listening/
 categories:
   - Somatics 身心練習
 tags:
-  - "what we talk about when we talk about practice"
   - "聽力"
 ---
 

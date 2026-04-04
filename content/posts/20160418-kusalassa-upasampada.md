@@ -12,7 +12,6 @@ tags:
   - "Inhibition"
   - "kusala"
   - "skillful"
-  - "what we talk about when we talk about practice"
   - "善巧"
   - "法句經"
 ---

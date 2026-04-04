@@ -6,7 +6,6 @@ url: /2016/12/yoga-for-specific-syndrome/
 categories:
   - Yoga 瑜伽
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 ![](/images/metomorphosis.jpg)

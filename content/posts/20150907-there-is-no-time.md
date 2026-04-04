@@ -6,7 +6,6 @@ url: /2015/09/there-is-no-time/
 categories:
   - Somatics 身心練習
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 很多人有夠努力，或者說，非常「精進」。每天花一個小時兩個小時練體位法（甚至更長的時間）。該痠不該痠的肌肉永遠痠、痛，不小心受的傷或者不明不白受的傷才剛好就又重新找上門。

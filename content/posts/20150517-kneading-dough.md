@@ -7,7 +7,6 @@ categories:
   - Somatics 身心練習
 tags:
   - "tactile sensation"
-  - "what we talk about when we talk about practice"
   - "墊子外的瑜珈練習"
 ---
 

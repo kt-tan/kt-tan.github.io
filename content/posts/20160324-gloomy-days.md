@@ -6,7 +6,6 @@ url: /2016/03/gloomy-days/
 categories:
   - Somatics 身心練習
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 農曆年過後，一直是又濕又冷的天氣，太陽冒出頭來的時間有夠短。陰雨綿綿無盡期，屋子裡甚至時不時反潮，整個人都快發霉了。身體裡覺得濕黏，心情也跟著憂鬱了起來。

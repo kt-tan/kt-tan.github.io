@@ -8,7 +8,6 @@ categories:
 tags:
   - "ease"
   - "sirsasana"
-  - "what we talk about when we talk about practice"
   - "頭倒立"
 ---
 

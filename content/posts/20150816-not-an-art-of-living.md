@@ -6,7 +6,6 @@ url: /2015/08/not-an-art-of-living/
 categories:
   - Buddhism 佛教
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 [中譯出處](http://yifertw.blogspot.tw/2013/10/blog-post_968.html) [簡體中文中譯出處](http://www.douban.com/note/310231355/)

@@ -6,7 +6,6 @@ url: /2015/09/cool-boredom/
 categories:
   - Somatics 身心練習
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 回想看看，上次你和朋友聚餐，某個朋友的笑話結束之後，場子一整個冷了下來。那個時候，你的感受和反應是什麼？希望有誰趕快丟出下一個更有趣的梗？低下頭來拿起小湯匙假裝攪動一下自己的咖啡？

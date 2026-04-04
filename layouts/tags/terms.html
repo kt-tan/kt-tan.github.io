@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main class="main" role="main">
+	<header class="main__header">
+		<h1 class="main__title">標籤雲</h1>
+	</header>
+	<div class="tag-cloud">
+		{{- $tags := .Data.Terms.ByCount -}}
+		{{- $maxCount := 1 -}}
+		{{- $minCount := 9999 -}}
+		{{- range $tags -}}
+			{{- if gt .Count $maxCount -}}{{- $maxCount = .Count -}}{{- end -}}
+			{{- if lt .Count $minCount -}}{{- $minCount = .Count -}}{{- end -}}
+		{{- end -}}
+		{{- range $tags -}}
+			{{- $ratio := 0.0 -}}
+			{{- if gt $maxCount $minCount -}}
+				{{- $ratio = div (sub (float .Count) (float $minCount)) (sub (float $maxCount) (float $minCount)) -}}
+			{{- end -}}
+			{{- $size := add 0.85 (mul $ratio 1.15) -}}
+			{{- $alpha := add 0.55 (mul $ratio 0.45) -}}
+			<a href="{{ .Page.RelPermalink }}" class="tag-cloud__item" style="font-size: {{ printf "%.2f" $size }}rem; color: rgba(0,0,0,{{ printf "%.2f" $alpha }});">{{ .Page.Title }}</a>
+		{{- end }}
+	</div>
+</main>
+{{ end }}

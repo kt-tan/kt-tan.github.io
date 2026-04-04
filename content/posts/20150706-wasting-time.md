@@ -7,7 +7,6 @@ categories:
   - Bhavana 靜坐
 tags:
   - "Chögyam Trungpa"
-  - "what we talk about when we talk about practice"
   - "存在主義"
   - "心理治療"
 ---

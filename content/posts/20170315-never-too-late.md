@@ -7,7 +7,6 @@ categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
   - "ageing"
-  - "what we talk about when we talk about practice"
   - "熟齡"
 ---
 

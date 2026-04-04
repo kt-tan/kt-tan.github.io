@@ -8,7 +8,6 @@ categories:
 tags:
   - "injury"
   - "news"
-  - "what we talk about when we talk about practice"
 ---
 
 過去兩個星期，這段影片在網路上頗紅，很多人轉貼，很多人除了感動，還是感動。

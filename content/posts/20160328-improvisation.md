@@ -9,7 +9,6 @@ tags:
   - "annamaya kosha"
   - "pranamaya kosha"
   - "tactile sensation"
-  - "what we talk about when we talk about practice"
   - "即興"
   - "招式"
 ---

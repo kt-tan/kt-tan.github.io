@@ -6,7 +6,6 @@ url: /2015/07/sit-when-you-upset/
 categories:
   - Bhavana 靜坐
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 常聽到同學抱怨說，「啊今天就很煩，根本坐不下去嘛。」「沒有靜坐的情緒啦！」「本來想靜坐一下，可是外面吵得要命，手機沒兩分鐘又響了。真的很煩耶！」

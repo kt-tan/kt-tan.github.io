@@ -8,7 +8,6 @@ categories:
 tags:
   - "svatantra"
   - "T. K. V. Desikachar"
-  - "what we talk about when we talk about practice"
   - "技巧"
 ---
 

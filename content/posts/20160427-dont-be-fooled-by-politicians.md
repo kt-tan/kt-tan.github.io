@@ -7,7 +7,6 @@ categories:
   - Bhavana 靜坐
 tags:
   - "avidyā"
-  - "what we talk about when we talk about practice"
 ---
 
 每年四月初都有「愚人節」。依照往例，有的人努力找梗、編笑話；有的人努力找出腦子思考，擔心自己上當被耍。

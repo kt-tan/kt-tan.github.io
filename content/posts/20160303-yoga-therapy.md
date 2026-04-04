@@ -6,7 +6,6 @@ url: /2016/03/yoga-therapy/
 categories:
   - Yoga 瑜伽
 tags:
-  - "what we talk about when we talk about practice"
   - "療癒"
 ---
 

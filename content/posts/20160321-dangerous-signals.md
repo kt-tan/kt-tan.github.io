@@ -9,7 +9,6 @@ categories:
   - Somatics 身心練習
 tags:
   - "Bhikkhu Thanissaro"
-  - "what we talk about when we talk about practice"
   - "潛意識"
 ---
 

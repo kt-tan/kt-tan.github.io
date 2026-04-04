@@ -7,7 +7,6 @@ categories:
   - Somatics 身心練習
 tags:
   - "awareness"
-  - "what we talk about when we talk about practice"
   - "習慣"
 ---
 

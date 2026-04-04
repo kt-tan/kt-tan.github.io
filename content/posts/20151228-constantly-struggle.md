@@ -7,7 +7,6 @@ categories:
   - Yoga 瑜伽
 tags:
   - "Leslie Kaminoff"
-  - "what we talk about when we talk about practice"
 ---
 
 我們都在不斷地掙扎。

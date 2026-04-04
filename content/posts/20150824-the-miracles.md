@@ -6,7 +6,6 @@ url: /2015/08/the-miracles/
 categories:
   - Buddhism 佛教
 tags:
-  - "what we talk about when we talk about practice"
 ---
 
 有同學問，「老師，你能不能看到別人頭上或者背後的氣場？」我說，「我沒辦法。」同學又問，「那你能不能讀到別人心裡的事，別人的情緒？」我說，「這我也沒辦法。」
