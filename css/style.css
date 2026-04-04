@@ -301,7 +301,7 @@ blockquote {
 	margin: 0 0 20px;
 	margin: 0 0 1.25rem;
 	line-height: 1.6;
-	border-left: 5px solid #e22d30;
+	border-left: 5px solid #ccc;
 }
 
 blockquote p:last-child {
@@ -1416,4 +1416,11 @@ textarea {
 		font-size: 11px;
 		font-size: .6875rem;
 	}
+}
+
+
+.search-results__date {
+	margin-left: 8px;
+	color: #999;
+	font-size: .85rem;
 }
