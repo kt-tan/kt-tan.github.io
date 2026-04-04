@@ -17,6 +17,7 @@
 	<link rel="alternate" type="application/rss+xml" href="https://kt-tan.github.io/rss.xml" title="KT Lab 身心實驗室">
 
 	<link rel="shortcut icon" href="https://kt-tan.github.io/favicon.ico">
+	<link rel="stylesheet" href="https://kt-tan.github.io/_pagefind/pagefind-ui.css">
 		
 		
 </head>
@@ -233,13 +234,7 @@
 			</div>
 			<aside class="sidebar"><div class="widget-search widget">
 	<h4 class="widget__title">全站搜尋</h4>
-	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
-		<div class="widget-bar">
-			<input class="widget-bar__field" type="search" placeholder="搜尋…" value="" name="q" aria-label="搜尋…">
-			<button class="widget-bar__submit" type="submit" aria-label="搜尋"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></button>
-		</div>
-		<input type="hidden" name="sitesearch" value="https://kt-tan.github.io/">
-	</form>
+	<div id="pagefind-search"></div>
 </div>
 <div class="widget-mailchimp widget">
 	<h4 class="widget__title">訂閱新文章</h4>
@@ -448,5 +443,13 @@
 </footer>
 	</div>
 <script async defer src="https://kt-tan.github.io/js/menu.js"></script>
+<script src="https://kt-tan.github.io/_pagefind/pagefind-ui.js"></script>
+<script>
+window.addEventListener('DOMContentLoaded', function() {
+	if (document.getElementById('pagefind-search')) {
+		new PagefindUI({ element: "#pagefind-search", showImages: false });
+	}
+});
+</script>
 </body>
 </html>
