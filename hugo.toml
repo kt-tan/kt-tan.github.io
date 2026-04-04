@@ -23,7 +23,7 @@ canonifyURLs = true
   home = "right"
   list = "right"
   single = "right"
-  widgets = ["search", "mailchimp", "categories", "archives"]
+  widgets = ["search", "mailchimp", "categories", "tagcloud", "archives"]
 
 [[menus.main]]
   name = "課程"
