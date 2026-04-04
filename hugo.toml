@@ -8,7 +8,7 @@ canonifyURLs = true
   pagerSize = 5
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
 
 [outputFormats.RSS]
   mediaType = "application/rss+xml"

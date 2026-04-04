@@ -3,6 +3,49 @@
 	<header class="main__header">
 		<h1 class="main__title">搜尋結果</h1>
 	</header>
-	<div id="pagefind-full"></div>
+	<div id="search-results"></div>
 </main>
+<script>
+(function() {
+	var q = new URLSearchParams(window.location.search).get('q');
+	var container = document.getElementById('search-results');
+	if (!q) {
+		container.innerHTML = '<p>請輸入搜尋關鍵字。</p>';
+		return;
+	}
+	document.title = '「' + q + '」的搜尋結果 - {{ .Site.Title }}';
+	container.innerHTML = '<p>搜尋中…</p>';
+	fetch('/index.json')
+		.then(function(r) { return r.json(); })
+		.then(function(pages) {
+			var results = pages.filter(function(p) {
+				return p.title.indexOf(q) !== -1 || p.content.indexOf(q) !== -1;
+			});
+			if (results.length === 0) {
+				container.innerHTML = '<p>找不到「' + q + '」的相關文章。</p>';
+				return;
+			}
+			var html = '<p>找到 ' + results.length + ' 篇相關文章：</p><ul class="search-results__list">';
+			results.forEach(function(p) {
+				var idx = p.content.indexOf(q);
+				var excerpt = '';
+				if (idx !== -1) {
+					var start = Math.max(0, idx - 60);
+					var end = Math.min(p.content.length, idx + q.length + 60);
+					excerpt = (start > 0 ? '…' : '') + p.content.slice(start, end) + (end < p.content.length ? '…' : '');
+				}
+				html += '<li class="search-results__item">';
+				html += '<a class="search-results__title" href="' + p.url + '">' + p.title + '</a>';
+				html += '<span class="search-results__date">' + p.date + '</span>';
+				if (excerpt) html += '<p class="search-results__excerpt">' + excerpt + '</p>';
+				html += '</li>';
+			});
+			html += '</ul>';
+			container.innerHTML = html;
+		})
+		.catch(function() {
+			container.innerHTML = '<p>搜尋失敗，請稍後再試。</p>';
+		});
+})();
+</script>
 {{ end }}
