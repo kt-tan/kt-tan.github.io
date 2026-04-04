@@ -1,7 +1,7 @@
 ---
 title: 不夠
 date: 2026-03-30
-url: https://kt-lab.tw/2026/03/built-to-move/
+url: /2026/03/built-to-move/
 categories:
   - 動作
   - 學習
