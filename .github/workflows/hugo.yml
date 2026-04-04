@@ -18,6 +18,8 @@ jobs:
           hugo-version: 'latest'
       - name: Build
         run: hugo
+      - name: Pagefind
+        run: npx pagefind --site public
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
