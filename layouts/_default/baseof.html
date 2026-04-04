@@ -48,9 +48,9 @@
 </head>
 <body class="body">
 	<div class="container container--outer">
-		<div data-pagefind-ignore>{{ block "header" . }}{{ partial "header.html" . }}{{ end }}</div>
+		{{ block "header" . }}{{ partial "header.html" . }}{{ end }}
 		<div class="wrapper flex">
-			<div class="primary">
+			<div class="primary"{{ if not .IsPage }} data-pagefind-ignore{{ end }}>
 			{{ block "main" . }}
 				{{ with .Content }}
 				<div class="content main__content clearfix">
@@ -59,9 +59,9 @@
 				{{ end }}
 			{{ end }}
 			</div>
-			<div data-pagefind-ignore>{{ block "sidebar" . }}{{ partial "sidebar.html" . }}{{ end }}</div>
+			{{ block "sidebar" . }}{{ partial "sidebar.html" . }}{{ end }}
 		</div>
-		<div data-pagefind-ignore>{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}</div>
+		{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
 	</div>
 <script async defer src="{{ "js/menu.js" | relURL }}"></script>
 {{ range .Site.Params.customJS -}}
