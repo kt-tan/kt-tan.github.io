@@ -21,7 +21,7 @@ T.K.V. Desikachar 說瑜伽是一種[「觀察的科學」（Darśana Vijñāna,
 
 或者這麼說吧：**每一個動作都在練呼吸，每一個姿勢都在練靜坐** 。
 
-![](/images/inhale-exhale-1024x327.jpg) [pix source](https://yogastudies.org/2016/04/viniyoga-vignette-4-combining-pranayama-within-asana/)
+![](/images/inhale-exhale.jpg) [pix source](https://yogastudies.org/2016/04/viniyoga-vignette-4-combining-pranayama-within-asana/)
 
 拜日式是一串動作，各種「類五禽戲」（animal movements）是動作練習，跳上去手倒立又掉下來再跳下去掉下來當然也是動作練習。有的動作練久了，熟悉了，比較不會那麼喘了，吐氣吸氣都更輕鬆了。當然也有不同的動作做法，還沒那麼熟悉，或者說，比較新鮮、有趣，在練習的過程，我們同樣也試著看看能不能有意識地輕鬆吐氣，輕鬆呼吸。
 

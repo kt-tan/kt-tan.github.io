@@ -11,7 +11,7 @@ categories:
   - Yoga 瑜伽
 ---
 
-![](/images/butterfly-1024x768.jpg)
+![](/images/butterfly.jpg)
 
 市面上常常會看到「做自己」之類的廣告宣傳詞。講得好這件事好容易似的。
 

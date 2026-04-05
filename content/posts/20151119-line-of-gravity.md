@@ -10,7 +10,7 @@ tags:
 
 先看圖吧，這張圖雖然很簡約，但是非常重要。
 
-[![line-of-gravity](/images/line-of-gravity-e1447901327509.jpg)](/images/line-of-gravity-e1447901327509.jpg)
+[![line-of-gravity](/images/line-of-gravity.jpg)](/images/line-of-gravity.jpg)
 
 （圖的出處是 [How to Learn the Alexander Technique: A Manual for Students](http://www.amazon.com/How-Learn-Alexander-Technique-Students/dp/0962259543/) 這本書，我是從 [Let Your Spine Be Like an Apple Core](http://alexanderteachingstudio.com/25-let-your-spine-be-like-an-apple-core/) 這篇文章轉引的。）
 
@@ -18,25 +18,25 @@ tags:
 
 重點來了。仔細看看肚子和骨盆的位置、關係。下背沒有往後拱出，骨盆也沒有往前推擠（anterior tilt）。
 
-![](http://up4yoga.com/wp-content/uploads/2013/10/ant-pelvic-tilt.jpg)
+<!-- ![](http://up4yoga.com/wp-content/uploads/2013/10/ant-pelvic-tilt.jpg) -->
 
-圖的左邊是骨盆前傾（anterior tilt），圖的右邊是骨盆後傾（posterior tilt），這張圖裡的紅點就是前面提到的髂前上棘（ASIS）。分清楚骨盆的前傾、後傾這兩種方向了嗎？
+<!-- 圖的左邊是骨盆前傾（anterior tilt），圖的右邊是骨盆後傾（posterior tilt），這張圖裡的紅點就是前面提到的髂前上棘（ASIS）。分清楚骨盆的前傾、後傾這兩種方向了嗎？ -->
 
-![](http://www.clinical-corner.com/wp/wp-content/uploads/2011/03/Mar302011Post_Pic1.png)
+<!-- ![](http://www.clinical-corner.com/wp/wp-content/uploads/2011/03/Mar302011Post_Pic1.png) -->
 
 很多人一上工，坐在電腦前，一整天差不多就是這種狀態吧。
 
-骨盆除了前傾、後傾之外，還有左右邊的不平衡。像是這樣：
+骨盆除了前傾、後傾之外，還有左右邊的不平衡。
 
-![](http://www.chiro.org/ACAPress/The_Pelvis_Figure_8.jpg)
+<!-- ![](http://www.chiro.org/ACAPress/The_Pelvis_Figure_8.jpg) -->
 
-頭底下是脖子，頸椎連著胸椎，胸椎連著腰椎，腹部和骨盆相連，骨盆和腿相連，腿和腳相連。牽一髮而動全身，大概就是底下這張圖的意思：
+頭底下是脖子，頸椎連著胸椎，胸椎連著腰椎，腹部和骨盆相連，骨盆和腿相連，腿和腳相連。牽一髮而動全身。
 
-![](http://erikdalton.com/images/4faultyposture.jpg)
+<!-- ![](http://erikdalton.com/images/4faultyposture.jpg) -->
 
-每個人或多或少都有點左右、上下不平衡，然後就想著，該去運動運動吧，該去練練瑜珈吧。如果只是去模倣老師的動作、形狀，而不覺察自己身心的狀態，很有可能就會出現像這樣的事情：
+每個人或多或少都有點左右、上下不平衡，然後就想著，該去運動運動吧，該去練練瑜珈吧。如果只是去模倣老師的動作、形狀，而不覺察自己身心的狀態，很有可能就會出現一些問題。
 
-![](http://erikdalton.com/images/5-YogaGuy.jpg)
+<!-- ![](http://erikdalton.com/images/5-YogaGuy.jpg) -->
 
 練瑜珈的朋友應該都很熟悉上犬式吧。急急忙忙抬起下巴、抬起頭（甚至還翻白眼），脖子不會不舒服嗎？脖子的不舒服，和下背腰椎的壓力，兩者之間，有什麼樣的關係呢？
 
@@ -46,7 +46,7 @@ tags:
 
 再看一下這兩個很常見的動作：
 
-![](http://up4yoga.com/wp-content/uploads/2013/10/standing-tilt.jpg) ![](http://up4yoga.com/wp-content/uploads/2013/10/sitting-tilt.jpg)
+<!-- ![](http://up4yoga.com/wp-content/uploads/2013/10/standing-tilt.jpg) ![](http://up4yoga.com/wp-content/uploads/2013/10/sitting-tilt.jpg) -->
 
 這兩張圖的重點在提醒骨盆前傾或者後傾所造成的差異。我不會說，左邊的做法是「錯的」，右邊的做法才是「正確的」（不過我應該會建議，屁股底下可以墊個瑜珈磚或者折疊起來的毯子，膝蓋也可以微微彎一些），但進入一個動作時，骨盆不自主的前傾或者後傾，的確會出現不同的效果。
 

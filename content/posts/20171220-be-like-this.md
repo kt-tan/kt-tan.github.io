@@ -16,13 +16,13 @@ tags:
 
 並不是和老師做一模一樣的動作就是「對」的。這篇書摘裡，Clark 老師主要是從[髖關節](https://kt-lab.tw/how-much-is-enough/)內轉（internal rotation）的程度差別來說明，在英雄坐姿裡，膝蓋放置的位置、腳掌踝關節的角度，應該因人而異。
 
-![](/images/virasana-your-body-your-yoga-1024x280.png) pix source: Your Body, Your Yoga
+![](/images/virasana-your-body-your-yoga.png) pix source: Your Body, Your Yoga
 
 在現實的世界裡，英雄坐姿這個動作，顯然複雜多了。髖關節、膝關節、踝關節可能是英雄坐姿的主角，**但我們不只是用三個關節在做動作，任何一個動作，都是由全身的肌肉骨骼共同協調才能完成，連我們的意識、情緒也都會影響一個動作的順暢與否。**
 
 （當然，如果回到 Clark 原本的 Your Body, Your Yoga 一書來說，事情也不可能只是髖關節在屈曲的情況下能不能內轉而已。只是這裡沒辦法完整介紹 Bernie Clark 的書，而且，目前已出版的，也不過是他計畫中的第一卷罷了，他的第二卷、第三卷還沒寫完呢。）
 
-![](/images/plantarflexion-your-body-your-yoga-1024x746.png) pix source: Your Body, Your Yoga
+![](/images/plantarflexion-your-body-your-yoga.png) pix source: Your Body, Your Yoga
 
 在教室裡的教學經驗告訴我，每個人的身上都背負著不同的故事，有的人呈現在肩膀，有的人是髖，有的人是腳踝或者小腿。很多人在腳背伸展（也有的人說是壓腳背，英文通常說是 feet pointing，在解剖學裡的說法叫 ankle plantar flexion，踝關節背屈。讀到這裡，頭昏了嗎？ XD）的時候，特別是腳背承受一定重量時，馬上就覺得不舒服，痛，甚至腳底板快抽筋的感覺就出現了。
 

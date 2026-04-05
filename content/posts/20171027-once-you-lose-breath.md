@@ -12,7 +12,7 @@ tags:
   - "呼吸"
 ---
 
-![](/images/border-zekedrone-1024x553.png)
+![](/images/border-zekedrone.png)
 
 中間的那條線不見得總是很清楚的。那條線，劃開了這邊，和那邊。
 

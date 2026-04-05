@@ -14,7 +14,7 @@ tags:
 
 很多人光是舉起手，像是抓公車吊環，像是拿起手機準備接電話，或者瑜伽課裡任何一個高舉手臂的動作，就會引發肩膀（甚至肩頸）痠痛不舒服。怎麼辦呢？
 
-![](/images/shoulders-1024x683.jpg) Photo by [Tamarcus Brown](https://unsplash.com/photos/YWI8pZdcuAA)
+![](/images/shoulders.jpg) Photo by [Tamarcus Brown](https://unsplash.com/photos/YWI8pZdcuAA)
 
 我們讀解剖學，查資料，知道好幾條肌肉的（拉丁文）名字，三角肌、棘上肌、棘下肌、斜方肌（還要分上中下哦）、前鋸肌。甚至查了肌肉個別的起止點，還順便看到一些復建科醫師、物理治療師會朗朗上口的症狀名稱。彷彿這些拉丁文的肌肉名字是咒語，我們默念著，就能隨心所欲控制，就能拿回主導權，就能和痠痛說再見。如果這樣有效的話，那大家就一起來開讀書會，一起來背書，從此以後就幸福快樂囉。 XD
 

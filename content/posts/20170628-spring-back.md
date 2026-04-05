@@ -10,7 +10,7 @@ tags:
   - "放鬆"
 ---
 
-[![](/images/Slinky_rainbow-1024x683.jpg)](https://commons.wikimedia.org/wiki/File%3ASlinky_rainbow.jpg "By No machine-readable author provided. Enochlau assumed \(based on copyright claims\). \[GFDL \(http://www.gnu.org/copyleft/fdl.html\), CC-BY-SA-3.0 \(http://creativecommons.org/licenses/by-sa/3.0/\) or CC BY-SA 2.5-2.0-1.0 \(http://creativecommons.org/licenses/by-sa/2.5-2.0-1.0\)\], via Wikimedia Commons")
+[![](/images/Slinky_rainbow.jpg)](https://commons.wikimedia.org/wiki/File%3ASlinky_rainbow.jpg "By No machine-readable author provided. Enochlau assumed \(based on copyright claims\). \[GFDL \(http://www.gnu.org/copyleft/fdl.html\), CC-BY-SA-3.0 \(http://creativecommons.org/licenses/by-sa/3.0/\) or CC BY-SA 2.5-2.0-1.0 \(http://creativecommons.org/licenses/by-sa/2.5-2.0-1.0\)\], via Wikimedia Commons")
 
 不時總有同學會問，「老師，到底要怎麼做，我的肩頸（或者下背、髖關節、膝蓋、身體、腦子）才會真的放鬆啊？」
 

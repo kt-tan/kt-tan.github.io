@@ -8,7 +8,7 @@ categories:
   - Somatics 身心練習
 ---
 
-![](/images/Matisse-Dance-1024x674.jpg)[Matisse - Dance, Gandalf's Gallery](https://www.flickr.com/photos/gandalfsgallery/4817249627)
+![](/images/Matisse-Dance.jpg)[Matisse - Dance, Gandalf's Gallery](https://www.flickr.com/photos/gandalfsgallery/4817249627)
 
 很多時候，莫名其妙，就是想要跳舞。
 

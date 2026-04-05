@@ -9,7 +9,7 @@ categories:
   - Yoga 瑜伽
 ---
 
-![](/images/pottery-1024x683.jpg)
+![](/images/pottery.jpg)
 
 不管我們有沒有清楚意識到，我們都一直在形塑自己。形塑自己的身體，形塑自己的念頭，形塑自己的心靈和精神。
 

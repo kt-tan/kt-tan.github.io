@@ -19,7 +19,7 @@ categories:
 
 還有一種問題：我們很容易掉到[「三個動作解決肩頸酸痛」](https://kt-lab.tw/yoga-for-specific-syndrome/)這類思考模式。我們會像是某一類只想快速解決病人身體「症狀」的醫生，而忘了病人首先是一個人，一個有肉體、有精神心靈的完整的人。
 
-![](/images/da_vinci-753x1024.jpg)
+![](/images/da_vinci.jpg)
 
 剛好前幾天看到[一篇報導](https://www.theguardian.com/books/2012/oct/19/waging-heavy-peace-neil-young-review)，資深搖滾樂手 Neil Young 曾有一段時間腳痛，痛到根本就沒辦法走路。有醫生建議他在鞋子裡加上特製的墊片，但他還是覺得身體不平衡、不舒服。最後他碰到 Feldenkrais Method 的老師，才理解到原來某些不良姿勢會讓腳承受太大的壓力。
 

@@ -19,7 +19,7 @@ tags:
 
 於是乎我們學的瑜珈體位法裡，總是難逃這種軍事訓練的氣味。看看底下這些照片大概就可以稍微體會。
 
-[![tadasanas](/images/tadasanas-1024x240.png)](/images/tadasanas.png)
+[![tadasanas](/images/tadasanas.png)](/images/tadasanas.png)
 
 據說希伯來的古賢者說過，「傻子不會感覺」（"A fool cannot feel"）（這是猶太人 M. Feldenkrais 說的，我想人家應該不會說錯）。我們不是軍隊裡的士兵，我們也可以不用把自己當傻子，我們可以練習開發自己的協調能力、感受能力、認知能力。
 
@@ -33,7 +33,7 @@ M. Feldenkrais 是這樣子說的：
 
 舉個例子來說。底下這三張側三角式（Utthita Parsvakonasana）的動作，有什麼差別呢？
 
-[![side angle pose](/images/side-angle-pose-1024x304.png)](/images/side-angle-pose.png)
+[![side angle pose](/images/side-angle-pose.png)](/images/side-angle-pose.png)
 
 如果暫時把重點放在肩膀和脖子，再仔細看一遍，哪一個人的做法我們覺得最輕鬆舒服？哪一個人的做法，我們覺得會讓脖子比較僵硬緊繃？回想一下（或者就試著做一次），在這個動作裡，我們是怎麼樣「安置」自己的肩頸呢？有沒有試著去微微調整一下頭的角度，找到更舒服、更不緊繃的停留方式？（如果從來沒試過的話，就可以接著問：why not?）
 

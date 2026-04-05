@@ -10,7 +10,7 @@ categories:
 
 最好的光線就是自然光，最好的相機就是手邊拿得到的那台相機（通常也就是手機）。想到要拍照的時候，隨時可以拿出來拍就是了。
 
-![](/images/available-light-1024x768.jpg) (By [Eraticus](https://en.wikipedia.org/wiki/User:Eraticus "en:User:Eraticus") at the [English language Wikipedia](https://en.wikipedia.org/wiki/ "w:"), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/ "Creative Commons Attribution-Share Alike 3.0"), [Link](https://commons.wikimedia.org/w/index.php?curid=1312847))
+![](/images/available-light.jpg) (By [Eraticus](https://en.wikipedia.org/wiki/User:Eraticus "en:User:Eraticus") at the [English language Wikipedia](https://en.wikipedia.org/wiki/ "w:"), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/ "Creative Commons Attribution-Share Alike 3.0"), [Link](https://commons.wikimedia.org/w/index.php?curid=1312847))
 
 最好的寫作軟硬體，就是你平常已經在用了的。可能是舊的筆記本加上用慣了的小天使鉛筆，可能是筆記型電腦，可能是美美的或者簡單的程式，都好。拿出來，打開來，開始寫就是了（或者說，開始敲打鍵盤就是了）。
 

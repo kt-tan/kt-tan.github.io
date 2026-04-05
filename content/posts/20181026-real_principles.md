@@ -9,7 +9,7 @@ categories:
   - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 
-![](/images/real_principles-1024x683.jpg)
+![](/images/real_principles.jpg)
 
 我很喜歡練瑜伽，我很喜歡東學西學有的沒的，或者慢慢自己摸索還可以有怎麼樣不同的方式練習，還可以用什麼不一樣的方式分享這些練習給其他同學。但同時我又很懶，早就不太想再東跑西跑去上這個名師那個大師的課。
 

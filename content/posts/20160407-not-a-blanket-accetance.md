@@ -30,7 +30,7 @@ tags:
 
 舉個具體的例子，在站姿前彎 uttanasana 之後，該接什麼樣的動作？（別再以為一定非有標準答案才對哦！）
 
-[![after-uttanasana](/images/after-uttanasana-1024x868.jpg)](/images/after-uttanasana.jpg)  
+[![after-uttanasana](/images/after-uttanasana.jpg)](/images/after-uttanasana.jpg)  
 source: T.K.V. Desikachar’s Religiousness in Yoga
 
 可能是後腿拉得太緊了，那就用蹲姿的 utkatasana 來緩解一下；或者可能是背的壓力，那慢慢做點貓牛式吧；也可能整個人都累了，那就大休息，躺一下囉。

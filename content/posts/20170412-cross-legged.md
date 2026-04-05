@@ -10,7 +10,7 @@ tags:
   - "脈絡"
 ---
 
-![](/images/cross-legged-1024x682.jpg)
+![](/images/cross-legged.jpg)
 
 同學常常和我討論坐姿的問題，該怎麼坐才「對」，該怎麼坐才「健康」，該怎麼坐才會不引發不必要的身體酸痛。
 

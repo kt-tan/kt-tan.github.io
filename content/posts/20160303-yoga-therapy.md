@@ -21,7 +21,7 @@ tags:
 
 然後我們試著看醫生，西醫看完看中醫，中醫看完看民俗、另類療法，接著拜拜求神求佛求上帝，算命排生命靈數排塔羅，咒語從漢語唸到梵語唸到藏語唸到夏威夷語（聽過 Hooponopono 吧？）。
 
-![](/images/help-yourself-683x1024.jpg) [source](http://adsoftheworld.com/media/ambient/cvv_suicide_prevention_center_help_yourself_1?size=_original)，也請參考[「解脫道上不會有伴，就你自己。」這篇文章。](https://kt-lab.tw/help-yourself/)
+![](/images/help-yourself.jpg) [source](http://adsoftheworld.com/media/ambient/cvv_suicide_prevention_center_help_yourself_1?size=_original)，也請參考[「解脫道上不會有伴，就你自己。」這篇文章。](https://kt-lab.tw/help-yourself/)
 
 也有的人剛好接觸到瑜珈，也有的人高舉著「療癒」的旗幟在賣瑜珈。
 

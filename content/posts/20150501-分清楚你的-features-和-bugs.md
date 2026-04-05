@@ -1,8 +1,8 @@
 ---
 title: "分清楚你的 features 和 bugs"
 date: 2015-05-01
+slug: 分清楚你的-features-和-bugs
 site: kt-lab
-url: /2015/05/%e5%88%86%e6%b8%85%e6%a5%9a%e4%bd%a0%e7%9a%84-features-%e5%92%8c-bugs/
 categories:
   - Somatics 身心練習
 ---

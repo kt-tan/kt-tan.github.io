@@ -11,7 +11,7 @@ tags:
   - "呼吸"
 ---
 
-[![mushishi](/images/mushishi-1024x576.jpg)](/images/mushishi.jpg)
+[![mushishi](/images/mushishi.jpg)](/images/mushishi.jpg)
 
 在瑜珈課上可以看到形形色色的動作習慣。（呃，我知道，瑜珈課不應該是用來看其他人的場所，但我是瑜珈老師，在前面給指令的那個傢伙，不管我喜歡或不喜歡，總是得把眼睛仔細盯著每個同學的身體。）
 

@@ -14,7 +14,7 @@ tags:
 
 回想看看自己的練習吧。
 
-[![utthita-parsvakonasana](/images/utthita-parsvakonasana-1024x539.jpg)](/images/utthita-parsvakonasana.jpg)
+[![utthita-parsvakonasana](/images/utthita-parsvakonasana.jpg)](/images/utthita-parsvakonasana.jpg)
 
 舉個例子來說，utthita parsvakonasana 這個動作，我們習慣怎麼做？我們認為哪一種做法才是「正確」的？我們想要在這個動作觀察到什麼事情？培養什麼力量？
 

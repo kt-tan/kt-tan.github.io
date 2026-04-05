@@ -42,7 +42,7 @@ tags:
 >  And what is the cessation of kamma? Whoever touches the release that comes from the cessation of bodily kamma, verbal kamma, & mental kamma: This is called the cessation of kamma.  
 >  And what is the path of practice leading to the cessation of kamma? Just this noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. This is called the path of practice leading to the cessation of kamma.[Kamma Sutta: Action, translated from the Pali by Thanissaro Bhikkhu](http://www.accesstoinsight.org/tipitaka/sn/sn35/sn35.145.than.html)
 
-[![Agent-Smith](/images/Agent-Smith-1024x494.jpg)](/images/Agent-Smith.jpg)
+[![Agent-Smith](/images/Agent-Smith.jpg)](/images/Agent-Smith.jpg)
 
 心理學有個術語叫「能動性」（agency），意思是說「有目的地發起事件的力量」。有目的，主動的思考、主動的行動。因為人類據說擁有這樣的能力，所以可以專心思考，可以靜下心來學習、記憶、反省。因此可能「在應該施予心肺復甦術的時候」，不選擇「跪下來祈禱」，而是就進行心肺復甦術。
 

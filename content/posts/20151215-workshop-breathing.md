@@ -11,7 +11,7 @@ tags:
   - "呼吸"
 ---
 
-[![workshop-breath](/images/workshop-breath-724x1024.jpg)](/images/workshop-breath.jpg)
+[![workshop-breath](/images/workshop-breath.jpg)](/images/workshop-breath.jpg)
 
 **進度報告：名額已滿！**
 

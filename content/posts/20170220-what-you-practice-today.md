@@ -8,7 +8,7 @@ categories:
 tags:
 ---
 
-![](/images/typewriter-watch-1024x683.jpg)
+![](/images/typewriter-watch.jpg)
 
 常常有同學問一個問題，「老師，你練習（瑜珈）幾年了？」這差不多可以列入 FAQ 了吧。
 

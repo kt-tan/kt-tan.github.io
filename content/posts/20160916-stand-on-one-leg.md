@@ -15,11 +15,11 @@ tags:
 
 怎麼辦？簡單一招：練習單腳站立吧。
 
-![stang-on-one-leg-yang](/images/stang-on-one-leg-Yang-215x300.jpg) 太極拳老師楊澄甫示範金雞雞立左式。
+![stang-on-one-leg-yang](/images/stang-on-one-leg-Yang.jpg) 太極拳老師楊澄甫示範金雞雞立左式。
 
 太極拳裡有「金雞獨立式」，譜訣是這麼說的：「金雞獨立隨勢起，撩踢撞閉任我為；腿起腳落千斤墜，不見閻王亦見鬼。」據說可以增強腳力、補腎氣；引中焦虛火下行；對付脊椎、膝蓋、風濕病痛、改善手腳冰冷的情況。十二條經絡有一半都會經過雙腳雙腿（胃經、脾經、腎經、膀胱經、膽經、肝經），練習輪流單腳站立，總是能刺激、活絡這些經脈。
 
-![vrksasana-iyengar](/images/vrksasana-Iyengar-127x300.jpg) 瑜珈老師 B.K.S. Iyengar 示範樹式 Vrksasana。
+![vrksasana-iyengar](/images/vrksasana-Iyengar.jpg) 瑜珈老師 B.K.S. Iyengar 示範樹式 Vrksasana。
 
 而瑜珈的動作練習裡，最有名的單腳站立動作，大概就是樹式（vrksasana）了。這個動作老少咸宜，一方面能有效訓練腿部的肌肉，另一方面又能幫助觸覺、前庭覺、本體感覺等等不同系統的感覺統合。
 

@@ -22,7 +22,7 @@ tags:
 
 嫌手倒立太累的話，還可以試試看另一組動作：「四足動物爬行式」（要稱為「小寶寶爬行式」也沒問題），這是近來我很愛帶的基本動作之一。這組動作和一般常見的「四足跪姿」（all fours）有點不一樣，「四足動物爬行式」的膝蓋不落地，比較不會產生對臏骨的壓迫。
 
-![](/images/baby-all-fours-1024x683.jpg) Photo by [Jordan Christian](https://unsplash.com/photos/uZfwTsrXZjw)
+![](/images/baby-all-fours.jpg) Photo by [Jordan Christian](https://unsplash.com/photos/uZfwTsrXZjw)
 
 如果你早就忘了這組動作玩起來是什麼滋味的話，強烈推荐試試看。慢慢爬幾步，感覺自己的腿，感覺自己的下背、脊椎，感覺自己的肚子還有核心。看看能不能輕鬆走走、看看自己走的時候，是不是會很自然踮起腳尖？有沒有辦法每一步都讓整個腳掌輕鬆落地？
 

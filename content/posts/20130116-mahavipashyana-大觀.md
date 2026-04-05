@@ -1,8 +1,8 @@
 ---
 title: "mahavipashyana 大觀"
 date: 2013-01-16
+slug: mahavipashyana-大觀
 site: kt-lab
-url: /2013/01/mahavipashyana-%e5%a4%a7%e8%a7%80/
 categories:
   - Somatics 身心練習
 ---

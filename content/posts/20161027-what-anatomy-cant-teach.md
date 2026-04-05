@@ -39,9 +39,9 @@ categories:
 
 以前在練瑜珈動作的時候，總覺得有些畫得精美無比的解剖書真的很吸引人。這些肌肉收縮，那些肌肉放鬆，而且這收縮和放縮還不是非黑即白、一翻兩瞪眼的，而是有層次的，一個動作裡，總是有些肌肉「應該」處在最用力收縮，有些肌肉「應該」不用那麼費盡全力收縮，有些肌肉「應該」微微放鬆伸展，有些肌肉「應該」要徹底伸展。
 
-![ray-long-paschimottanasana](/images/ray-long-paschimottanasana-1024x768.jpg) pix source: Ray Long, The Key Posese of Hatha Yoga
+![ray-long-paschimottanasana](/images/ray-long-paschimottanasana.jpg) pix source: Ray Long, The Key Posese of Hatha Yoga
 
-![ray-long-practice](/images/ray-long-practice-773x1024.png) pix source: Ray Long, The Key Posese of Hatha Yoga
+![ray-long-practice](/images/ray-long-practice.png) pix source: Ray Long, The Key Posese of Hatha Yoga
 
 問題是，即便我背得再清楚，在教室裡練習這些動作，全身還是僵硬成一團啊。我記得很清楚，很多年之前在教室裡練習，每當來到 paschimottanasana 這個動作，我怎麼也趴不下去。我試圖呼喚 psoas、rectus femoris，呼喚 quadriceps、hamstrings，呼喚 rectus abdominus、rhomboids、trapezius，我回想哪一條是深藍色的，哪一條是淺藍色的，哪一條是粉紅色的，哪一條又是深紅色。
 

@@ -40,7 +40,7 @@ Yoga Anatomy 2nd Edition, by Leslie Kaminoff, Amy Matthews
 
 通常脊椎屈曲就是增加原發性弧度（同時也就是減少繼發性弧度），脊椎伸展就是增加繼續性弧度（同時也就是減少原發性弧度）。看貓牛式最清楚（左邊是貓式，右邊是牛式）。
 
-[![cat cow](/images/cat-cow-1024x381.png)](/images/cat-cow.png)  
+[![cat cow](/images/cat-cow.png)](/images/cat-cow.png)  
 Yoga Anatomy 2nd Edition, by Leslie Kaminoff, Amy Matthews
 
 在貓式裡，脊椎屈曲，意思是增加了胸椎、薦椎這些原發性弧度，而減少了頸椎、腰椎這些繼發性弧度。牛式則剛好相反。通常在瑜珈課，老師給的指令都是吸氣的時候伸展脊椎（進入牛式），吐氣的時候脊椎屈曲（進入貓式）。強調「呼吸就是體腔三度空間變化」的 Leslie Kaminoff 指出：
@@ -55,7 +55,7 @@ Yoga Anatomy 2nd Edition, by Leslie Kaminoff, Amy Matthews
 
 這是一種「不自然」的動作，因為在「自然」的狀態下，胸椎（原發性弧度）和頸椎、腰椎（繼發性弧度）通常是相反的運動方向。而最劇烈、最強力的表現，就是加上了扭轉、能量鎖印（bandha）的大身印（mahamudra）。
 
-[![mahamudra](/images/mahamudra-1024x521.png)](/images/mahamudra.png)  
+[![mahamudra](/images/mahamudra.png)](/images/mahamudra.png)  
 Yoga Anatomy 2nd Edition, by Leslie Kaminoff, Amy Matthews
 
 我們在瑜珈課裡練習前彎、後彎（身體的前彎、後彎，並不等於脊椎的屈曲、伸展），練習側彎、扭轉，練習軸向伸展；認識脊椎的狀態，脊椎承受的壓力，練習在不同的條件下吸氣吐氣。

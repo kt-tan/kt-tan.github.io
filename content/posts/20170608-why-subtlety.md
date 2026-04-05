@@ -15,7 +15,7 @@ tags:
 
 我想到這樣的[冰山圖](https://duckduckgo.com/?q=iceberg&iax=1&ia=images)
 
-![](/images/Iceberg-705x1024.jpg) By Created by Uwe Kils (iceberg) and User:Wiska Bodo (sky). [[GFDL](http://www.gnu.org/copyleft/fdl.html) or [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AIceberg.jpg)
+![](/images/Iceberg.jpg) By Created by Uwe Kils (iceberg) and User:Wiska Bodo (sky). [[GFDL](http://www.gnu.org/copyleft/fdl.html) or [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AIceberg.jpg)
 
 就如同我現在坐著打字這事。不一會兒，身體就慢慢「垮了」、「塌了」、「癱了」，下背和上背往後拱出去，骨盆後傾，頭就不自主往前移動，結果就過度伸展脖子後側，肩頸開始緊繃起來，胸腔有微微的壓迫感，呼吸變得比較侷促，費力。
 
