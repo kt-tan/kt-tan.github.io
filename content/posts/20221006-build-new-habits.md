@@ -55,6 +55,12 @@ categories:
 
 [延伸閱讀]
 
-[「重點是繼續跑下去」： 站椿一百天的小結](https://kt-lab.tw/2018/04/100-days/) [疫情嚴峻期間的自我練習](https://kt-lab.tw/2021/05/self-practice-during-pandemic-time/) [時間是一種幻覺](https://kt-lab.tw/2018/03/time-illusion/) [一個簡單可行的預言](https://kt-lab.tw/2018/01/start-now/) [如何跳脫酸痛的無限迴圈？](https://kt-lab.tw/2016/09/alternative-solution/) [[關鍵字系列] 不要輕易為自己定型：anattā 是一種操作型定義、行動指南](https://kt-lab.tw/2018/04/not-nonself-but-not-self/) [身體是最誠實的？–part 2](https://kt-lab.tw/2016/11/listen-to-your-body-part-2/)
+[「重點是繼續跑下去」： 站椿一百天的小結](https://kt-lab.tw/2018/04/100-days/)
+[疫情嚴峻期間的自我練習](https://kt-lab.tw/2021/05/self-practice-during-pandemic-time/)
+[時間是一種幻覺](https://kt-lab.tw/2018/03/time-illusion/)
+[一個簡單可行的預言](https://kt-lab.tw/2018/01/start-now/)
+[如何跳脫酸痛的無限迴圈？](https://kt-lab.tw/2016/09/alternative-solution/)
+[[關鍵字系列] 不要輕易為自己定型：anattā 是一種操作型定義、行動指南](https://kt-lab.tw/2018/04/not-nonself-but-not-self/)
+[身體是最誠實的？–part 2](https://kt-lab.tw/2016/11/listen-to-your-body-part-2/)
 
 [](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.zh_TW)

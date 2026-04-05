@@ -8,7 +8,8 @@ categories:
 tags:
 ---
 
-[中譯出處](http://yifertw.blogspot.tw/2013/10/blog-post_968.html) [簡體中文中譯出處](http://www.douban.com/note/310231355/)
+[中譯出處](http://yifertw.blogspot.tw/2013/10/blog-post_968.html)
+[簡體中文中譯出處](http://www.douban.com/note/310231355/)
 
 菩提長老
 

@@ -43,4 +43,7 @@ categories:
 
 [延伸閱讀]
 
-[老師也不過就是一種輔具](https://kt-lab.tw/2017/03/teacher-as-prop/) [用手指來閱讀肋間](https://kt-lab.tw/2019/09/fingers-as-reading-tool/) [真正神祕力量的根源：天天練習](https://kt-lab.tw/2016/09/practice-everyday/) [傾聽身體的需求](https://kt-lab.tw/2017/03/listen-to-what-your-body-needs/)
+[老師也不過就是一種輔具](https://kt-lab.tw/2017/03/teacher-as-prop/)
+[用手指來閱讀肋間](https://kt-lab.tw/2019/09/fingers-as-reading-tool/)
+[真正神祕力量的根源：天天練習](https://kt-lab.tw/2016/09/practice-everyday/)
+[傾聽身體的需求](https://kt-lab.tw/2017/03/listen-to-what-your-body-needs/)

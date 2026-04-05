@@ -32,4 +32,12 @@ categories:
 
 [延伸閱讀]
 
-[「享受手臂像是坦克輾過似的快感」](https://kt-lab.tw/2019/08/trx-or-rhabdomyolysis/) [我們抵抗得了高難度動作的誘惑嗎？](https://kt-lab.tw/2015/07/challenging-postures/) [什麼是「進階練習」？](https://kt-lab.tw/2015/12/advanced-practice/) [在不平衡裡創造新的平衡](https://kt-lab.tw/2021/06/balancing-the-unbalanced/) [當我們以為我們在思考的時候](https://kt-lab.tw/2016/05/thinking/) [第一課就是最重要的功課！](https://kt-lab.tw/2016/01/first-lessons/) [瑜珈不是比賽！](https://kt-lab.tw/2012/05/yoga-is-not-competition/) [療癒，或者是傷害？](https://kt-lab.tw/2011/08/healing-or-hurting/) [其實，我家也有很漂亮的吸塵器](https://kt-lab.tw/2010/10/vacuum-cleaner/)
+[「享受手臂像是坦克輾過似的快感」](https://kt-lab.tw/2019/08/trx-or-rhabdomyolysis/)
+[我們抵抗得了高難度動作的誘惑嗎？](https://kt-lab.tw/2015/07/challenging-postures/)
+[什麼是「進階練習」？](https://kt-lab.tw/2015/12/advanced-practice/)
+[在不平衡裡創造新的平衡](https://kt-lab.tw/2021/06/balancing-the-unbalanced/)
+[當我們以為我們在思考的時候](https://kt-lab.tw/2016/05/thinking/)
+[第一課就是最重要的功課！](https://kt-lab.tw/2016/01/first-lessons/)
+[瑜珈不是比賽！](https://kt-lab.tw/2012/05/yoga-is-not-competition/)
+[療癒，或者是傷害？](https://kt-lab.tw/2011/08/healing-or-hurting/)
+[其實，我家也有很漂亮的吸塵器](https://kt-lab.tw/2010/10/vacuum-cleaner/)

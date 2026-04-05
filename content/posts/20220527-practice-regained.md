@@ -48,4 +48,8 @@ categories:
 
 [延伸閱讀]
 [趁我們還有選擇的機會](https://kt-lab.tw/2020/01/election-choice/)
-[新習慣來得有夠快](https://kt-lab.tw/2019/12/new-habit/)[[瑜伽到底在練什麼] 系列：真的有變得比較輕鬆嗎？](https://kt-lab.tw/2018/10/real_principles/) [Nobody-But-Yourself](https://kt-lab.tw/2018/10/nobody-but-yourself/) [一個練瑜珈的傢伙的自我反省](https://kt-lab.tw/2014/03/abhyasi/) [疫情嚴峻期間的自我練習](https://kt-lab.tw/2021/05/self-practice-during-pandemic-time/)
+[新習慣來得有夠快](https://kt-lab.tw/2019/12/new-habit/)
+[[瑜伽到底在練什麼] 系列：真的有變得比較輕鬆嗎？](https://kt-lab.tw/2018/10/real_principles/)
+[Nobody-But-Yourself](https://kt-lab.tw/2018/10/nobody-but-yourself/)
+[一個練瑜珈的傢伙的自我反省](https://kt-lab.tw/2014/03/abhyasi/)
+[疫情嚴峻期間的自我練習](https://kt-lab.tw/2021/05/self-practice-during-pandemic-time/)

@@ -38,4 +38,9 @@ categories:
 
 [延伸閱讀]
 
-[「重點是繼續跑下去」： 站椿一百天的小結](https://kt-lab.tw/2018/04/100-days/) [看起來很簡單的，和看起來很難的](https://kt-lab.tw/2016/11/looks-easy/) [如果不夠簡單](https://kt-lab.tw/2014/03/not-simple-enough/) [打開腳趾，沒你想像的那麼簡單](https://kt-lab.tw/2012/06/toe-opening/) [練習的道路，在地圖以外的地方](https://kt-lab.tw/2018/12/authoritative/) [單純的力量](https://kt-lab.tw/2012/09/simple-pure/)
+[「重點是繼續跑下去」： 站椿一百天的小結](https://kt-lab.tw/2018/04/100-days/)
+[看起來很簡單的，和看起來很難的](https://kt-lab.tw/2016/11/looks-easy/)
+[如果不夠簡單](https://kt-lab.tw/2014/03/not-simple-enough/)
+[打開腳趾，沒你想像的那麼簡單](https://kt-lab.tw/2012/06/toe-opening/)
+[練習的道路，在地圖以外的地方](https://kt-lab.tw/2018/12/authoritative/)
+[單純的力量](https://kt-lab.tw/2012/09/simple-pure/)

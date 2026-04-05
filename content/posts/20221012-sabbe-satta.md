@@ -74,4 +74,8 @@ categories:
 
 [延伸閱讀]
 
-[排除萬難，送自己一份大禮物](https://kt-lab.tw/2019/12/best-gift-for-yourself/) [你真的需要吃到飽嗎？](https://kt-lab.tw/2016/01/all-you-can-eat/) [不見得需要一直掙扎](https://kt-lab.tw/2015/12/constantly-struggle/) [滋養的另一面就是吞噬](https://kt-lab.tw/2015/12/what-is-food/) [食喻](https://kt-lab.tw/2014/08/food-simile/)
+[排除萬難，送自己一份大禮物](https://kt-lab.tw/2019/12/best-gift-for-yourself/)
+[你真的需要吃到飽嗎？](https://kt-lab.tw/2016/01/all-you-can-eat/)
+[不見得需要一直掙扎](https://kt-lab.tw/2015/12/constantly-struggle/)
+[滋養的另一面就是吞噬](https://kt-lab.tw/2015/12/what-is-food/)
+[食喻](https://kt-lab.tw/2014/08/food-simile/)

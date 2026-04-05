@@ -46,4 +46,9 @@ tags:
 
 [延伸閱讀]
 
-[練習傾聽被掩蓋的聲音](https://kt-lab.tw/2019/08/loudest-voice-little-voice/) [The World IS Sound 世界就是聲音](https://kt-lab.tw/2014/02/the-world-is-sound/) [聽自己的聲音](https://kt-lab.tw/2012/01/lower-your-tone/) [找回身體的愉悅](https://kt-lab.tw/2023/02/pleasures-of-the-body/) [練習當自己的主人](https://kt-lab.tw/2022/11/independent/) [自由的滋味](https://kt-lab.tw/2022/09/taste-of-unconditioned/)
+[練習傾聽被掩蓋的聲音](https://kt-lab.tw/2019/08/loudest-voice-little-voice/)
+[The World IS Sound 世界就是聲音](https://kt-lab.tw/2014/02/the-world-is-sound/)
+[聽自己的聲音](https://kt-lab.tw/2012/01/lower-your-tone/)
+[找回身體的愉悅](https://kt-lab.tw/2023/02/pleasures-of-the-body/)
+[練習當自己的主人](https://kt-lab.tw/2022/11/independent/)
+[自由的滋味](https://kt-lab.tw/2022/09/taste-of-unconditioned/)

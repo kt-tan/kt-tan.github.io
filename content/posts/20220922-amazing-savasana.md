@@ -45,4 +45,10 @@ tags:
 
 [延伸閱讀]
 
-[放鬆練習，練習放鬆](https://kt-lab.tw/2017/06/spring-back/) [放鬆還是癱塌？](https://kt-lab.tw/2017/05/relaxing-or-collapsing/) [你沒有真的想放鬆](https://kt-lab.tw/2016/05/do-you-really-want-to-be-relaxed/) [關於放鬆的二三事](https://kt-lab.tw/2012/08/notes-about-relax/) [在不平衡裡創造新的平衡](https://kt-lab.tw/2021/06/balancing-the-unbalanced/) [看見了，怎麼辦？](https://kt-lab.tw/2010/03/what-if-i-see/) [這需要時間](https://kt-lab.tw/2016/04/it-takes-time-2/)
+[放鬆練習，練習放鬆](https://kt-lab.tw/2017/06/spring-back/)
+[放鬆還是癱塌？](https://kt-lab.tw/2017/05/relaxing-or-collapsing/)
+[你沒有真的想放鬆](https://kt-lab.tw/2016/05/do-you-really-want-to-be-relaxed/)
+[關於放鬆的二三事](https://kt-lab.tw/2012/08/notes-about-relax/)
+[在不平衡裡創造新的平衡](https://kt-lab.tw/2021/06/balancing-the-unbalanced/)
+[看見了，怎麼辦？](https://kt-lab.tw/2010/03/what-if-i-see/)
+[這需要時間](https://kt-lab.tw/2016/04/it-takes-time-2/)

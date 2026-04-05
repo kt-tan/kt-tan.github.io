@@ -58,4 +58,8 @@ categories:
 
 [延伸閱讀]
 
-[誰說非得這樣動作不可？](https://kt-lab.tw/2019/09/conditioned-reflex/) [練習的道路，在地圖以外的地方](https://kt-lab.tw/2018/12/authoritative/) [你能用動作講出多少故事？](https://kt-lab.tw/2018/10/freedom-liberation/) [來開天眼吧！](https://kt-lab.tw/2017/09/dibba-cakkhu/) [裡面就是外面，外面就是裡面](https://kt-lab.tw/2016/03/inside-outside-2/)
+[誰說非得這樣動作不可？](https://kt-lab.tw/2019/09/conditioned-reflex/)
+[練習的道路，在地圖以外的地方](https://kt-lab.tw/2018/12/authoritative/)
+[你能用動作講出多少故事？](https://kt-lab.tw/2018/10/freedom-liberation/)
+[來開天眼吧！](https://kt-lab.tw/2017/09/dibba-cakkhu/)
+[裡面就是外面，外面就是裡面](https://kt-lab.tw/2016/03/inside-outside-2/)
