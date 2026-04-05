@@ -1,0 +1,37 @@
+#!/bin/sh
+# Check for non-ASCII characters in the 'url' field of markdown front matter
+
+found=0
+
+for file in $(git diff --cached --name-only | grep '\.md$'); do
+    if [ ! -f "$file" ]; then
+        continue
+    fi
+    url_line=$(grep -m1 '^url:' "$file" 2>/dev/null)
+    if [ -z "$url_line" ]; then
+        continue
+    fi
+    # Use Python to check for non-ASCII characters
+    if python3 -c "
+import sys
+line = open('$file').readlines()
+for l in line:
+    if l.startswith('url:') and any(ord(c) > 127 for c in l):
+        sys.exit(1)
+sys.exit(0)
+" 2>/dev/null; then
+        :
+    else
+        echo "錯誤：$file 的 url 欄位含有非 ASCII 字元（中文字），請改為 percent-encoding 或改用 slug 欄位。"
+        echo "  $url_line"
+        found=1
+    fi
+done
+
+if [ "$found" -eq 1 ]; then
+    echo ""
+    echo "請用 python3 -c \"from urllib.parse import quote; print(quote('你的中文', safe=''))\" 轉換。"
+    exit 1
+fi
+
+exit 0
