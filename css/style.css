@@ -1072,6 +1072,7 @@ textarea {
 /* Widgets */
 .widget {
 	margin-bottom: 25px;
+	margin-right: 1rem;
 	overflow: hidden;
 }
 
