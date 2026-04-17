@@ -23,6 +23,28 @@ WEBSITE_POSTS = "/Users/kongtat/website/kt-lab/content/posts"
 CONVERT_SCRIPT = "/Users/kongtat/website/kt-lab/convert-wikilinks.py"
 DRY_RUN = "--write" not in sys.argv
 
+# 清除 vault 非法字元
+INVALID_CHARS = ['\x08']
+cleaned = []
+for fname in os.listdir(VAULT_POSTS):
+    if not fname.endswith(".md"):
+        continue
+    fpath = os.path.join(VAULT_POSTS, fname)
+    with open(fpath, "r", encoding="utf-8") as f:
+        content = f.read()
+    original = content
+    for char in INVALID_CHARS:
+        content = content.replace(char, "")
+    if content != original:
+        cleaned.append(fname)
+        if not DRY_RUN:
+            with open(fpath, "w", encoding="utf-8") as f:
+                f.write(content)
+if cleaned:
+    print(f"{'[Dry-run] ' if DRY_RUN else ''}清除非法字元（{len(cleaned)} 篇）：")
+    for f in cleaned:
+        print(f"  {f}")
+
 def parse_frontmatter(content):
     date = None
     url = None
