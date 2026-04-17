@@ -64,5 +64,5 @@ We're one, but we're not the same.
 [延伸閱讀]
 [練習日記：三角點以外的風景](https://kt-lab.tw/2023/05/beyond-trig-points/)
 [練習的道路，在地圖以外的地方](https://kt-lab.tw/2018/12/authoritative/)
-[How low can you go?](https://kt-lab.tw/2022/08/how-low-can-you-go/)
+[[2022-08-05 How low can you go|How low can you go?]]
 [人為什麼會（開始）變老？](https://kt-lab.tw/2019/09/getting-aged/)

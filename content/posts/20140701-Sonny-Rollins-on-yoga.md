@@ -1,7 +1,7 @@
 ---
 title: "Sonny Rollins 談瑜珈"
 date: 2014-07-01
-slug: sonny-rollins-談瑜珈
+slug: Sonny-Rollins-on-yoga
 site: kt-lab
 categories:
   - Somatics 身心練習
