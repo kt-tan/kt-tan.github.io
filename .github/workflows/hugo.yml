@@ -4,8 +4,9 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 20 4 *'  # 台灣時間 04-20 08:00（UTC 00:00）
+    - cron: '0 23 * * 0'  # 每週一台灣時間 07:00（UTC 週日 23:00）
 
 jobs:
   deploy:
