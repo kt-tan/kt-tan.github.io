@@ -33,7 +33,7 @@ sè-kan bī hí koân chûn-chāi
 ióng-sū tong ūi gī tò͘-cheng
 勇士當為義鬥爭
 
-Lōa-Hô, "Ngô͘-jîn", 1924<br>
+Lōa-Hô, "Ngô͘-jîn", 1924
 賴和，〈吾人〉
 
 * * *
