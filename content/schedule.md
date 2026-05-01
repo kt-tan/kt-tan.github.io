@@ -6,7 +6,7 @@ type: page
 url: /schedule/
 ---
 
-**2026 年 4 月課表**
+**2026 年 5 月課表**
 
 ![](/images/課表-202605.png)
 
