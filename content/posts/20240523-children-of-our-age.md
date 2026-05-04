@@ -5,10 +5,6 @@ site: kt-lab
 url: /2024/05/children-of-our-age/
 categories:
   - Bhavana 靜坐
-  - Sensibility / Observation 感受 / 覺察
-  - Somatics 身心練習
-  - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
   - Yoga 瑜伽
 ---
 

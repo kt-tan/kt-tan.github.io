@@ -6,10 +6,6 @@ url: /2025/04/wake-up-from-your-dream/
 categories:
   - Bhavana 靜坐
   - Buddhism 佛教
-  - Sensibility / Observation 感受 / 覺察
-  - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
 tags:
   - "戰爭"
   - "罷免"

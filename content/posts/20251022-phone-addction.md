@@ -4,13 +4,6 @@ date: 2025-10-22
 site: kt-lab
 url: /2025/10/phone-addction/
 categories:
-  - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Bhavana 靜坐
-  - Practice Notes 練習日記
-  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
-  - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - Somatics 身心練習
   - Unlearn 重新學習
   - What We Talk About When We Talk About Practice 當我們討論練習
 ---

@@ -4,9 +4,7 @@ date: 2018-10-11
 site: kt-lab
 url: /2018/10/they-are-there/
 categories:
-  - Bhavana 靜坐
   - Buddhism 佛教>Theravada 上座部佛教
-  - Unlearn 重新學習
 tags:
   - "咒語"
 ---

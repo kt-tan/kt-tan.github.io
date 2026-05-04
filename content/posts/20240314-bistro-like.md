@@ -4,10 +4,7 @@ date: 2024-03-14
 site: kt-lab
 url: /2024/03/bistro-like/
 categories:
-  - Classroom 教室
   - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - What We Talk About When We Talk About Practice 當我們討論練習
   - Yoga 瑜伽
 ---
 

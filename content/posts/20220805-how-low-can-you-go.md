@@ -4,10 +4,8 @@ date: 2022-08-05
 site: kt-lab
 url: /2022/08/how-low-can-you-go/
 categories:
-  - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Bhavana 靜坐
-  - Movement 動作
-  - Sensibility / Observation 感受 / 覺察
+  - Somatics 身心練習
+  - Practice Notes 練習日記
   - Unlearn 重新學習
 ---
 

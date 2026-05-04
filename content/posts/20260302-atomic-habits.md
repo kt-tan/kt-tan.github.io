@@ -4,13 +4,11 @@ date: 2026-03-02
 site: kt-lab
 url: /2026/03/atomic-habits/
 categories:
-  - Bhavana 靜坐
-  - Buddhism 佛教
-  - Practice Notes 練習日記
-  - Sensibility / Observation 感受 / 覺察
   - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
+  - Practice Notes 練習日記
+tags:
+  - 瑜伽老師讀什麼書
+
 ---
 
 ![](/images/atomic-habits.jpg)
@@ -40,5 +38,3 @@ categories:
 說穿了，一個人其實之所以能夠扭轉過去的自我認同，進而創造出嶄新的自我認同，背後的道理，不就是佛教最重要的一個基本概念「無我」（非我 / anatta）嗎？就是因為萬事萬物諸般現象，包括我們自己這具肉身，都是由種種不同的、不斷變化的條件、要素所構造，因此可以調整，可以改變。這裡頭最重要的一件事，就是釐清楚一個問題：我以為自己是什麼樣的人？我不想扮演什麼樣的角色？我想成為什麼的人？
 
 你呢？你想成為什麼的人？你是什麼樣的人？
-
-#瑜伽老師讀什麼書

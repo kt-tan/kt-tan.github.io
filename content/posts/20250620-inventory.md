@@ -4,14 +4,12 @@ date: 2025-06-20
 site: kt-lab
 url: /2025/06/inventory/
 categories:
-  - Bhavana 靜坐
   - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
+  - Somatics 身心練習
 tags:
-  - "戰爭"
+  - 戰爭
+  - 天佑台灣
+  - 大罷免大成功
   - "罷免"
 ---
 
@@ -64,5 +62,3 @@ tags:
 有些事，該來的還是會來。能設想的就多設想。能準備的，在還有時間的時候，就請好好準備。
 
 有些區域罷免案還缺補件所需的連署書，請幫忙連署或宣傳。下一個階段，就是努力拉票，固票。唯有盡人事之後，才有資格說聽天命。
-
-#天佑台灣 #大罷免大成功

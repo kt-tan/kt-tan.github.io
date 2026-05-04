@@ -4,11 +4,7 @@ date: 2018-12-27
 site: kt-lab
 url: /2018/12/authoritative/
 categories:
-  - Movement 動作
   - School 教學特色
-  - Somatics 身心練習
-  - Unlearn 重新學習
-  - Yoga 瑜伽
 tags:
   - "authoritative"
   - "地圖"

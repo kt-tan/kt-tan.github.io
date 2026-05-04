@@ -4,11 +4,7 @@ date: 2023-06-19
 site: kt-lab
 url: /2023/06/general-solution/
 categories:
-  - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Medicine 醫學
-  - Movement 動作
   - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
   - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 

@@ -4,12 +4,7 @@ date: 2025-12-21
 site: kt-lab
 url: /2025/12/self-defence/
 categories:
-  - Bhavana 靜坐
-  - Movement 動作
-  - Practice Notes 練習日記
-  - Sensibility / Observation 感受 / 覺察
-  - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Somatics 身心練習
   - Yoga 瑜伽
 ---
 

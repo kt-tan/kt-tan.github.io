@@ -4,11 +4,7 @@ date: 2020-01-10
 site: kt-lab
 url: /2020/01/election-choice/
 categories:
-  - Bhavana 靜坐
-  - School 教學特色
   - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
 tags:
   - "viveka"
 ---

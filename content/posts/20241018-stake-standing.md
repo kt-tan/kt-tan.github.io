@@ -5,10 +5,6 @@ site: kt-lab
 url: /2024/10/stake-standing/
 categories:
   - Bhavana 靜坐
-  - Movement 動作
-  - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - Somatics 身心練習
   - Yoga 瑜伽
 ---
 

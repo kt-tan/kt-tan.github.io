@@ -4,11 +4,8 @@ date: 2026-04-06
 site: kt-lab
 url: /2026/04/reflection-on-AI
 categories:
-  - Bhavana 靜坐
-  - Buddhism 佛教
   - Practice Notes 練習日記
-  - Sensibility / Observation 感受 / 覺察
-  - Unlearn 重新學習
+  - Bhavana 靜坐
 tags:
   - AI
 ---

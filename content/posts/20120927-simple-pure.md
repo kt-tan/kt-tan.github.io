@@ -5,8 +5,6 @@ site: kt-lab
 url: /2012/09/simple-pure/
 categories:
   - Bhavana 靜坐
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
 tags:
   - "yoganidra"
   - "站椿"

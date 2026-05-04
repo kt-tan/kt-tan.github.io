@@ -5,10 +5,7 @@ site: kt-lab
 url: /2025/07/simple-but-deep-happiness/
 categories:
   - Bhavana 靜坐
-  - Practice Notes 練習日記
-  - Sensibility / Observation 感受 / 覺察
   - Buddhism 佛教>Theravada 上座部佛教
-  - Unlearn 重新學習
   - Yoga 瑜伽
 ---
 

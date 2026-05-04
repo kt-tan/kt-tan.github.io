@@ -5,7 +5,6 @@ site: kt-lab
 url: /2018/06/make-a-real-fortune/
 categories:
   - Bhavana 靜坐
-  - What We Talk About When We Talk About Practice 當我們討論練習
   - Yoga 瑜伽
 ---
 

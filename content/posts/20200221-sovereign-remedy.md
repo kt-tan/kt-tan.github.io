@@ -4,11 +4,7 @@ date: 2020-02-21
 site: kt-lab
 url: /2020/02/sovereign-remedy/
 categories:
-  - Bhavana 靜坐
-  - Medicine 醫學
-  - Sensibility / Observation 感受 / 覺察
   - Somatics 身心練習
-  - Unlearn 重新學習
   - Yoga 瑜伽
 ---
 

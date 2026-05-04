@@ -4,11 +4,8 @@ date: 2025-04-24
 site: kt-lab
 url: /2025/04/homing-your-engergy/
 categories:
-  - Bhavana 靜坐
-  - Practice Notes 練習日記
-  - Sensibility / Observation 感受 / 覺察
   - Somatics 身心練習
-  - Yoga 瑜伽
+  - Practice Notes 練習日記
 tags:
   - "站椿"
   - "養生"

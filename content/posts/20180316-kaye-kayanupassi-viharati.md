@@ -5,7 +5,6 @@ site: kt-lab
 url: /2018/03/kaye-kayanupassi-viharati/
 categories:
   - Bhavana 靜坐
-  - Terminology 說文解字
   - Yoga 瑜伽
 ---
 

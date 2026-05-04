@@ -4,7 +4,6 @@ date: 2017-09-08
 site: kt-lab
 url: /2017/09/stuckness/
 categories:
-  - Bhavana 靜坐
   - Somatics 身心練習
   - Yoga 瑜伽
 ---

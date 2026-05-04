@@ -5,8 +5,6 @@ site: kt-lab
 url: /2019/06/have-a-good-rest/
 categories:
   - Bhavana 靜坐
-  - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
   - Somatics 身心練習
 ---
 

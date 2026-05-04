@@ -5,10 +5,7 @@ site: kt-lab
 url: /2022/01/noise-but-not-noisy/
 categories:
   - Bhavana 靜坐
-  - Practice Notes 練習日記
   - Sensibility / Observation 感受 / 覺察
-  - Somatics 身心練習
-  - What We Talk About When We Talk About Practice 當我們討論練習
   - Yoga 瑜伽
 ---
 

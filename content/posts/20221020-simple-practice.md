@@ -4,9 +4,7 @@ date: 2022-10-20
 site: kt-lab
 url: /2022/10/simple-practice/
 categories:
-  - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Movement 動作
-  - Sensibility / Observation 感受 / 覺察
+  - Practice Notes 練習日記
   - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 

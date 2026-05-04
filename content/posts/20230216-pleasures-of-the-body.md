@@ -4,15 +4,8 @@ date: 2023-02-16
 site: kt-lab
 url: /2023/02/pleasures-of-the-body/
 categories:
-  - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Bhavana 靜坐
-  - Movement 動作
-  - Practice Notes 練習日記
-  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
-  - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
   - Somatics 身心練習
-  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Practice Notes 練習日記
 tags:
   - "plesaure"
   - "愉悅"

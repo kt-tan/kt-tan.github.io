@@ -4,10 +4,7 @@ date: 2019-08-09
 site: kt-lab
 url: /2019/08/why-practice-fundamental-movement/
 categories:
-  - Movement 動作
   - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - Somatics 身心練習
   - Yoga 瑜伽
 ---
 

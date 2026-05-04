@@ -5,10 +5,6 @@ site: kt-lab
 url: /2019/09/getting-aged/
 categories:
   - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - Somatics 身心練習
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
 tags:
   - "老化"
 ---

@@ -4,9 +4,10 @@ date: 2021-12-17
 site: kt-lab
 url: /2021/12/new-studio/
 categories:
-  - Classroom 教室
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
+  - School 教學特色
+tags:
+  - 四個不同意台灣更有力
+
 ---
 
 ![](/images/IMG_2099.jpg)
@@ -29,7 +30,7 @@ categories:
 
 大家都知道，還有好多好多問題還沒解決。讓我們好好站穩腳步、下定決心，一項一項來面對。希望大家一起來愛護我們的台灣，千萬別幫著外人來扯後腿。
 
-#四個不同意台灣更有力
+四個不同意台灣更有力
 
 明天記得去投票。每天都要記得伸展、活動筋骨、好好呼吸、好好吃飯、好好休息。
 

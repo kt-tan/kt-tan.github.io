@@ -4,12 +4,8 @@ date: 2025-09-11
 site: kt-lab
 url: /2025/09/bulding-physical-endurance/
 categories:
-  - Classroom 教室
   - Practice Notes 練習日記
   - School 教學特色
-  - Somatics 身心練習
-  - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
   - Yoga 瑜伽
 ---
 

@@ -4,9 +4,7 @@ date: 2018-12-20
 site: kt-lab
 url: /2018/12/go-practice-now/
 categories:
-  - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Practice Notes 練習日記
-  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Yoga 瑜伽
 tags:
   - "rest"
   - "休息"

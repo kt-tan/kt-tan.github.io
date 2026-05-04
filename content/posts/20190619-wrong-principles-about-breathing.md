@@ -4,10 +4,7 @@ date: 2019-06-19
 site: kt-lab
 url: /2019/06/wrong-principles-about-breathing/
 categories:
-  - Bhavana 靜坐
-  - Movement 動作
   - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
-  - Somatics 身心練習
   - Unlearn 重新學習
 ---
 

@@ -4,11 +4,7 @@ date: 2022-12-29
 site: kt-lab
 url: /2022/12/challenging/
 categories:
-  - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Practice Notes 練習日記
   - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - Unlearn 重新學習
   - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 

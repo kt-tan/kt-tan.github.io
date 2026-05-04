@@ -4,13 +4,8 @@ date: 2025-05-02
 site: kt-lab
 url: /2025/05/okoranaikoto/
 categories:
-  - Bhavana 靜坐
-  - Practice Notes 練習日記
-  - Sensibility / Observation 感受 / 覺察
-  - Somatics 身心練習
   - Buddhism 佛教>Theravada 上座部佛教
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
+  - Practice Notes 練習日記
 tags:
   - "瑜伽老師讀什麼書"
 ---

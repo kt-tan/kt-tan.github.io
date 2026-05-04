@@ -4,10 +4,7 @@ date: 2022-06-09
 site: kt-lab
 url: /2022/06/usual-warm-up/
 categories:
-  - Classroom 教室
-  - Movement 動作
   - School 教學特色
-  - What We Talk About When We Talk About Practice 當我們討論練習
   - Yoga 瑜伽
 ---
 

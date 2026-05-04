@@ -5,8 +5,6 @@ site: kt-lab
 url: /2024/03/silvery-sound/
 categories:
   - Bhavana 靜坐
-  - Buddhism 佛教
-  - Practice Notes 練習日記
   - Sensibility / Observation 感受 / 覺察
   - Yoga 瑜伽
 ---

@@ -4,8 +4,6 @@ date: 2016-03-21
 site: kt-lab
 url: /2016/03/dangerous-signals/
 categories:
-  - Bhavana 靜坐
-  - Buddhism 佛教
   - Somatics 身心練習
 tags:
   - "Bhikkhu Thanissaro"

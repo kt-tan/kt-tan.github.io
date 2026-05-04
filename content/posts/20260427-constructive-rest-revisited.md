@@ -8,6 +8,7 @@ categories:
   - Somatics 身心練習>Alexander Technique 亞歷山大技巧
 tags:
   - 休息
+  - Constructive-Rest
 ---
 
 ![](/images/constructive-rest-revisited.jpg)

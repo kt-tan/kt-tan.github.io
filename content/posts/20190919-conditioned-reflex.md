@@ -4,9 +4,6 @@ date: 2019-09-19
 site: kt-lab
 url: /2019/09/conditioned-reflex/
 categories:
-  - Bhavana 靜坐
-  - Movement 動作
-  - Sensibility / Observation 感受 / 覺察
   - Somatics 身心練習
   - Unlearn 重新學習
   - Yoga 瑜伽

@@ -4,11 +4,7 @@ date: 2025-12-19
 site: kt-lab
 url: /2025/12/run-for-happiness/
 categories:
-  - Bhavana 靜坐
-  - Movement 動作
-  - Sensibility / Observation 感受 / 覺察
-  - Somatics 身心練習
-  - Unlearn 重新學習
+  - Practice Notes 練習日記
   - Yoga 瑜伽
 ---
 

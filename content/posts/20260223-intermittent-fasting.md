@@ -5,12 +5,9 @@ site: kt-lab
 url: /2026/02/intermittent-fasting/
 categories:
   - Bhavana 靜坐
-  - Practice Notes 練習日記
-  - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
+tags:
+  - 瑜伽老師讀什麼書
+
 ---
 
 ![](/images/IMG_7975.jpg)
@@ -44,5 +41,3 @@ categories:
 在靜坐過程，發現哪些檔案夾裡還堆積多少待辦事項，就安排時間一一排序處理。有些事情的「處理」得花不少時間，也有很多看似麻煩的問題，只需要一瞬間的轉念。但要能夠這樣一瞬間的的「轉念」，之前或許還需要一再反覆掙扎、釋放、掙扎、再釋放，最後才會明白，「轉念」真的只是一瞬間。
 
 到達那決定性的一瞬間，多半得走上一段辛苦的路。但只要上路，慢慢一步一步走，別搞錯方向，總是會走得到的。
-
-#瑜伽老師讀什麼書

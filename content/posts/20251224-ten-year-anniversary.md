@@ -4,10 +4,7 @@ date: 2025-12-24
 site: kt-lab
 url: /2025/12/ten-year-anniversary/
 categories:
-  - Classroom 教室
   - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - What We Talk About When We Talk About Practice 當我們討論練習
   - Yoga 瑜伽
 ---
 

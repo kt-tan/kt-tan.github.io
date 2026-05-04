@@ -4,9 +4,8 @@ date: 2023-05-19
 site: kt-lab
 url: /2023/05/beyond-trig-points/
 categories:
-  - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Movement 動作
   - Practice Notes 練習日記
+  - Sensibility / Observation 感受 / 覺察
   - Sensibility / Observation 感受 / 覺察
 ---
 

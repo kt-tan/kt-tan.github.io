@@ -4,11 +4,7 @@ date: 2023-05-31
 site: kt-lab
 url: /2023/05/who-told-you-that/
 categories:
-  - Bhavana 靜坐
-  - Buddhism 佛教
-  - School 教學特色
   - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
   - Yoga 瑜伽
 ---
 

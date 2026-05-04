@@ -4,8 +4,6 @@ date: 2018-05-02
 site: kt-lab
 url: /2018/05/remember-to-do/
 categories:
-  - Bhavana 靜坐
-  - Terminology 說文解字
   - Buddhism 佛教>Theravada 上座部佛教
   - Yoga 瑜伽
 ---

@@ -5,13 +5,6 @@ site: kt-lab
 url: /2026/03/most-important-practice/
 categories:
   - Bhavana 靜坐
-  - Buddhism 佛教
-  - Practice Notes 練習日記
-  - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
 tags:
   - "靜坐"
 ---

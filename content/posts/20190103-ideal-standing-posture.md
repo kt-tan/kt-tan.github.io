@@ -5,10 +5,6 @@ site: kt-lab
 url: /2019/01/ideal-standing-posture/
 categories:
   - Somatics 身心練習>Feldenkrais Method 費登奎斯方法
-  - Movement 動作
-  - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - Yoga 瑜伽
 tags:
   - "站姿"
   - "站椿"

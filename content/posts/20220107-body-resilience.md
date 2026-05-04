@@ -4,8 +4,6 @@ date: 2022-01-07
 site: kt-lab
 url: /2022/01/body-resilience/
 categories:
-  - Classroom 教室
-  - Practice Notes 練習日記
   - School 教學特色
   - Yoga 瑜伽
 ---

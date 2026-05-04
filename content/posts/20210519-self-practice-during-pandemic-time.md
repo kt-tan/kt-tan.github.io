@@ -4,9 +4,7 @@ date: 2021-05-19
 site: kt-lab
 url: /2021/05/self-practice-during-pandemic-time/
 categories:
-  - Bhavana 靜坐
   - Practice Notes 練習日記
-  - What We Talk About When We Talk About Practice 當我們討論練習
   - Yoga 瑜伽
 ---
 

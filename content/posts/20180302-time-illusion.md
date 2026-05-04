@@ -5,7 +5,6 @@ site: kt-lab
 url: /2018/03/time-illusion/
 categories:
   - Bhavana 靜坐
-  - Unlearn 重新學習
   - Yoga 瑜伽
 ---
 

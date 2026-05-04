@@ -4,11 +4,8 @@ date: 2022-10-12
 site: kt-lab
 url: /2022/10/sabbe-satta/
 categories:
-  - Bhavana 靜坐
-  - Sensibility / Observation 感受 / 覺察
-  - Buddhism 佛教>Theravada 上座部佛教
   - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Buddhism 佛教>Theravada 上座部佛教
   - Yoga 瑜伽
 ---
 

@@ -4,8 +4,8 @@ date: 2022-11-17
 site: kt-lab
 url: /2022/11/letgo-transformation/
 categories:
-  - Bhavana 靜坐
   - Practice Notes 練習日記
+  - Unlearn 重新學習
   - Unlearn 重新學習
 ---
 

@@ -4,8 +4,6 @@ date: 2024-04-18
 site: kt-lab
 url: /2024/04/be-care-what-you-believe-in/
 categories:
-  - Practice Notes 練習日記
-  - Sensibility / Observation 感受 / 覺察
   - Unlearn 重新學習
   - Yoga 瑜伽
 ---

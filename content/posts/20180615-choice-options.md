@@ -5,9 +5,6 @@ site: kt-lab
 url: /2018/06/choice-options/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Bhavana 靜坐
-  - Somatics 身心練習>Feldenkrais Method 費登奎斯方法
-  - What We Talk About When We Talk About Practice 當我們討論練習
 tags:
   - "選擇"
 ---

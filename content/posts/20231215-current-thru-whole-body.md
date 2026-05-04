@@ -5,9 +5,7 @@ site: kt-lab
 url: /2023/12/current-thru-whole-body/
 categories:
   - Somatics 身心練習>Alexander Technique 亞歷山大技巧
-  - Movement 動作
   - Practice Notes 練習日記
-  - Sensibility / Observation 感受 / 覺察
   - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 

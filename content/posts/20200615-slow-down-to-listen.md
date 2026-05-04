@@ -4,9 +4,7 @@ date: 2020-06-15
 site: kt-lab
 url: /2020/06/slow-down-to-listen/
 categories:
-  - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Bhavana 靜坐
-  - School 教學特色
+  - Sensibility / Observation 感受 / 覺察
   - Sensibility / Observation 感受 / 覺察
 ---
 

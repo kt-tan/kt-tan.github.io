@@ -4,10 +4,7 @@ date: 2018-04-27
 site: kt-lab
 url: /2018/04/darsana-vijnana/
 categories:
-  - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Bhavana 靜坐
-  - Movement 動作
-  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
+  - What We Talk About When We Talk About Practice 當我們討論練習
   - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 

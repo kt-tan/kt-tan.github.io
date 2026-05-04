@@ -5,11 +5,6 @@ site: kt-lab
 url: /2022/11/independent/
 categories:
   - Bhavana 靜坐
-  - Movement 動作
-  - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
 tags:
   - "unlearn"
 ---

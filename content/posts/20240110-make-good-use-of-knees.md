@@ -6,8 +6,6 @@ url: /2024/01/make-good-use-of-knees/
 categories:
   - School 教學特色
   - Sensibility / Observation 感受 / 覺察
-  - Unlearn 重新學習
-  - Yoga 瑜伽
 tags:
   - "姿勢"
   - "覺察"

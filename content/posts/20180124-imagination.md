@@ -4,8 +4,6 @@ date: 2018-01-24
 site: kt-lab
 url: /2018/01/imagination/
 categories:
-  - Bhavana 靜坐
-  - Sensibility / Observation 感受 / 覺察
   - Somatics 身心練習
   - Yoga 瑜伽
 ---

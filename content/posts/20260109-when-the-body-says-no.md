@@ -4,16 +4,9 @@ date: 2026-01-09
 site: kt-lab
 url: /2026/01/when-the-body-says-no/
 categories:
-  - Bhavana 靜坐
-  - Buddhism 佛教
-  - Classroom 教室
-  - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
   - Somatics 身心練習
-  - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
 tags:
+  - 瑜伽老師讀什麼書
   - "瑜伽老師讀什麼書"
 ---
 
@@ -58,5 +51,3 @@ tags:
 基因是一回事、家庭成長環境與幼年童年的經歷是一回事、現今的認識與當下採取的行動，又是另一回事。一步一步拆解掉過往預設的習性，才有能力在身體說不的時候，及時回應。
 
 《當身體說不的時候》 When The Body Says No 作者：Gabor Maté 譯者：李佳緣、林怡婷 遠流出版，2019
-
-#瑜伽老師讀什麼書

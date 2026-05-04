@@ -5,7 +5,6 @@ site: kt-lab
 url: /2012/06/waiting-for-godot/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
-  - What We Talk About When We Talk About Practice 當我們討論練習
 tags:
   - "mula-bandha"
   - "開髖"

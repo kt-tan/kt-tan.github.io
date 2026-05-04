@@ -5,11 +5,6 @@ site: kt-lab
 url: /2024/12/core-training/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Movement 動作
-  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
-  - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - Unlearn 重新學習
   - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 

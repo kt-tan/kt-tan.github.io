@@ -4,10 +4,8 @@ date: 2025-08-06
 site: kt-lab
 url: /2025/08/civil-defense/
 categories:
-  - Movement 動作
   - School 教學特色
   - Somatics 身心練習
-  - Unlearn 重新學習
   - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 

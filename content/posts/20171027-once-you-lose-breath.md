@@ -5,7 +5,6 @@ site: kt-lab
 url: /2017/10/once-you-lose-breath/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Bhavana 靜坐
   - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
 tags:
   - "breath"

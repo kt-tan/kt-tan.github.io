@@ -4,12 +4,8 @@ date: 2024-01-02
 site: kt-lab
 url: /2024/01/trailhead/
 categories:
-  - Bhavana 靜坐
   - Practice Notes 練習日記
   - Sensibility / Observation 感受 / 覺察
-  - Somatics 身心練習
-  - Unlearn 重新學習
-  - Yoga 瑜伽
 tags:
   - "習慣"
 ---

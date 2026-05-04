@@ -4,10 +4,7 @@ date: 2023-05-26
 site: kt-lab
 url: /2023/05/ghost-stories/
 categories:
-  - Bhavana 靜坐
-  - Buddhism 佛教
-  - School 教學特色
-  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Buddhism 佛教>Theravada 上座部佛教
   - Yoga 瑜伽
 ---
 

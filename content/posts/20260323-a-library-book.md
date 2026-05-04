@@ -4,13 +4,8 @@ date: 2026-03-23
 site: kt-lab
 url: /2026/03/a-library-book/
 categories:
-  - Bhavana 靜坐
-  - Buddhism 佛教
   - Practice Notes 練習日記
-  - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
+  - Bhavana 靜坐
   - Yoga 瑜伽
 ---
 

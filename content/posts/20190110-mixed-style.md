@@ -4,10 +4,6 @@ date: 2019-01-10
 site: kt-lab
 url: /2019/01/mixed-style/
 categories:
-  - Movement 動作
-  - School 教學特色
-  - Somatics 身心練習
-  - What We Talk About When We Talk About Practice 當我們討論練習
   - Yoga 瑜伽
 tags:
   - "混種"

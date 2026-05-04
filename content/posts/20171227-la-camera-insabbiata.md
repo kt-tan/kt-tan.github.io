@@ -4,11 +4,7 @@ date: 2017-12-27
 site: kt-lab
 url: /2017/12/la-camera-insabbiata/
 categories:
-  - Bhavana 靜坐
-  - Movement 動作
-  - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
-  - Somatics 身心練習
-  - Unlearn 重新學習
+  - Practice Notes 練習日記
 tags:
   - "yoganidra"
 ---

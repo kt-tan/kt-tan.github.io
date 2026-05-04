@@ -4,7 +4,6 @@ date: 2021-05-29
 site: kt-lab
 url: /2021/05/those-nonvirtual-experience/
 categories:
-  - Practice Notes 練習日記
   - Sensibility / Observation 感受 / 覺察
   - What We Talk About When We Talk About Practice 當我們討論練習
 ---

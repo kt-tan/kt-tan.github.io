@@ -4,9 +4,8 @@ date: 2015-10-20
 site: kt-lab
 url: /2015/10/keep-questioning/
 categories:
-  - Somatics 身心練習>Alexander Technique 亞歷山大技巧
-  - Bhavana 靜坐
   - Unlearn 重新學習
+  - Somatics 身心練習>Alexander Technique 亞歷山大技巧
 tags:
   - "awareness"
   - "習慣"

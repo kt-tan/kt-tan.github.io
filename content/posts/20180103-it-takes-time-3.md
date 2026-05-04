@@ -4,7 +4,6 @@ date: 2018-01-03
 site: kt-lab
 url: /2018/01/it-takes-time-3/
 categories:
-  - Yoga 瑜伽>Asana 瑜伽動作練習
   - Bhavana 靜坐
   - Somatics 身心練習
 ---

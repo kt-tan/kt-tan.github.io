@@ -4,13 +4,7 @@ date: 2025-12-12
 site: kt-lab
 url: /2025/12/300-squats-per-day/
 categories:
-  - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Bhavana 靜坐
-  - Movement 動作
   - Practice Notes 練習日記
-  - Sensibility / Observation 感受 / 覺察
-  - Somatics 身心練習
-  - Unlearn 重新學習
   - What We Talk About When We Talk About Practice 當我們討論練習
 ---
 

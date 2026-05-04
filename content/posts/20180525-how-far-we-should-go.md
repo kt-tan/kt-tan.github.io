@@ -5,7 +5,6 @@ site: kt-lab
 url: /2018/05/how-far-we-should-go/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
-  - What We Talk About When We Talk About Practice 當我們討論練習
 tags:
   - "injury"
   - "受傷"

@@ -3,12 +3,9 @@ title: 不夠
 date: 2026-03-30
 url: /2026/03/built-to-move/
 categories:
-  - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
   - Unlearn 重新學習
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
 tags:
+  - 瑜伽老師讀什麼書
   - 瑜伽老師讀什麼書
 ---
 
@@ -40,7 +37,7 @@ tags:
 
 如何把靜坐時練習的心境、思維方式應用到一天二十四小時的生活，才是真正的靜坐練習。
 
-#瑜伽老師讀什麼書 
+瑜伽老師讀什麼書 
 
 《身體要你動：十項自我檢測和提升訓練，找回你該有的靈活與健康》，作者Kelly Starrett, Juliet Starrett，譯者：鄭勝得，大家出版, 2024
  Built to Move: The Ten Essential Habits to Help You Move Freely and Live Fully

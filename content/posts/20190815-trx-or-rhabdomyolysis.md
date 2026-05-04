@@ -5,8 +5,6 @@ site: kt-lab
 url: /2019/08/trx-or-rhabdomyolysis/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Movement 動作
-  - Sensibility / Observation 感受 / 覺察
   - Somatics 身心練習
 ---
 

@@ -4,8 +4,7 @@ date: 2019-12-13
 site: kt-lab
 url: /2019/12/best-gift-for-yourself/
 categories:
-  - What We Talk About When We Talk About Practice 當我們討論練習
-  - Yoga 瑜伽
+  - School 教學特色
 tags:
   - "基礎代謝率"
   - "老化"

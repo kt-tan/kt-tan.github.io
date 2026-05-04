@@ -4,12 +4,7 @@ date: 2022-12-07
 site: kt-lab
 url: /2022/12/uebersetzer/
 categories:
-  - Bhavana 靜坐
-  - Classroom 教室
-  - Movement 動作
   - School 教學特色
-  - Sensibility / Observation 感受 / 覺察
-  - What We Talk About When We Talk About Practice 當我們討論練習
   - Yoga 瑜伽
 ---
 
