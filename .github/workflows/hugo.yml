@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '0 23 * * 0'  # 每週一台灣時間 07:00（UTC 週日 23:00）
+    - cron: '0 1 * * 1'  # 每週一台灣時間 09:00（UTC 週一 01:00）
 
 jobs:
   deploy:
