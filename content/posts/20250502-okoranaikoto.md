@@ -7,8 +7,9 @@ categories:
   - Buddhism 佛教>Theravada 上座部佛教
   - Practice Notes 練習日記
 tags:
-  - "瑜伽老師讀什麼書"
+
 ---
+
 
 ![](/images/seaside.png)
 

@@ -6,10 +6,12 @@ url: /2016/01/svatrantra/
 categories:
   - Somatics 身心練習
 tags:
-  - "svatantra"
-  - "T. K. V. Desikachar"
-  - "技巧"
+  - svatantra
+  - T. K. V. Desikachar
+  - 技巧
+
 ---
+
 
 [![svatantra](/images/svatantra.jpg)](/images/svatantra.jpg)
 

@@ -8,10 +8,10 @@ categories:
   - Somatics 身心練習
 tags:
   - 戰爭
-  - 天佑台灣
-  - 大罷免大成功
-  - "罷免"
+  - 罷免
+
 ---
+
 
 ![](/images/inventory.jpg)
 

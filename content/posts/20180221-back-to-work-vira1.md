@@ -6,9 +6,11 @@ url: /2018/02/back-to-work-vira1/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
-  - "Virabhadrasana"
-  - "戰士一"
+  - Virabhadrasana
+  - 戰士一
+
 ---
+
 
 難得有連續假期，大吃大喝，到處趴趴走，放假的日期總要結束，要回歸正常的作息囉。
 

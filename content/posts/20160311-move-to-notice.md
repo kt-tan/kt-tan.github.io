@@ -6,9 +6,11 @@ url: /2016/03/move-to-notice/
 categories:
   - Yoga 瑜伽
 tags:
-  - "awareness"
-  - "viveka"
+  - awareness
+  - viveka
+
 ---
+
 
 很多時候，除了病痛時，我們不會意識到自己的身體；除了煩惱時，我們不會意識到自己的心神。
 

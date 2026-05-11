@@ -6,9 +6,11 @@ url: /2012/06/waiting-for-godot/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
-  - "mula-bandha"
-  - "開髖"
+  - mula-bandha
+  - 開髖
+
 ---
+
 
 一次又一次，我反覆練習著那些動作，那些看起來，再練個一年兩年十年二十年一輩子也未必能練成的體位法。
 

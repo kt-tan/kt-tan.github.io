@@ -7,10 +7,12 @@ categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
   - Unlearn 重新學習
 tags:
-  - "alignment"
-  - "正位"
-  - "順位"
+  - alignment
+  - 正位
+  - 順位
+
 ---
+
 
 Leslie Kaminoff 老師最近發了篇[新文章](https://www.yogaanatomy.org/reimagining-alignment/)，講「後 Iyengar 時代」對於瑜珈動作練習（asana）的「順位」（alignment）可以有、應該有的新反省。
 

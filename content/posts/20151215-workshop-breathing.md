@@ -6,10 +6,12 @@ url: /2015/12/workshop-breathing/
 categories:
   - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
 tags:
-  - "prana"
-  - "pranamaya kosha"
-  - "呼吸"
+  - prana
+  - pranamaya kosha
+  - 呼吸
+
 ---
+
 
 [![workshop-breath](/images/workshop-breath.jpg)](/images/workshop-breath.jpg)
 

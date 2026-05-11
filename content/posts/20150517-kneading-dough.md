@@ -6,9 +6,11 @@ url: /2015/05/kneading-dough/
 categories:
   - Somatics 身心練習
 tags:
-  - "tactile sensation"
-  - "墊子外的瑜珈練習"
+  - tactile sensation
+  - 墊子外的瑜珈練習
+
 ---
+
 
 又是做饅頭的日子。
 

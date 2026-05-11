@@ -7,10 +7,12 @@ categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
   - Buddhism 佛教>Theravada 上座部佛教
 tags:
-  - "dukkha"
-  - "jainism"
-  - "padmasana"
+  - dukkha
+  - jainism
+  - padmasana
+
 ---
+
 
 剛開始我也以為，靜坐就是應該要雙盤，直接坐在地板上，一次一柱香，安安穩穩，思緒不再波動，然後進入某種奇妙的境界。
 

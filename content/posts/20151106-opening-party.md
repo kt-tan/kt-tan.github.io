@@ -6,8 +6,10 @@ url: /2015/11/opening-party/
 categories:
   - Somatics 身心練習
 tags:
-  - "nāda yoga"
+  - nāda yoga
+
 ---
+
 
 這個星期六（2015.11.07）下午，三點到五點。
 

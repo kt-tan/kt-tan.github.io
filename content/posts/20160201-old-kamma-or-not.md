@@ -6,11 +6,13 @@ url: /2016/02/old-kamma-or-not/
 categories:
   - Somatics 身心練習
 tags:
-  - "Bhikkhu Bodhi"
-  - "kamma"
-  - "karma"
-  - "業"
+  - Bhikkhu Bodhi
+  - kamma
+  - karma
+  - 業
+
 ---
+
 
 遭逢不幸，親友生重病，很多人會說，「唉，隨緣消舊業啦」，而且把這概念算到佛教頭上。
 

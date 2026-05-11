@@ -6,10 +6,12 @@ url: /2016/02/nobody-can-control-the-prana/
 categories:
   - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
 tags:
-  - "prana"
-  - "pranamaya kosha"
-  - "T. K. V. Desikachar"
+  - prana
+  - pranamaya kosha
+  - T. K. V. Desikachar
+
 ---
+
 
 一早下了陣雨，雨停了之後我上樓去掃掃積水。陽光在雲層後面慢慢探出臉來。我簡單伸展一下身體，忽然聽到幾隻樹鵲機關槍也似的叫聲。
 

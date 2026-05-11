@@ -7,10 +7,12 @@ categories:
   - Bhavana 靜坐
   - Buddhism 佛教
 tags:
-  - "戰爭"
-  - "罷免"
-  - "連署"
+  - 戰爭
+  - 罷免
+  - 連署
+
 ---
+
 
 ![](/images/連署避戰.jpg)
 

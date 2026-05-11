@@ -6,8 +6,10 @@ url: /2026/03/most-important-practice/
 categories:
   - Bhavana 靜坐
 tags:
-  - "靜坐"
+  - 靜坐
+
 ---
+
 
 ![](/images/most-important.jpg)
 

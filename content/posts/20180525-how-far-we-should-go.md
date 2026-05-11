@@ -6,9 +6,11 @@ url: /2018/05/how-far-we-should-go/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
-  - "injury"
-  - "受傷"
+  - injury
+  - 受傷
+
 ---
+
 
 TKV Desikachar 曾經感嘆地說過，「我不知道肌肉到底要鍛練到什麼程度才夠」。
 

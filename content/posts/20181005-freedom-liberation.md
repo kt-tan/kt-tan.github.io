@@ -6,10 +6,12 @@ url: /2018/10/freedom-liberation/
 categories:
   - Yoga 瑜伽
 tags:
-  - "dance"
-  - "療癒"
-  - "舞"
+  - dance
+  - 療癒
+  - 舞
+
 ---
+
 
 把事情、情緒、情感表達出來，是一種 freedom，也是一種 liberation，自由，以及解放。
 

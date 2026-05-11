@@ -6,8 +6,10 @@ url: /2012/06/upper-palate/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
-  - "palate"
+  - palate
+
 ---
+
 
 在課堂上經常可以看到同學們認真練習。非常認真，認真到忘了自己在做什麼。
 

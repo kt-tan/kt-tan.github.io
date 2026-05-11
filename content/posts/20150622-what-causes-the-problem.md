@@ -7,10 +7,12 @@ categories:
   - Somatics 身心練習>Alexander Technique 亞歷山大技巧
   - Buddhism 佛教
 tags:
-  - "dukkha"
-  - "問問題"
-  - "四聖諦"
+  - dukkha
+  - 問問題
+  - 四聖諦
+
 ---
+
 
 > When you encounter a problem, most people think, “What should I do to fix it?” **The real question is, “What am I doing to cause the problem?”** Thinking about it this way allows you to discover the source of the problem, and that way you can eliminate the cause.
 > 

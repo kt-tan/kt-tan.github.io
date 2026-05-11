@@ -6,8 +6,10 @@ url: /2016/08/do-you-know/
 categories:
   - Somatics 身心練習>Feldenkrais Method 費登奎斯方法
 tags:
-  - "Moshé Feldenkrais"
+  - Moshé Feldenkrais
+
 ---
+
 
 世界上有不少人一輩子追求「正確」的事，老師講的「正確」的知識，電視廣告裡宣傳的「正確」的商品，投票前要挑「正確」的人選。一天到晚都是別人嘴吧裡的「正確」。
 

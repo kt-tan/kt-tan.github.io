@@ -7,8 +7,10 @@ categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
   - Somatics 身心練習
 tags:
-  - "asana-hack"
+  - asana-hack
+
 ---
+
 
 如何讓第一次上瑜珈課的同學就感受到手倒立的滋味，答案是：[翻轉到不同的平面吧](https://kt-lab.tw/different-planes/)！
 

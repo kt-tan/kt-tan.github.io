@@ -6,8 +6,10 @@ url: /2016/03/inside-outside-2/
 categories:
   - Yoga 瑜伽
 tags:
-  - "panchkosha"
+  - panchkosha
+
 ---
+
 
 我們一直以為一定有裡面，也有外面；而且，裡面就是裡面，外面就是外面。很多時候這樣想，這樣看，也沒錯。
 

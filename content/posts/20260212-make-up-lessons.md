@@ -6,11 +6,13 @@ url: /2026/02/make-up-lessons/
 categories:
   - Practice Notes 練習日記
 tags:
-  - "二二八"
-  - "林宅血案"
-  - "白色恐怖"
-  - "轉型正義"
+  - 二二八
+  - 林宅血案
+  - 白色恐怖
+  - 轉型正義
+
 ---
+
 
 ![](/images/taiwanese-history-books.jpg)
 

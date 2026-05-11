@@ -7,9 +7,11 @@ categories:
   - Somatics 身心練習
   - Yoga 瑜伽
 tags:
-  - "awareness"
-  - "覺知"
+  - awareness
+  - 覺知
+
 ---
+
 
 ![](/images/cleaning.jpg)
 

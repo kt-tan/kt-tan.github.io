@@ -7,9 +7,11 @@ categories:
   - Somatics 身心練習
   - Practice Notes 練習日記
 tags:
-  - "站椿"
-  - "養生"
+  - 站椿
+  - 養生
+
 ---
+
 
 ![](/images/summer.jpg)
 

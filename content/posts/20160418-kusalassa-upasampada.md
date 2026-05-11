@@ -7,14 +7,16 @@ categories:
   - Somatics 身心練習>Alexander Technique 亞歷山大技巧
   - Buddhism 佛教
 tags:
-  - "Direction"
-  - "F. M. Alexander"
-  - "Inhibition"
-  - "kusala"
-  - "skillful"
-  - "善巧"
-  - "法句經"
+  - Direction
+  - F. M. Alexander
+  - Inhibition
+  - kusala
+  - skillful
+  - 善巧
+  - 法句經
+
 ---
+
 
 你一定也聽過「諸惡莫作，眾善奉行，是諸佛教」這句名言。
 

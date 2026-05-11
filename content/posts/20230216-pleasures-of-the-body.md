@@ -7,9 +7,11 @@ categories:
   - Somatics 身心練習
   - Practice Notes 練習日記
 tags:
-  - "plesaure"
-  - "愉悅"
+  - plesaure
+  - 愉悅
+
 ---
+
 
 你有多久沒有在練動作的過程感覺到身體的愉悅了呢？
 

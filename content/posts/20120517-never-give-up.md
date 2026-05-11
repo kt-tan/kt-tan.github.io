@@ -6,9 +6,11 @@ url: /2012/05/never-give-up/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
-  - "injury"
-  - "news"
+  - injury
+  - news
+
 ---
+
 
 過去兩個星期，這段影片在網路上頗紅，很多人轉貼，很多人除了感動，還是感動。
 

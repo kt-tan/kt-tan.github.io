@@ -6,11 +6,13 @@ url: /2016/12/longest-inversion/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
-  - "handstand"
-  - "sirsasana"
-  - "手倒立"
-  - "頭倒立"
+  - handstand
+  - sirsasana
+  - 手倒立
+  - 頭倒立
+
 ---
+
 
 曾經很好奇，到底手倒立可以停留多久？上網查了到一些資料。
 

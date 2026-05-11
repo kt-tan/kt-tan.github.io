@@ -6,8 +6,10 @@ url: /2020/01/election-choice/
 categories:
   - Unlearn 重新學習
 tags:
-  - "viveka"
+  - viveka
+
 ---
+
 
 ![](/images/election-choice.jpg)
 

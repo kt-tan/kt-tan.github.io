@@ -7,8 +7,10 @@ categories:
   - Bhavana 靜坐
   - Sensibility / Observation 感受 / 覺察
 tags:
-  - "Krishnamurti"
+  - Krishnamurti
+
 ---
+
 
 ![](/images/cat-on-the-wall.jpg)
 

@@ -7,9 +7,11 @@ categories:
   - Bhavana 靜坐
   - Somatics 身心練習>Feldenkrais Method 費登奎斯方法
 tags:
-  - "awareness"
-  - "呼吸"
+  - awareness
+  - 呼吸
+
 ---
+
 
 [![mushishi](/images/mushishi.jpg)](/images/mushishi.jpg)
 

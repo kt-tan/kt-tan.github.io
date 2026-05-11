@@ -6,11 +6,13 @@ url: /2016/05/why-muscles-contract/
 categories:
   - Somatics 身心練習
 tags:
-  - "annamaya kosha"
-  - "Moshé Feldenkrais"
-  - "肌肉"
-  - "肌肉收縮"
+  - annamaya kosha
+  - Moshé Feldenkrais
+  - 肌肉
+  - 肌肉收縮
+
 ---
+
 
 ![](http://www.gadoo.com.br/wp-content/uploads/2016/04/1176.jpg)  
 [photo source](http://www.gadoo.com.br/entretenimento/5-curiosidades-sobre-os-bastidores-de-filmes-voltados-ao-publico-adulto/)

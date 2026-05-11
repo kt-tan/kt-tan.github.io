@@ -6,9 +6,11 @@ url: /2017/11/which-direction/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
-  - "downdog"
-  - "Virabhadrasana"
+  - downdog
+  - Virabhadrasana
+
 ---
+
 
 每一趟旅程出發之前，不見得需要規劃清楚所有的細節，但總是得先想清楚要去的方向。方向搞錯，時間和力氣就浪費在冤枉路上。
 

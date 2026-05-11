@@ -6,9 +6,11 @@ url: /2015/08/before-union/
 categories:
   - Yoga 瑜伽
 tags:
-  - "Leslie Kaminoff"
-  - "urdhva hastasana"
+  - Leslie Kaminoff
+  - urdhva hastasana
+
 ---
+
 
 「除非能分辨出不同的事物，否則就沒辦法讓他們融合為一體。這對很多人來說可都不容易。很多人根本連自己的肩胛骨和上背的體感都分不清。」– Leslie Kaminoff
 

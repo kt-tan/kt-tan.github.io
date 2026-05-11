@@ -6,12 +6,14 @@ url: /2016/01/pranayama/
 categories:
   - Yoga 瑜伽>Pranayama 瑜伽呼吸練習
 tags:
-  - "pranamaya kosha"
-  - "Sri Tirumalai Krishnamacharya"
-  - "Yoga Yajanavalkya"
-  - "呼吸"
-  - "摩訶婆羅達"
+  - pranamaya kosha
+  - Sri Tirumalai Krishnamacharya
+  - Yoga Yajanavalkya
+  - 呼吸
+  - 摩訶婆羅達
+
 ---
+
 
 > Prana-apana samayogah pranayama itiritah. (Yoga Yajnavalkya VI.2) Balancing prana and apana is said to be pranayama. (translated by A.G.Mohan)
 

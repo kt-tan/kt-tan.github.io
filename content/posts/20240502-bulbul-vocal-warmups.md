@@ -6,9 +6,10 @@ url: /2024/05/bulbul-vocal-warmups/
 categories:
   - Sensibility / Observation 感受 / 覺察
 tags:
-  - "listening"
-  - "傾聽"
+  - 傾聽
+
 ---
+
 
 通常最早叫的是一隻白頭翁。我還躺在床上。我知道那是一隻白頭翁在練習發聲，怯生生的，小小聲的。
 

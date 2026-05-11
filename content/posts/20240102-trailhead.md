@@ -7,8 +7,10 @@ categories:
   - Practice Notes 練習日記
   - Sensibility / Observation 感受 / 覺察
 tags:
-  - "習慣"
+  - 習慣
+
 ---
+
 
 ![](/images/walking-into.jpg)
 

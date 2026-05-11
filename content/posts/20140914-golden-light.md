@@ -7,8 +7,10 @@ categories:
   - Bhavana 靜坐
   - Buddhism 佛教>Theravada 上座部佛教
 tags:
-  - "神蹟"
+  - 神蹟
+
 ---
+
 
 靜坐課下課之後，教室的阿姨和我打招呼，「不錯哦，教靜坐。」我點點頭回禮。
 

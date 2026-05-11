@@ -6,9 +6,11 @@ url: /2015/09/sensory-perception/
 categories:
   - Somatics 身心練習
 tags:
-  - "awareness"
-  - "習慣"
+  - awareness
+  - 習慣
+
 ---
+
 
 「表面上看，彷彿緊繃是問題，而瑜珈是解答」，事實上呢？如果你只是帶著舊有的習慣站上墊子，下課之後，說不定你會帶著更多的緊繃離開。[Cecile Raynor 老師說得很好](http://offthematyogablog.com/2015/07/07/yoga-body-daily-body-sensory-perception/)，「很抱歉，再昂貴的器具也沒有辦法幫你重拾你所需要的精確的體感。」
 

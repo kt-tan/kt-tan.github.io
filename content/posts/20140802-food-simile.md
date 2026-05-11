@@ -6,9 +6,11 @@ url: /2014/08/food-simile/
 categories:
   - What We Talk About When We Talk About Practice 當我們討論練習
 tags:
-  - "食物"
-  - "飲食"
+  - 食物
+  - 飲食
+
 ---
+
 
 沒有人說吃飯不重要。
 

@@ -6,11 +6,13 @@ url: /2016/04/upper-crossed-syndrome-part-2/
 categories:
   - Somatics 身心練習
 tags:
-  - "annamaya kosha"
-  - "awareness"
-  - "cetanā"
-  - "pranamaya kosha"
+  - annamaya kosha
+  - awareness
+  - cetanā
+  - pranamaya kosha
+
 ---
+
 
 ![](http://images.fastcompany.com/upload/inline-Becoming-Part-Of-The-Intention-Economy.jpg)
 

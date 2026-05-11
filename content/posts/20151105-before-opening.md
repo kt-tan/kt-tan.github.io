@@ -6,12 +6,14 @@ url: /2015/11/before-opening/
 categories:
   - Somatics 身心練習
 tags:
-  - "Bhikkhu Bodhi"
-  - "揉麵糰"
-  - "記憶"
-  - "貓大爺"
-  - "饅頭"
+  - Bhikkhu Bodhi
+  - 揉麵糰
+  - 記憶
+  - 貓大爺
+  - 饅頭
+
 ---
+
 
 差不多整整兩個月沒做饅頭了。
 

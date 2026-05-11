@@ -7,8 +7,10 @@ categories:
   - Bhavana 靜坐
   - Buddhism 佛教>Theravada 上座部佛教
 tags:
-  - "sati"
+  - sati
+
 ---
+
 
 前幾天在臉書上開玩笑地寫了幾句話：
 

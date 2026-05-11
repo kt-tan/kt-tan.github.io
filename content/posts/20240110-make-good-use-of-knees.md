@@ -7,9 +7,10 @@ categories:
   - School 教學特色
   - Sensibility / Observation 感受 / 覺察
 tags:
-  - "姿勢"
-  - "覺察"
+  - 覺察
+
 ---
+
 
 ![](/images/dogs-and-sign.jpg)
 

@@ -7,9 +7,11 @@ categories:
   - Somatics 身心練習
   - Yoga 瑜伽
 tags:
-  - "慣性"
-  - "舒適圈"
+  - 慣性
+  - 舒適圈
+
 ---
+
 
 ![](/images/comfort-zone-cat.jpg)
 

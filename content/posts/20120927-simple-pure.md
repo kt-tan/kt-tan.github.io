@@ -6,9 +6,11 @@ url: /2012/09/simple-pure/
 categories:
   - Bhavana 靜坐
 tags:
-  - "yoganidra"
-  - "站椿"
+  - yoganidra
+  - 站椿
+
 ---
+
 
 "This isn't sexy at all!" 他聽到這樣的抱怨。
 

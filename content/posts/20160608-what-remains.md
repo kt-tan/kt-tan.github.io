@@ -6,8 +6,10 @@ url: /2016/06/what-remains/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
 tags:
-  - "trikonasana"
+  - trikonasana
+
 ---
+
 
 前兩天的[「來當激 / 基進份子吧！」](https://kt-lab.tw/radical/)裡面留了個問題沒仔細講：每一個 asana 最根本的、最不可或缺的要素是什麼？
 

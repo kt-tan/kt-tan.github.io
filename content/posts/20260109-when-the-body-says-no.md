@@ -7,8 +7,10 @@ categories:
   - Somatics 身心練習
 tags:
   - 瑜伽老師讀什麼書
-  - "瑜伽老師讀什麼書"
+  - 瑜伽老師讀什麼書
+
 ---
+
 
 ![](/images/IMG_7803.jpg)
 

@@ -6,9 +6,11 @@ url: /2019/07/emotion-switch/
 categories:
   - Yoga 瑜伽
 tags:
-  - "emotion"
-  - "情緒"
+  - emotion
+  - 情緒
+
 ---
+
 
 我自己時不時就會回到一個很根本的問題：「情緒，到底是什麼？」或者，「情緒，到底從哪裡生出來的？」
 

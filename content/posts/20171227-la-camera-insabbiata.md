@@ -6,8 +6,10 @@ url: /2017/12/la-camera-insabbiata/
 categories:
   - Practice Notes 練習日記
 tags:
-  - "yoganidra"
+  - yoganidra
+
 ---
+
 
 冷天早晨，我鋪好瑜珈墊，簡單的暖身動作。站姿，拜日式輕緩的跳躍，靠牆不靠牆的倒立。身體慢慢變暖。直覺告訴我，再過一會兒應該會想靜坐。於是在幾組淺淺的後彎動作之後，又再多加了一兩組深一點的髖關節動作。
 

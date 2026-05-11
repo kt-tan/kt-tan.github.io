@@ -6,10 +6,12 @@ url: /2015/12/cling-to-discomfort/
 categories:
   - Buddhism 佛教
 tags:
-  - "dukkha"
-  - "痛苦"
-  - "習慣"
+  - dukkha
+  - 痛苦
+  - 習慣
+
 ---
+
 
 [![](http://www.popspotsnyc.com/The_Scream/the_scream_400.JPG)](http://www.popspotsnyc.com/The_Scream/)
 

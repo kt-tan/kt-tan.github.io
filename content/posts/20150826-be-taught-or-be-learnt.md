@@ -7,10 +7,12 @@ categories:
   - Bhavana 靜坐
   - Somatics 身心練習
 tags:
-  - "T. K. V. Desikachar"
-  - "teaching"
-  - "脈輪"
+  - T. K. V. Desikachar
+  - teaching
+  - 脈輪
+
 ---
+
 
 “Meditation can’t be taught, but can be learnt.” – TKV Desikachar
 
