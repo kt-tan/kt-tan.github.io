@@ -5,7 +5,7 @@ site: kt-lab
 url: /2026/04/sixteen-steps
 categories:
   - Bhavana 靜坐
-  - Buddhism 佛教>Theravada 上座部佛教
+  - Buddhism 佛教
 tags:
   - 十六勝行
   - 安般念

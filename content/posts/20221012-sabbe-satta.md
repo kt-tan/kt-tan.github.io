@@ -5,7 +5,7 @@ site: kt-lab
 url: /2022/10/sabbe-satta/
 categories:
   - Unlearn 重新學習
-  - Buddhism 佛教>Theravada 上座部佛教
+  - Buddhism 佛教
   - Yoga 瑜伽
 ---
 

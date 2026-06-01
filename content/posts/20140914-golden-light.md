@@ -5,7 +5,7 @@ site: kt-lab
 url: /2014/09/golden-light/
 categories:
   - Bhavana 靜坐
-  - Buddhism 佛教>Theravada 上座部佛教
+  - Buddhism 佛教
 tags:
   - 神蹟
 

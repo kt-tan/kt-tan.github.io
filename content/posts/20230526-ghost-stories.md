@@ -4,7 +4,7 @@ date: 2023-05-26
 site: kt-lab
 url: /2023/05/ghost-stories/
 categories:
-  - Buddhism 佛教>Theravada 上座部佛教
+  - Buddhism 佛教
   - Yoga 瑜伽
 ---
 

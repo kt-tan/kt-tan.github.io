@@ -4,7 +4,7 @@ date: 2026-05-04
 site: kt-lab
 url: /2026/05/satiate-nibbida
 categories:
-  - Buddhism 佛教>Theravada 上座部佛教
+  - Buddhism 佛教
   - Sensibility / Observation 感受 / 覺察
 tags:
   - 手機

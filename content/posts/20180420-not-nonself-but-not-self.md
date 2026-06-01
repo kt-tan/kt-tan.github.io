@@ -5,7 +5,7 @@ site: kt-lab
 url: /2018/04/not-nonself-but-not-self/
 categories:
   - Terminology 說文解字
-  - Buddhism 佛教>Theravada 上座部佛教
+  - Buddhism 佛教
 ---
 
 關於「定型」，之前讀到一段[有趣的故事](https://www.thenewslens.com/article/90176)，作家史蒂芬．金這樣說：

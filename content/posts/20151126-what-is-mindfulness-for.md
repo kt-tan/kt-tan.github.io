@@ -5,7 +5,7 @@ site: kt-lab
 url: /2015/11/what-is-mindfulness-for/
 categories:
   - Bhavana 靜坐
-  - Buddhism 佛教>Theravada 上座部佛教
+  - Buddhism 佛教
 tags:
   - sati
 

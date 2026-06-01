@@ -5,7 +5,7 @@ site: kt-lab
 url: /2025/07/simple-but-deep-happiness/
 categories:
   - Bhavana 靜坐
-  - Buddhism 佛教>Theravada 上座部佛教
+  - Buddhism 佛教
   - Yoga 瑜伽
 ---
 

@@ -4,7 +4,7 @@ date: 2018-10-11
 site: kt-lab
 url: /2018/10/they-are-there/
 categories:
-  - Buddhism 佛教>Theravada 上座部佛教
+  - Buddhism 佛教
 tags:
   - 咒語
 

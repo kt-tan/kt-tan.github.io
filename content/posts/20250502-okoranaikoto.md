@@ -4,7 +4,7 @@ date: 2025-05-02
 site: kt-lab
 url: /2025/05/okoranaikoto/
 categories:
-  - Buddhism 佛教>Theravada 上座部佛教
+  - Buddhism 佛教
   - Practice Notes 練習日記
 tags:
 

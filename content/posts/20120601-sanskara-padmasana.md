@@ -5,7 +5,7 @@ site: kt-lab
 url: /2012/06/sanskara-padmasana/
 categories:
   - Yoga 瑜伽>Asana 瑜伽動作練習
-  - Buddhism 佛教>Theravada 上座部佛教
+  - Buddhism 佛教
 tags:
   - dukkha
   - jainism
