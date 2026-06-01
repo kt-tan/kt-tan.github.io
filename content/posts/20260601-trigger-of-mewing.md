@@ -1,6 +1,6 @@
 ---
-title: 2026-06-01 情緒一上來，就來練舌抵上顎
-date: 2026-05-31
+title: 情緒一上來，就來練舌抵上顎
+date: 2026-06-01
 site: kt-lab
 url: /2026/06/trigger-of-mewing
 categories:
