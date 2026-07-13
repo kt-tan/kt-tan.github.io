@@ -2,28 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kt-lab.tw/categories/</loc>
+    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/categories/classroom-%E6%95%99%E5%AE%A4/</loc>
+    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/</loc>
+    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/posts/</loc>
+    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/categories/school-%E6%95%99%E5%AD%B8%E7%89%B9%E8%89%B2/</loc>
+    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/tags/</loc>
+    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/2026/07/dont-get-injured/</loc>
+    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/tags/%E7%B7%9A%E4%B8%8A%E8%AA%B2/</loc>
+    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/tags/%E8%B7%B3%E8%88%9E/</loc>
+    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/tags/%E9%81%8B%E5%8B%95%E5%82%B7%E5%AE%B3/</loc>
+    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kt-lab.tw/categories/bhavana-%E9%9D%9C%E5%9D%90/</loc>
     <lastmod>2026-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kt-lab.tw/categories/buddhism-%E4%BD%9B%E6%95%99/</loc>
     <lastmod>2026-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kt-lab.tw/categories/</loc>
-    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kt-lab.tw/</loc>
-    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kt-lab.tw/tags/mewing/</loc>
     <lastmod>2026-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kt-lab.tw/posts/</loc>
-    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kt-lab.tw/categories/sensibility-/-observation-%E6%84%9F%E5%8F%97-/-%E8%A6%BA%E5%AF%9F/</loc>
-    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kt-lab.tw/tags/</loc>
     <lastmod>2026-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kt-lab.tw/2026/06/trigger-of-mewing/</loc>
@@ -46,9 +64,6 @@
   </url><url>
     <loc>https://kt-lab.tw/tags/%E9%9B%86%E6%B3%95/</loc>
     <lastmod>2026-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kt-lab.tw/categories/school-%E6%95%99%E5%AD%B8%E7%89%B9%E8%89%B2/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kt-lab.tw/categories/yoga-%E7%91%9C%E4%BC%BDasana-%E7%91%9C%E4%BC%BD%E5%8B%95%E4%BD%9C%E7%B7%B4%E7%BF%92/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
@@ -1624,9 +1639,6 @@
   </url><url>
     <loc>https://kt-lab.tw/2017/12/la-camera-insabbiata/</loc>
     <lastmod>2017-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kt-lab.tw/categories/classroom-%E6%95%99%E5%AE%A4/</loc>
-    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kt-lab.tw/2017/12/solstice-historja/</loc>
     <lastmod>2017-12-25T00:00:00+00:00</lastmod>
