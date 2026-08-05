@@ -1,5 +1,5 @@
 // 動作總表離線快取。每次轉檔會換 CACHE 名稱，舊快取自動清掉。
-const CACHE = "asana-38e286a33a1d";
+const CACHE = "asana-f52ee909667e";
 const FILES = ["./", "./index.html"];
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));
