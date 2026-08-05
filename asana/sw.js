@@ -1,17 +1,15 @@
-// 動作總表離線快取。每次轉檔會換 CACHE 名稱，舊快取自動清掉。
-const CACHE = "asana-f52ee909667e";
-const FILES = ["./", "./index.html"];
-self.addEventListener("install", e => {
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));
-});
+// 自我了斷用。動作總表 2026-08-05 從 /asana/ 搬到 /repertoire/，
+// 舊的 service worker 是快取優先，不主動拆掉的話舊網址會永遠吐快取裡的舊頁面。
+// 瀏覽器每次導航都會比對 sw.js 有沒有變，變了就裝新的——也就是這一支——
+// 它一啟用就清掉所有 asana- 開頭的快取、把自己註銷，然後叫所有分頁重新載入，
+// 重新載入時拿到的就是網路上的轉址頁。
+self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", e => {
-  e.waitUntil(caches.keys()
-    .then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k))))
-    .then(() => self.clients.claim()));
-});
-self.addEventListener("fetch", e => {
-  if (e.request.method !== "GET") return;
-  const url = new URL(e.request.url);
-  if (url.origin !== location.origin) return;   // YouTube 搜尋等外部連結不攔
-  e.respondWith(caches.match(e.request).then(r => r || fetch(e.request)));
+  e.waitUntil((async () => {
+    const keys = await caches.keys();
+    await Promise.all(keys.filter(k => k.startsWith("asana-")).map(k => caches.delete(k)));
+    await self.registration.unregister();
+    const clients = await self.clients.matchAll({ type: "window" });
+    clients.forEach(c => c.navigate(c.url));
+  })());
 });
