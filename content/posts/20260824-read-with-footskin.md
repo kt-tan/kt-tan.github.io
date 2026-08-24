@@ -1,6 +1,6 @@
 ---
 title: 用雙腳的皮膚來閱讀
-date: 2026-08-31
+date: 2026-08-24
 site: kt-lab
 url: /2026/08/read-with-footskin
 categories:
