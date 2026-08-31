@@ -1,6 +1,6 @@
 ---
 title: 不掉進故事裡
-date: 2026-08-21
+date: 2026-08-31
 site: kt-lab
 url: /2026/08/dont-get-sucked-into-stories
 categories:
