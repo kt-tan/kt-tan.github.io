@@ -1,8 +1,8 @@
 ---
 title: 不掉進故事裡
-date: 2026-09-01
+date: 2026-08-21
 site: kt-lab
-url: /2026/09/dont-get-sucked-into-stories
+url: /2026/08/dont-get-sucked-into-stories
 categories:
   - Bhavana 靜坐
   - Buddhism 佛教
