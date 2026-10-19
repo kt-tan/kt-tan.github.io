@@ -2,28 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kt-lab.tw/categories/</loc>
+    <lastmod>2026-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/</loc>
+    <lastmod>2026-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/posts/</loc>
+    <lastmod>2026-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/tags/</loc>
+    <lastmod>2026-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/categories/unlearn-%E9%87%8D%E6%96%B0%E5%AD%B8%E7%BF%92/</loc>
+    <lastmod>2026-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/categories/yoga-%E7%91%9C%E4%BC%BD/</loc>
+    <lastmod>2026-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/tags/%E5%95%9F%E8%92%99/</loc>
+    <lastmod>2026-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/2026/10/Shounen-yo-shinwa-ni-nare/</loc>
+    <lastmod>2026-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-lab.tw/tags/%E9%96%8B%E6%82%9F/</loc>
+    <lastmod>2026-10-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kt-lab.tw/categories/bhavana-%E9%9D%9C%E5%9D%90/</loc>
     <lastmod>2026-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kt-lab.tw/categories/buddhism-%E4%BD%9B%E6%95%99/</loc>
     <lastmod>2026-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kt-lab.tw/categories/</loc>
-    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kt-lab.tw/</loc>
-    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kt-lab.tw/posts/</loc>
-    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kt-lab.tw/tags/sunyata/</loc>
-    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kt-lab.tw/tags/</loc>
-    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kt-lab.tw/categories/unlearn-%E9%87%8D%E6%96%B0%E5%AD%B8%E7%BF%92/</loc>
     <lastmod>2026-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kt-lab.tw/2026/08/dont-get-sucked-into-stories/</loc>
@@ -244,9 +256,6 @@
   </url><url>
     <loc>https://kt-lab.tw/2026/03/built-to-move/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kt-lab.tw/categories/yoga-%E7%91%9C%E4%BC%BD/</loc>
-    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kt-lab.tw/2026/03/a-library-book/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
